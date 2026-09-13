@@ -39,3 +39,10 @@ portefeuille-posities.*
 # Feedback is prive bronmateriaal, ongeacht de map, hoofdletters of prefix.
 # Git-ignore verwijdert geen al gevolgde bestanden of bestaande geschiedenis.
 *[Ff][Ee][Ee][Dd][Bb][Aa][Cc][Kk]*
+
+# Jekyll (GitHub Pages), als iemand ooit lokaal bouwt
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/

@@ -334,7 +334,7 @@ Elke post komt één keer voor. Een leaseverplichting die al in de kasstroom is 
 
 Correctie van 12 september 2026: dit hoofdstuk beschrijft het model nu als winstmodel met kasstroomconversie in plaats van een opbouw van de vrije kasstroom regel voor regel. De secties over de jaarrekening onder IFRS en US GAAP en over leases zijn nieuw. De rekenvoorbeelden zijn ongewijzigd.
 
-Deze pagina gaat over mijn persoonlijke methode en is educatie, geen persoonlijk beleggingsadvies. Je beslist zelf; beleggen brengt risico mee.
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
 ---
 
