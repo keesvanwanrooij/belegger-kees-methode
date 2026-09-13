@@ -6,11 +6,13 @@ De [instellingen per universum](screeners.md) zijn een werkinstructie voor de aa
 
 De [screeningfilosofie](../../02-Manifesto/03-Screening-Systeem.md) legt uit waarom ik zo selecteer; de [werkwijze voor het screenen](../../03-Analyseproces/01-Screenen.md) legt uit hoe een ronde verloopt.
 
+Een screener geeft mij een lijst, geen vergelijking. Daarom sorteer ik de uitkomst op de kolom Industry, zodat vergelijkbare bedrijven onder elkaar staan, en leg ik hun groei, marges en waardering naast elkaar. Wat opvalt, bekijk ik op Seeking Alpha en op de investor-relationspagina van het bedrijf. Wil ik meer weten, dan laat ik een AI-model de laatste jaarverslagen vergelijken met [prompt 13](../AI-Prompts/prompts-library.md#13-bedrijven-in-één-industrie-vergelijken). Wat elke industrie kenmerkt, staat in [Sectoren en industrieën](../Sectoren/README.md).
+
 Ik streef naar een ronde per kwartaal, met jaarlijks als minimum. Zolang er voldoende kansrijke kandidaten liggen, kan ik die eerst afwerken. Mijn levende screeningronden en ruwe exports blijven in de werkmap.
 
 ## Verder lezen
 
-[Resources](../README.md) · [De Belegger Kees Methode](../../README.md) · [Templates](../Templates/README.md)
+[Resources](../README.md) · [De Belegger Kees Methode](../../README.md) · [Templates](../Templates/README.md) · [Sectoren en industrieën](../Sectoren/README.md)
 
 ---
 

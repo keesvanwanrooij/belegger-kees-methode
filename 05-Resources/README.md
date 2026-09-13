@@ -4,7 +4,8 @@ Hier vind je materiaal waarmee je de Belegger Kees Methode kunt toepassen en bet
 
 - [Templates](Templates/README.md): vijf Excel-werkboeken en twee Word-sjablonen, als werkversie.
 - [Screeners](Screeners/README.md): zeven universums en drie landenlijsten in TradingView, met filters en kolommen.
-- [AI-prompts](AI-Prompts/README.md): twaalf prompts, één per taak in het analyseproces.
+- [Sectoren en industrieën](Sectoren/README.md): alle 21 sectoren en 130 industrieën uit TradingView, met hun kenmerken en waar ik als belegger op let.
+- [AI-prompts](AI-Prompts/README.md): dertien prompts, één per taak in het analyseproces.
 - [Analistenonderzoek](Analistenonderzoek.md): openbare dekking, achtergrond en vragen onderzoeken.
 - [Begrippen en NLP-achtergrond](Begrippen/README.md): geschiedenis, stromingen en de koppeling met de methode.
 - [Hulpmiddelen in ontwikkeling](Hulpmiddelen/README.md): de Belegger Kees Insider Screener en open onderzoeksvragen.
