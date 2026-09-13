@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: De Belegger Kees Methode
+message: >-
+  Als je deze methode gebruikt, overneemt of eruit citeert, gebruik dan
+  onderstaande vermelding.
+type: dataset
+authors:
+  - given-names: Kees
+    name-particle: van
+    family-names: Wanrooij
+    affiliation: Belegger Kees
+    website: https://beleggerkees.nl
+    email: info@beleggerkees.nl
+abstract: >-
+  De persoonlijke werkwijze van Kees van Wanrooij voor fundamentele
+  aandelenanalyse, waardering, beleggingspsychologie en praktische NLP.
+  De methode beschrijft screening, snelle en uitgebreide analyse,
+  instappen, onderhoud en terugkijken. Tien directe No Go checks en zes
+  aanvullende onderzoeksvragen zijn richtlijnen zonder verplichte
+  puntentelling. Het DCF-model gebruikt jaar 0 en elf prognosejaren met
+  een exit P/E op de winst van jaar 11 en Gordon Growth als controle. De
+  werkset bestaat uit vijf Excel-werkboeken en twee Word-sjablonen die als
+  werkversie in de repository staan. De documentatie, templates en prompts
+  zijn werkversies, geen persoonlijk beleggingsadvies of rendementsbelofte.
+keywords:
+  - beleggen
+  - aandelenanalyse
+  - fundamentele analyse
+  - GARP
+  - groei tegen een redelijke prijs
+  - DCF
+  - beleggingspsychologie
+  - NLP voor beleggers
+  - neurolinguïstisch programmeren
+  - aandelen screenen
+  - vermogensopbouw
+license: CC-BY-SA-4.0
+repository-code: https://github.com/keesvanwanrooij/belegger-kees-methode
+url: https://beleggerkees.nl
+version: 1.3.0
+date-released: '2026-09-12'
