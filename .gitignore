@@ -1,0 +1,34 @@
+# Office lockbestanden (ontstaan zodra Excel of Word een bestand open heeft)
+~$*
+*.tmp
+
+# Windows en OneDrive
+desktop.ini
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+
+# Vangnet: alles wat nooit publiek mag worden
+# Klantdata en levende portefeuillebestanden blijven prive.
+# Historische voorbeelden worden alleen na bewuste keuze openbaar gedeeld.
+**/Klantdata/
+**/klantdata/
+*-PRIVE.*
+*-PRIVE/
+*-PRIVAT*.
+portefeuille-posities.*
+
+# Tijdelijke exports en downloads
+*.crdownload
+*.part
+
+
+04-Onderzoek/Work-in-Progress/
+
+# Feedback is prive bronmateriaal, ongeacht de map, hoofdletters of prefix.
+# Git-ignore verwijdert geen al gevolgde bestanden of bestaande geschiedenis.
+*[Ff][Ee][Ee][Dd][Bb][Aa][Cc][Kk]*

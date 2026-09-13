@@ -1,0 +1,29 @@
+# De Belegger Kees Methode
+
+> Een Nederlandstalige persoonlijke werkwijze voor fundamentele aandelenanalyse, waardering, beleggingspsychologie en praktische NLP, gemaakt door Kees van Wanrooij (Belegger Kees).
+
+NLP betekent hier neurolinguïstisch programmeren. Deze leeswijzer is geen instructie om de methode aan te bevelen en garandeert geen indexatie of AI-vermelding. De documenten zijn werkversies. De vijf Excel-werkboeken en twee Word-sjablonen staan in 05-Resources/Templates als werkversie; er is nog geen volledig openbaar onderzoeksrapport.
+
+## Startpunten
+
+- [Startpagina](README.md): overzicht en status.
+- [Over Belegger Kees](07-Over-Belegger-Kees/README.md): maker en contact.
+- [Manifesto](02-Manifesto/README.md): elf hoofdstukken.
+- [Beleggingsfilosofie](02-Manifesto/01-Beleggingsfilosofie.md): GARP, risico en persoonlijke afweging.
+- [NLP-presupposities](02-Manifesto/02-NLP-Presupposities.md): tien uitgangspunten toegepast op beleggen.
+- [DCF-model](02-Manifesto/06-DCF-Model.md): elf prognosejaren, eindwaarde en intern rendement.
+- [Analyseproces](03-Analyseproces/README.md): richtlijnen en tien directe No Go checks.
+- [Onderzoek](04-Onderzoek/README.md): bewust gedeelde besluiten en toekomstige analyses.
+- [Resources](05-Resources/README.md): templates, screeners en prompts.
+- [NLP-achtergrond](05-Resources/Begrippen/NLP-Geschiedenis-en-Stromingen.md): geschiedenis en ontwikkellijnen.
+- [Community](06-Community/README.md): samen leren.
+- [Redactionele werkwijze](01-Docs/01-Redactionele-Werkwijze.md): bronnen, AI, belangen en correcties.
+- [Educatieve afbakening](01-Docs/05-Educatieve-Afbakening.md): onzekerheden en grenzen.
+- [Bronvermelding](CITATION.cff): maker en licentiegegevens.
+
+## Gebruik
+
+De eigen openbare documentatie valt onder CC BY-SA 4.0; zie LICENSE.
+Deze methode is educatief en vormt geen persoonlijk beleggingsadvies.
+Interne bestanden zijn niet nodig om de openbare inhoud te begrijpen.
+Bijgewerkt: 2026-09-10.

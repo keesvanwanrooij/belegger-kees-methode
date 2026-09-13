@@ -1,0 +1,10 @@
+# Office bestanden zijn binair. Git moet ze niet proberen te mergen.
+*.xlsx binary
+*.xlsm binary
+*.docx binary
+*.pptx binary
+*.pdf binary
+
+# Tekst normaliseren
+*.md text eol=lf
+*.txt text eol=lf
