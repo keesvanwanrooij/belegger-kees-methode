@@ -120,8 +120,8 @@ Bijgewerkt op 10 september 2026: de verplichte puntenscore en automatische uitsl
 
 > In English: A quick analysis helps Kees rank investment research candidates by expected return, risk and the value of further investigation. Six stages structure the work. A pre-mortem explores a plausible adverse outcome before deeper research.
 
-Deze pagina gaat over mijn persoonlijke methode en is educatie, geen persoonlijk beleggingsadvies. Je beslist zelf; beleggen brengt risico mee.
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

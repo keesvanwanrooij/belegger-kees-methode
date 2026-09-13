@@ -145,8 +145,8 @@ Ik kan vervolgens beslissen verder te onderzoeken, te blijven volgen of mijn aan
 
 > In English: Kees investigates a company through nine connected research phases. Financial modelling, analyst coverage, management communication and scenario analysis improve the comparison of expected return and risk. Research depth varies with the opportunity and unresolved questions.
 
-Deze pagina gaat over mijn persoonlijke methode en is educatie, geen persoonlijk beleggingsadvies. Je beslist zelf; beleggen brengt risico mee.
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

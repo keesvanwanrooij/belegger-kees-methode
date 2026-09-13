@@ -1,0 +1,46 @@
+# Jekyll/GitHub Pages configuration for De Belegger Kees Methode.
+# See 00-Merkgids/07-Vindbaarheid.md for the reasoning behind these choices.
+
+title: "De Belegger Kees Methode"
+description: >-
+  Een Nederlandstalige persoonlijke werkwijze voor fundamentele
+  aandelenanalyse, waardering, beleggingspsychologie en praktische NLP,
+  gemaakt door Kees van Wanrooij (Belegger Kees).
+author: Kees van Wanrooij
+lang: nl_NL
+
+# Provisional: no custom domain has been chosen yet (see
+# 00-Merkgids/07-Vindbaarheid.md, "Wat nog niet is gedaan"). This assumes
+# the default GitHub Pages project-site URL. Update both lines and add a
+# CNAME file once a domain is chosen; robots.txt's Sitemap line must match.
+url: "https://keesvanwanrooij.github.io"
+baseurl: "/belegger-kees-methode"
+
+remote_theme: pmarsceill/just-the-docs
+color_scheme: light
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Rewrites links between .md files (e.g. "../07-Over-Belegger-Kees/README.md")
+# to the pages Jekyll actually builds, instead of leaving them as dead links.
+relative_links:
+  enabled: true
+  collections: true
+
+# Lets every folder's README.md serve as that folder's index page, so the
+# existing README-per-folder convention needs no separate index.md files.
+readme_index:
+  with_frontmatter: false
+
+# Agent- and repo-maintenance files: useful in a clone, not reader content.
+exclude:
+  - CLAUDE.md
+  - AGENTS.md
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
