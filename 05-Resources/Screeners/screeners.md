@@ -10,6 +10,8 @@ De instellingen zijn werkhypothesen, geen gemeten optimale filters. Ik pas ze aa
 
 TradingView werkt met twee lagen. Boven de tabel staan de filters die bepalen welke bedrijven in de lijst komen. Een deel staat er standaard, zoals Mkt cap, P/E, Revenue growth, Sector en Div yield %; de rest voeg je toe met de plusknop, waarna je de filter op naam zoekt. In de tabel staan de kolommen die per bedrijf zichtbaar zijn; die filteren niet, maar laten mij in één blik zien wat voor bedrijf het is. De landen kies je met de marktknop linksboven, met de vlag erop.
 
+Na het filteren klik ik op de kolomkop Industry, zodat de lijst op industrie gesorteerd staat. Vergelijkbare bedrijven staan dan onder elkaar, en de kolommen hieronder heb ik gekozen om ze naast elkaar te kunnen leggen. Hoe ik daarna vergelijk, staat onder [Van lijst naar vergelijking](#van-lijst-naar-vergelijking).
+
 Ik sla per universum één screener op met een herkenbare naam, zoals BK A Snelle groeiers of BK Land Nederland. Heeft een universum twee varianten, dan sla ik ze allebei op: BK C1 en BK C2, BK G1 en BK G2.
 
 Drie dingen controleer ik voordat ik een lijst vertrouw.
@@ -82,7 +84,7 @@ Deze kolommen zet ik in elke screener, zodat ik een bedrijf kan plaatsen zonder 
 | Dividend yield % | Dividendrendement |
 | Perf % | Koersverandering, dit jaar en over een jaar; een aandeel dat hard is gedaald verdient de vraag waarom |
 | Price × average volume | Gemiddelde dagomzet in geld; onder ongeveer 1 miljoen dollar per dag wordt handelbaarheid een vraag |
-| Sector en Industry | De FactSet-indeling die TradingView gebruikt; zie de sectortabel onderaan |
+| Sector en Industry | De FactSet-indeling die TradingView gebruikt; ik sorteer op Industry om vergelijkbare bedrijven onder elkaar te zetten, en de sectortabel staat onderaan |
 | Upcoming earnings date | Wanneer het volgende cijferbericht komt |
 | Analyst rating | Consensus van analisten, als die er is; een signaal dat het bedrijf dekking heeft, geen oordeel |
 
@@ -109,7 +111,7 @@ Een bedrijf dat net winstgevend wordt, valt hier vaak af op nettomarge of koers-
 
 ## B. Cyclische bedrijven
 
-Dit is het vangnet voor bedrijven waarvan omzet en winst vooral de prijs van een grondstof volgen: olie, gas en kolen, metalen en mijnbouw, landbouwgrondstoffen zoals palmolie, basischemie, papier en de vrachttarieven in de scheepvaart. Hun omzet volgt de prijs van hun product meer dan hun eigen plannen, en daarom horen ze niet tussen de groeiers.
+Dit is het vangnet voor bedrijven waarvan omzet en winst vooral de prijs van een grondstof volgen: olie, gas en kolen, metalen en mijnbouw, landbouwgrondstoffen zoals palmolie, basischemie, papier en de vrachttarieven in de scheepvaart. Daarnaast staan hier de industrieën die vooral de rente en de economische cyclus volgen: auto's, toeleveranciers van autofabrikanten, woningbouw, metaalbewerking en zware machines voor bouw, mijnbouw en landbouw. Hun omzet volgt de prijs van hun product of de fase van de cyclus meer dan hun eigen plannen, en daarom horen ze niet tussen de groeiers.
 
 | Filter in TradingView | Instelling |
 | --- | --- |
@@ -120,7 +122,7 @@ Dit is het vangnet voor bedrijven waarvan omzet en winst vooral de prijs van een
 | Free cash flow margin % (TTM) | Meer dan 0 procent |
 | Current ratio | Meer dan 1 |
 | Price to earnings ratio | Geen filter |
-| Sector en Industry | Precies deze industrieën: Energy Minerals (Oil & Gas Production, Integrated Oil, Oil Refining/Marketing, Coal); Non-Energy Minerals (Steel, Aluminum, Precious Metals, Other Metals/Minerals, Forest Products, Construction Materials); Industrial Services (Contract Drilling, Oilfield Services/Equipment); Process Industries (Chemicals: Major Diversified, Chemicals: Agricultural, Agricultural Commodities/Milling, Pulp & Paper, Textiles); Transportation (Marine Shipping) |
+| Sector en Industry | Precies deze industrieën: Energy Minerals (Oil & Gas Production, Integrated Oil, Oil Refining/Marketing, Coal); Non-Energy Minerals (Steel, Aluminum, Precious Metals, Other Metals/Minerals, Forest Products, Construction Materials); Industrial Services (Contract Drilling, Oilfield Services/Equipment); Process Industries (Chemicals: Major Diversified, Chemicals: Agricultural, Agricultural Commodities/Milling, Pulp & Paper, Textiles); Transportation (Marine Shipping); Producer Manufacturing (Metal Fabrication, Auto Parts: OEM, Trucks/Construction/Farm Machinery); Consumer Durables (Motor Vehicles, Homebuilding) |
 
 Bij een cyclisch bedrijf misleidt de koers-winstverhouding. Aan de top van de cyclus is de winst hoog en de P/E laag; dat is het moment waarop het aandeel duur is. Ik filter daarom op ondernemingswaarde tegenover EBITDA, op de balans en op een positieve vrije kasstroom, en niet op P/E. Mijn parametermodel wordt hier prijs maal volume, met de prijs als variabele die ik niet kan voorspellen. Peter Lynch noemt dit de categorie waar de meeste fouten worden gemaakt: een cyclisch bedrijf behandelen als een groeier. Ik schrijf bij elke kandidaat op in welke fase van de cyclus de sector volgens mij zit en waarom.
 
@@ -243,15 +245,17 @@ TradingView deelt bedrijven in met de sector- en industrie-indeling van FactSet,
 | Health Technology | Pharmaceuticals: Major, Pharmaceuticals: Other, Pharmaceuticals: Generic, Biotechnology, Medical Specialties | G |
 | Health Services | Hospital/Nursing Management, Managed Health Care, Medical/Nursing Services | C |
 | Health Services | Services to the Health Industry | A, D, E, F |
-| Consumer Services | Restaurants, Hotels/Resorts/Cruiselines, Movies/Entertainment, Other Consumer Services, Publishing, Broadcasting, Cable/Satellite TV, Media Conglomerates | A, D, E, F |
+| Consumer Services | Restaurants, Hotels/Resorts/Cruise lines, Movies/Entertainment, Other Consumer Services, Publishing: Books/Magazines, Publishing: Newspapers, Broadcasting, Cable/Satellite TV, Media Conglomerates | A, D, E, F |
 | Consumer Services | Casinos/Gaming | C |
-| Retail Trade | Food Retail, Drugstore Chains, Department Stores, Discount Stores, Apparel/Footwear Retail, Home Improvement Chains, Electronics/Appliance Stores, Specialty Stores, Catalogs/Specialty Distribution, Internet Retail | A, D, E, F |
-| Consumer Durables | Motor Vehicles, Automotive Aftermarket, Homebuilding, Home Furnishings, Electronics/Appliances, Tools & Hardware, Recreational Products, Other Consumer Specialties | A, D, E, F; Homebuilding en Motor Vehicles bewegen met de economie, dus bij die bedrijven kies ik de Lynch-categorie in de snelle analyse met extra zorg |
-| Consumer Non-Durables | Food, Beverages, Household/Personal Care, Apparel/Footwear, Consumer Sundries | A, D, E, F |
+| Retail Trade | Food Retail, Drugstore Chains, Department Stores, Discount Stores, Apparel/Footwear Retail, Home Improvement Chains, Electronics/Appliance Stores, Specialty Stores, Catalog/Specialty Distribution, Internet Retail | A, D, E, F |
+| Consumer Durables | Automotive Aftermarket, Home Furnishings, Electronics/Appliances, Tools & Hardware, Recreational Products, Other Consumer Specialties | A, D, E, F |
+| Consumer Durables | Motor Vehicles, Homebuilding | B; ze volgen de rente en de economische cyclus |
+| Consumer Non-Durables | Food: Major Diversified, Food: Specialty/Candy, Food: Meat/Fish/Dairy, Beverages: Alcoholic, Beverages: Non-Alcoholic, Household/Personal Care, Apparel/Footwear, Consumer Sundries | A, D, E, F |
 | Consumer Non-Durables | Tobacco | C |
 | Commercial Services | Miscellaneous Commercial Services, Advertising/Marketing Services, Commercial Printing/Forms, Financial Publishing/Services, Personnel Services | A, D, E, F |
 | Distribution Services | Wholesale Distributors, Food Distributors, Electronics Distributors, Medical Distributors | A, D, E, F |
-| Producer Manufacturing | Metal Fabrication, Industrial Machinery, Auto Parts: OEM, Building Products, Electrical Products, Office Equipment/Supplies, Miscellaneous Manufacturing, Industrial Conglomerates, Trucks/Construction/Farm Machinery | A, D, E, F |
+| Producer Manufacturing | Industrial Machinery, Building Products, Electrical Products, Office Equipment/Supplies, Miscellaneous Manufacturing, Industrial Conglomerates | A, D, E, F; bij Industrial Machinery en Building Products kies ik de Lynch-categorie in de snelle analyse met extra zorg |
+| Producer Manufacturing | Metal Fabrication, Auto Parts: OEM, Trucks/Construction/Farm Machinery | B |
 | Process Industries | Chemicals: Specialty, Industrial Specialties, Containers/Packaging | A, D, E, F; hier helpt mijn achtergrond in chemische technologie |
 | Process Industries | Chemicals: Major Diversified, Chemicals: Agricultural, Agricultural Commodities/Milling, Pulp & Paper, Textiles | B |
 | Industrial Services | Engineering & Construction | A, D, E, F |
@@ -264,16 +268,113 @@ TradingView deelt bedrijven in met de sector- en industrie-indeling van FactSet,
 | Transportation | Railroads, Airlines, Other Transportation | C |
 | Transportation | Marine Shipping | B |
 | Transportation | Air Freight/Couriers, Trucking | A, D, E, F |
-| Finance | Alle industrieën: banken, verzekeraars, vermogensbeheer, Finance/Rental/Leasing, Real Estate Development, Real Estate Investment Trusts | Uit in alle universums; zichtbaar in de landenlijsten |
+| Finance | Alle 14 industrieën: Major Banks, Regional Banks, Savings Banks, Property/Casualty Insurance, Multi-Line Insurance, Life/Health Insurance, Specialty Insurance, Insurance Brokers/Services, Investment Managers, Investment Banks/Brokers, Financial Conglomerates, Finance/Rental/Leasing, Real Estate Development, Real Estate Investment Trusts | Uit in alle universums; zichtbaar in de landenlijsten |
 | Miscellaneous | Miscellaneous, Investment Trusts/Mutual Funds | Uit, ook in de landenlijsten |
+| Government | Sovereign | Uit, ook in de landenlijsten; alleen gezien in India |
+
+Wat elke sector en industrie kenmerkt en waar ik als belegger op let, staat in [Sectoren en industrieën](../Sectoren/README.md).
 
 Deze indeling is mijn vertrekpunt. Kom ik een bedrijf tegen dat volgens de indeling in een universum hoort maar er naar mijn inschatting niet past, of andersom, dan noteer ik dat in het screeningtemplate en pas ik de indeling in een volgende ronde bewust aan.
+
+## Wat ik aan- of uitvink per universum
+
+Ik werk hiervoor alleen met het filter **Industry** en laat het standaardfilter Sector leeg. Industry voeg ik toe met de plusknop: zoeken op "Industry", onder Security info. Een leeg filter laat alles door, precies alsof alles is aangevinkt. Zodra ik één vakje aanvink, laat het filter alleen nog de aangevinkte industrieën door. Zet ik ook iets in het Sector-filter, dan moet een bedrijf aan allebei voldoen, en dan zijn fouten lastig terug te vinden.
+
+Daaruit volgt de snelste route:
+
+- **Bij een universum dat de meeste industrieën wil** (A, D, E, F en de landenlijsten): onderaan op **Select all** klikken, en daarna de industrieën uit de lijst uitvinken.
+- **Bij een universum dat een handvol industrieën wil** (B, C1, C2, G1, G2): direct die industrieën aanvinken, zonder Select all.
+
+Het Sector-filter toont ook een sector Government. Van de vijf landen die ik op 13 september 2026 heb bekeken, kwam die alleen in India voor, met de industrie Sovereign en één notering. Ik vink die industrie overal uit; wat erachter zit, staat bij [Government](../Sectoren/21-Government.md) `[te controleren: of het Industry-filter deze industrie als Sovereign toont]`.
+
+De namen staan zoals het filter ze toont, met kleine letters na het eerste woord. Per sector staan ze op alfabet, zodat je ze in de lijst makkelijk terugvindt.
+
+### A. Snelle groeiers, en D, E, F met dezelfde groeisectoren
+
+Select all, en dan deze 63 industrieën uitvinken. Er blijven 67 van de 130 industrieën aan.
+
+**Hele sector uit:**
+
+- Communications: Major telecommunications, Specialty telecommunications, Wireless telecommunications.
+- Energy minerals: Coal, Integrated oil, Oil & gas production, Oil refining/marketing.
+- Finance: Finance/Rental/Leasing, Financial conglomerates, Insurance brokers/services, Investment banks/brokers, Investment managers, Life/health insurance, Major banks, Multi-line insurance, Property/casualty insurance, Real estate development, Real estate investment trusts, Regional banks, Savings banks, Specialty insurance.
+- Government: Sovereign.
+- Health technology: Biotechnology, Medical specialties, Pharmaceuticals: generic, Pharmaceuticals: major, Pharmaceuticals: other.
+- Miscellaneous: Investment trusts/mutual funds, Miscellaneous.
+- Non-energy minerals: Aluminum, Construction materials, Forest products, Other metals/minerals, Precious metals, Steel.
+- Utilities: Alternative power generation, Electric utilities, Gas distributors, Water utilities.
+
+**Deels uit, binnen een sector die verder aan blijft:**
+
+- Consumer durables: Homebuilding, Motor vehicles.
+- Consumer non-durables: Tobacco.
+- Consumer services: Casinos/gaming.
+- Electronic technology: Aerospace & defense.
+- Health services: Hospital/nursing management, Managed health care, Medical/nursing services.
+- Industrial services: Contract drilling, Environmental services, Oil & gas pipelines, Oilfield services/equipment.
+- Process industries: Agricultural commodities/milling, Chemicals: agricultural, Chemicals: major diversified, Pulp & paper, Textiles.
+- Producer manufacturing: Auto parts: OEM, Metal fabrication, Trucks/construction/farm machinery.
+- Transportation: Airlines, Marine shipping, Other transportation, Railroads.
+
+Ook Investment managers en Finance/Rental/Leasing gaan uit, al klinken ze minder als een bank. Op 13 september 2026 stonden in TradingView onder Investment managers ook Morgan Stanley, UBS en Northern Trust, en onder Finance/Rental/Leasing staat Visa naast kredietverstrekkers en verhuurbedrijven. Voor geen van die verdienmodellen werken mijn kengetallen betrouwbaar; ik zie ze in de landenlijsten.
+
+D gebruikt de marktknop op Europa en Noord-Amerika, E op alleen de Verenigde Staten, F op alle DeGiro-landen behalve de Verenigde Staten. De Industry-instelling is voor alle vier gelijk.
+
+### B. Cyclische bedrijven
+
+Geen Select all: direct deze 23 industrieën aanvinken.
+
+- Consumer durables: Homebuilding, Motor vehicles.
+- Energy minerals: Coal, Integrated oil, Oil & gas production, Oil refining/marketing.
+- Industrial services: Contract drilling, Oilfield services/equipment.
+- Non-energy minerals: Aluminum, Construction materials, Forest products, Other metals/minerals, Precious metals, Steel.
+- Process industries: Agricultural commodities/milling, Chemicals: agricultural, Chemicals: major diversified, Pulp & paper, Textiles.
+- Producer manufacturing: Auto parts: OEM, Metal fabrication, Trucks/construction/farm machinery.
+- Transportation: Marine shipping.
+
+### C1. Gereguleerd, infrastructuur
+
+Geen Select all: direct deze 12 industrieën aanvinken.
+
+- Communications: Major telecommunications, Specialty telecommunications, Wireless telecommunications.
+- Industrial services: Environmental services, Oil & gas pipelines.
+- Transportation: Airlines, Other transportation, Railroads.
+- Utilities: Alternative power generation, Electric utilities, Gas distributors, Water utilities.
+
+### C2. Gereguleerd, overheid en vergunning
+
+Geen Select all: direct deze 6 industrieën aanvinken.
+
+- Consumer non-durables: Tobacco.
+- Consumer services: Casinos/gaming.
+- Electronic technology: Aerospace & defense.
+- Health services: Hospital/nursing management, Managed health care, Medical/nursing services.
+
+### G1 en G2. Life Sciences
+
+Geen Select all: direct deze 5 industrieën aanvinken.
+
+- Health technology: Biotechnology, Medical specialties, Pharmaceuticals: generic, Pharmaceuticals: major, Pharmaceuticals: other.
+
+### Drie landenlijsten
+
+Select all, en dan 3 industrieën uitvinken: Investment trusts/mutual funds en Miscellaneous uit Miscellaneous, en Sovereign uit Government. Finance blijft hier aan, zodat ik ook banken, verzekeraars en vastgoed in Nederland, Hongkong en de Verenigde Staten zie.
+
+Wat de industrieën kenmerken en waarom ze bij een universum horen, staat per sector in [Sectoren en industrieën](../Sectoren/README.md).
 
 ## Bedrijven die een ander model vragen
 
 Banken, verzekeraars en vastgoedbedrijven laat ik buiten elk universum. Hun winst en balans werken anders, en de kengetallen die ik gebruik zeggen er weinig over. Dat zegt niet dat zulke bedrijven in het algemeen slechte beleggingen zijn.
 
 Een kleine marktkapitalisatie vraagt extra onderzoek naar informatie en handelbaarheid, geen automatische conclusie dat het bedrijf ondeugdelijk is. Een overheidsbelang maakt een onderneming evenmin tot een lege vennootschap. Een bedrijf met een tweede notering, bijvoorbeeld op Tradegate naast Hongkong, controleer ik op beide plekken op lotgrootte en spread.
+
+## Van lijst naar vergelijking
+
+Een screener geeft mij een lijst, geen vergelijking. Een nettomarge van 8 procent is hoog voor een groothandel en laag voor een softwarebedrijf, dus een kengetal zegt mij pas iets naast bedrijven met hetzelfde verdienmodel. Daarom sorteer ik de uitkomst op Industry en kijk ik per industrie wie harder groeit, wie een hogere marge haalt, wie meer vrije kasstroom overhoudt en wie lager gewaardeerd is. Wat een industrie kenmerkt en waar ik op let, staat in [Sectoren en industrieën](../Sectoren/README.md).
+
+De bedrijven die eruit springen, in positieve of negatieve zin, of die ik niet kan verklaren, zet ik op het tabblad Vergelijking van het [screeningtemplate](../Templates/README.md), met de kengetallen uit de kolommen hierboven. Twee kolommen rekenen uit hoe de omzetgroei en de nettomarge afwijken van het gemiddelde van de bedrijven die ik uit dezelfde industrie heb ingevuld. Van een of meer van die bedrijven kijk ik op Seeking Alpha en op de investor-relationspagina van het bedrijf zelf. Seeking Alpha lees ik als de mening van anderen en de investor-relationspagina als wat het bedrijf over zichzelf zegt. Geen van beide is al een controle van de cijfers.
+
+Wil ik meer weten, dan plak ik de laatste jaarverslagen van twee tot vijf bedrijven uit dezelfde industrie in een AI-model en laat ik ze vergelijken met [prompt 13](../AI-Prompts/prompts-library.md#13-bedrijven-in-één-industrie-vergelijken). Die prompt zet de cijfers uit de screener naast de cijfers uit het jaarverslag en zoekt wat de verschillen verklaart. De cijfers die mijn keuze voor een snelle analyse dragen, zoek ik daarna zelf op in het jaarverslag.
 
 ## De ronde afronden
 

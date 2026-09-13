@@ -15,6 +15,7 @@ NLP betekent hier neurolinguïstisch programmeren. Deze leeswijzer is geen instr
 - [Analyseproces](03-Analyseproces/README.md): richtlijnen en tien directe No Go checks.
 - [Onderzoek](04-Onderzoek/README.md): bewust gedeelde besluiten en toekomstige analyses.
 - [Resources](05-Resources/README.md): templates, screeners en prompts.
+- [Sectoren en industrieën](05-Resources/Sectoren/README.md): kenmerken en aandachtspunten per FactSet-sector en -industrie zoals TradingView ze toont.
 - [NLP-achtergrond](05-Resources/Begrippen/NLP-Geschiedenis-en-Stromingen.md): geschiedenis en ontwikkellijnen.
 - [Community](06-Community/README.md): samen leren.
 - [Redactionele werkwijze](01-Docs/01-Redactionele-Werkwijze.md): bronnen, AI, belangen en correcties.

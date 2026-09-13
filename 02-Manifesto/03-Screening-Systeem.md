@@ -19,14 +19,14 @@ Een universum is een groep bedrijven waarbinnen ik zoek. Universum A, de snelle 
 | Universum | Wie erin zit | Mogelijke reden voor onderwaardering |
 |---|---|---|
 | A. Snelle groeiers | Winstgevende bedrijven met hoge groei van omzet en winst, buiten de Verenigde Staten en buiten de sectoren van B, C en G | De markt schat groei, marges of houdbaarheid anders in dan ik |
-| B. Cyclische bedrijven | Bedrijven waarvan omzet en winst vooral de prijs van een grondstof volgen: olie en gas, kolen, metalen en mijnbouw, landbouwgrondstoffen zoals palmolie, basischemie, papier en scheepvaart | De markt rekent een dal in de cyclus door alsof het blijvend is |
+| B. Cyclische bedrijven | Bedrijven waarvan omzet en winst vooral de prijs van een grondstof volgen: olie en gas, kolen, metalen en mijnbouw, landbouwgrondstoffen zoals palmolie, basischemie, papier en scheepvaart; en bedrijven die vooral de rente en de economische cyclus volgen: auto's, autotoeleveranciers, woningbouw, metaalbewerking en zware machines | De markt rekent een dal in de cyclus door alsof het blijvend is |
 | C. Gereguleerde bedrijven | Bedrijven die afhangen van overheidsuitgaven, vergunningen of tarieven die een toezichthouder vaststelt: nutsbedrijven, telecom, spoor, luchtvaart en infrastructuur, pijpleidingen, afvalverwerking, defensie, ziekenhuizen en zorgverzekeraars, kansspelen en tabak | Een begrotingsbesluit, een tariefherziening of een investeringsprogramma dat de markt nog niet meeweegt |
 | D. Omzetgroei zonder winst | Bedrijven met klanten en snel groeiende omzet, maar nog zonder bestendige winst | De overgang naar winst is onzeker of wordt onvoldoende begrepen |
 | E. Amerikaanse smallcaps | Kleinere Amerikaanse bedrijven met winst en groei, met een lagere marktkapitalisatie dan in A; de sectoren van B, C en G staan standaard uit | Aandacht, liquiditeit en beschikbare informatie verschillen |
 | F. Midcaps | Bedrijven buiten de Verenigde Staten die door hun hogere marktkapitalisatie buiten A vallen | Een nieuwe markt of een veranderend bedrijfsmodel is nog onvoldoende in het beeld verwerkt |
 | G. Life Sciences | Farmacie, biotechnologie en medische technologie | De markt schat de kans op een goedkeuring of een studie-uitkomst anders in dan ik |
 
-**Cyclische bedrijven** passen niet in A, want hun omzet volgt de prijs van hun product meer dan hun eigen plannen. Aan de top van de cyclus is de winst hoog en de koers-winstverhouding laag, en juist dan is het aandeel duur. In B kijk ik daarom eerst naar de plaats in de cyclus en de balans, en pas daarna naar groei.
+**Cyclische bedrijven** passen niet in A, want hun omzet volgt de prijs van hun product of de fase van de economische cyclus meer dan hun eigen plannen. Aan de top van de cyclus is de winst hoog en de koers-winstverhouding laag, en juist dan is het aandeel duur. In B kijk ik daarom eerst naar de plaats in de cyclus en de balans, en pas daarna naar groei.
 
 **Gereguleerde bedrijven** passen niet in A, want de belangrijkste variabele ligt buiten het bedrijf: de toezichthouder bepaalt het tarief, de overheid het budget of de vergunning. Mijn parametermodel wordt hier vaak capaciteit maal tarief maal bezetting, en ik moet begrijpen wie het tarief vaststelt.
 
@@ -88,7 +88,7 @@ Een hoge waardering vraagt extra uitleg. Een lage waardering vraagt eveneens uit
 
 ## 3.4 Van de screener naar mijn kandidatenlijst
 
-Ik begin met het hoofduniversum en leg vast welke filters ik gebruik. De overige universums pak ik erbij wanneer dat zinvol is. Per naam bekijk ik de bedrijfsomschrijving en een paar kenmerken die mijn interesse bepalen.
+Ik begin met het hoofduniversum en leg vast welke filters ik gebruik. De overige universums pak ik erbij wanneer dat zinvol is. Ik sorteer de uitkomst op industrie, zodat vergelijkbare bedrijven onder elkaar staan, en vergelijk hun groei, marges en waardering met elkaar. De bedrijven die eruit springen bekijk ik op Seeking Alpha en op hun eigen investor-relationspagina. Wil ik meer weten, dan laat ik een AI-model hun laatste jaarverslagen vergelijken; de cijfers die mijn keuze dragen, controleer ik zelf.
 
 Daarna schrijf ik kort op waarom ik dit aandeel verder zou willen onderzoeken: bijvoorbeeld welke groeimogelijkheid ik zie, wat ik nog niet begrijp en of een eerste prijsvergelijking onderzoek de moeite waard maakt.
 
