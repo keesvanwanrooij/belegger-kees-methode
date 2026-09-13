@@ -34,7 +34,7 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ## Verder lezen
 
-[Sectoren en industrieën](README.md) · [Health Services](04-Health-Services.md) · [Screeners, universum G](../Screeners/screeners.md#g-life-sciences) · [Hoofdstuk 3: De zeven universums](../../02-Manifesto/03-Screening-Systeem.md#32-de-zeven-universums)
+[Sectoren en industrieën](README.md) · [Health Services](04-Health-Services.md) · [Screeners, universum G](../Screeners/screeners.md#g-life-sciences) · [Hoofdstuk 3: De acht universums](../../02-Manifesto/03-Screening-Systeem.md#32-de-acht-universums)
 
 ---
 

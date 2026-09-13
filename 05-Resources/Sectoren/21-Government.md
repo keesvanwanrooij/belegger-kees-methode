@@ -2,11 +2,11 @@
 
 Government is in de indeling die TradingView gebruikt de sector voor overheden en overheidsinstellingen zelf, en niet voor bedrijven waarin de overheid een belang heeft. Voor aandelen is het een bijna lege sector. Van de vijf landen die ik op 13 september 2026 heb bekeken, de Verenigde Staten, Hongkong, China, Duitsland en India, kwam Government alleen in India voor: één industrie en één notering, zonder marktkapitalisatie in het overzicht. India heeft veel beursgenoteerde staatsbedrijven, en die stonden er dus niet onder; een bedrijf met een overheidsbelang staat in de sector van zijn eigen activiteit. Een notering in deze sector lees ik daarom eerst als een vraag over de indeling, niet als een beleggingsidee. Waar ik op let: wat het bedrijf werkelijk doet, of er actuele cijfers en een marktkapitalisatie zijn, en of het aandeel praktisch te verhandelen is.
 
-> In English: Government is the sector for governments and government bodies themselves, not for state-owned companies, which are classified by their business. For stocks it is almost empty: on 13 September 2026 Kees found it only in India, with one industry (Sovereign) and one listing without market capitalisation. Kees unchecks it everywhere and treats any listing here as a classification question first.
+> In English: Government is the sector for governments and government bodies themselves, not for state-owned companies, which are classified by their business. For stocks it is almost empty: on 13 September 2026 Kees found it only in India, with one industry (Sovereign) and one listing without market capitalisation. Kees places it in universe C2 and treats any listing here as a classification question first.
 
 ## Hoe deze sector in mijn universums valt
 
-Government staat overal uit, ook in de drie landenlijsten. Ik werk met het Industry-filter, en daar vink ik de ene industrie van deze sector uit.
+Government staat in C2, gereguleerd, overheid en vergunning. Een overheid als uitgever lijkt het meest op de bedrijven die afhangen van overheidsbesluiten, en zo komt ook deze industrie in precies één universum terug. In de drie landenlijsten staat hij gewoon aan. In de praktijk levert dit bijna nooit een naam op.
 
 ## De industrieën
 

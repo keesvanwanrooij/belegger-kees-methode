@@ -34,11 +34,11 @@ De namen staan zoals TradingView ze in het industrieoverzicht toont. In het filt
 | 16 | [Utilities](16-Utilities.md) | 4 | C |
 | 17 | [Communications](17-Communications.md) | 3 | C |
 | 18 | [Transportation](18-Transportation.md) | 6 | A, D, E, F; B; C |
-| 19 | [Finance](19-Finance.md) | 14 | Uit; zichtbaar in de landenlijsten |
-| 20 | [Miscellaneous](20-Miscellaneous.md) | 2 | Uit |
-| 21 | [Government](21-Government.md) | 1, alleen gezien in India | Uit |
+| 19 | [Finance](19-Finance.md) | 14 | H: banken en verzekeraars in H1, vastgoed in H2, de rest in H3 |
+| 20 | [Miscellaneous](20-Miscellaneous.md) | 2 | H3 |
+| 21 | [Government](21-Government.md) | 1, alleen gezien in India | C2 |
 
-De aantallen industrieën komen uit het Amerikaanse sector- en industrieoverzicht van TradingView op 13 september 2026. Government staat niet in het Amerikaanse overzicht. Van de vijf landen die ik op 13 september 2026 heb bekeken, de Verenigde Staten, Hongkong, China, Duitsland en India, kwam die sector alleen in India voor, met één industrie en één notering. Wat A tot en met G betekenen, staat in [hoofdstuk 3](../../02-Manifesto/03-Screening-Systeem.md#32-de-zeven-universums).
+De aantallen industrieën komen uit het Amerikaanse sector- en industrieoverzicht van TradingView op 13 september 2026. Government staat niet in het Amerikaanse overzicht. Van de vijf landen die ik op 13 september 2026 heb bekeken, de Verenigde Staten, Hongkong, China, Duitsland en India, kwam die sector alleen in India voor, met één industrie en één notering. Wat A tot en met H betekenen, staat in [hoofdstuk 3](../../02-Manifesto/03-Screening-Systeem.md#32-de-acht-universums).
 
 ## Wat je hier niet vindt
 

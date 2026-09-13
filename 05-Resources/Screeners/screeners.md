@@ -1,8 +1,8 @@
-# Zeven universums en drie landenlijsten in TradingView: zo stel ik mijn screeners in
+# Acht universums en drie landenlijsten in TradingView: zo stel ik mijn screeners in
 
 Een screener brengt duizenden beursbedrijven terug tot een lijst die ik in een middag kan doorlopen. Ik gebruik daarvoor de aandelenscreener van TradingView, met per universum een opgeslagen instelling. Hieronder staat per universum welke filters ik in de kop zet, welke kolommen ik op het scherm zet om een bedrijf te begrijpen, en welke sectoren en industrieën aan of uit staan.
 
-> In English: The Belegger Kees screening set in TradingView has seven universes. A (fast growers) is the main route; B (cyclicals), C (regulated companies), D (revenue growth without profit), E (US small caps) and F (mid caps) catch companies that A deliberately leaves out; G covers life sciences. Three country lists (Netherlands, Hong Kong, United States) sit outside the main route. Filters are working hypotheses, not optimised settings.
+> In English: The Belegger Kees screening set in TradingView has eight universes. A (fast growers) is the main route; D (revenue growth without profit), E (US small caps) and F (mid caps) use the same industries as A with different profitability, country or size filters. B (cyclicals), C (regulated companies), G (life sciences) and H (financials and real estate) catch the industries A leaves out, so every industry belongs to exactly one of A, B, C, G or H. Only E covers the United States. Three country lists (Netherlands, Hong Kong, United States) sit outside the main route. Filters are working hypotheses, not optimised settings.
 
 De instellingen zijn werkhypothesen, geen gemeten optimale filters. Ik pas ze aan als de situatie of de onderzoeksvraag verandert en schrijf op waarom. De filters mogen niet achteraf zo worden gekozen dat één vroegere winnaar er precies doorheen komt. Een ronde zonder geschikte kandidaten is een geldige uitkomst.
 
@@ -12,7 +12,7 @@ TradingView werkt met twee lagen. Boven de tabel staan de filters die bepalen we
 
 Na het filteren klik ik op de kolomkop Industry, zodat de lijst op industrie gesorteerd staat. Vergelijkbare bedrijven staan dan onder elkaar, en de kolommen hieronder heb ik gekozen om ze naast elkaar te kunnen leggen. Hoe ik daarna vergelijk, staat onder [Van lijst naar vergelijking](#van-lijst-naar-vergelijking).
 
-Ik sla per universum één screener op met een herkenbare naam, zoals BK A Snelle groeiers of BK Land Nederland. Heeft een universum twee varianten, dan sla ik ze allebei op: BK C1 en BK C2, BK G1 en BK G2.
+Ik sla per universum één screener op met een herkenbare naam, zoals BK A Snelle groeiers of BK Land Nederland. Heeft een universum meer varianten, dan sla ik ze allemaal op: BK C1 en BK C2, BK G1 en BK G2, en BK H1, BK H2 en BK H3.
 
 Drie dingen controleer ik voordat ik een lijst vertrouw.
 
@@ -29,17 +29,18 @@ Ik noteer bij elke ronde de datum, het universum, de precieze filterwaarden, het
 | Universum | Rol | Landen | Market capitalization | Sectoren |
 | --- | --- | --- | --- | --- |
 | A. Snelle groeiers | Hoofdroute | Alle DeGiro-landen behalve de Verenigde Staten | 200 miljoen tot 5 miljard dollar | De groeisectoren |
-| B. Cyclische bedrijven | Vangnet: grondstofprijzen | Alle DeGiro-landen | 200 miljoen tot 10 miljard dollar | Energie, mijnbouw, metalen, basischemie, landbouwgrondstoffen, papier, scheepvaart |
-| C. Gereguleerde bedrijven | Vangnet: overheid en toezichthouder | Alle DeGiro-landen | 500 miljoen tot 30 miljard dollar | Nuts, telecom, vervoer, pijpleidingen, afval, defensie, zorgdiensten, kansspelen, tabak |
-| D. Omzetgroei zonder winst | Vangnet: nog geen winst | DeGiro-landen in Europa en Noord-Amerika | 200 miljoen tot 5 miljard dollar | De groeisectoren |
+| B. Cyclische bedrijven | Vangnet: grondstofprijzen en de economische cyclus | Alle DeGiro-landen behalve de Verenigde Staten | 200 miljoen tot 10 miljard dollar | Energie, mijnbouw, metalen, basischemie, landbouwgrondstoffen, papier, scheepvaart, auto's, woningbouw, metaalbewerking, zware machines |
+| C. Gereguleerde bedrijven | Vangnet: overheid en toezichthouder | Alle DeGiro-landen behalve de Verenigde Staten | 500 miljoen tot 30 miljard dollar | Nuts, telecom, vervoer, pijpleidingen, afval, defensie, zorgdiensten, kansspelen, tabak, overheid |
+| D. Omzetgroei zonder winst | Vangnet: nog geen winst | DeGiro-landen in Europa, en Canada | 200 miljoen tot 5 miljard dollar | De groeisectoren |
 | E. Amerikaanse smallcaps | Vangnet: kleiner en Amerikaans | Verenigde Staten | 100 miljoen tot 2 miljard dollar | De groeisectoren |
-| F. Midcaps | Vangnet: groter en buiten de Verenigde Staten | Alle DeGiro-landen behalve de Verenigde Staten | 5 tot 30 miljard dollar | De groeisectoren |
-| G. Life Sciences | Apart universum | Alle DeGiro-landen | 200 miljoen tot 20 miljard dollar | Farmacie, biotechnologie, medische technologie |
+| F. Midcaps | Vangnet: groter | Alle DeGiro-landen behalve de Verenigde Staten | 5 tot 30 miljard dollar | De groeisectoren |
+| G. Life Sciences | Vangnet: farmacie, biotechnologie en medische technologie | Alle DeGiro-landen behalve de Verenigde Staten | 200 miljoen tot 20 miljard dollar | Farmacie, biotechnologie, medische technologie |
+| H. Financials en vastgoed | Vangnet: banken, verzekeraars, vastgoed en financiële dienstverleners | Alle DeGiro-landen behalve de Verenigde Staten | 300 miljoen tot 30 miljard dollar | Finance en Miscellaneous |
 | Landenlijst Nederland | Buiten de hoofdroute | Nederland | Geen ondergrens | Alle sectoren |
 | Landenlijst Hongkong | Buiten de hoofdroute | Hongkong | Meer dan 1 miljard dollar | Alle sectoren |
 | Landenlijst Verenigde Staten | Buiten de hoofdroute | Verenigde Staten | Meer dan 2 miljard dollar | Alle sectoren |
 
-De groeisectoren zijn alle sectoren en industrieën die niet bij B, C of G horen en niet in de rij Uit staan. Welke dat precies zijn, staat in de [sectortabel](#welke-sector-en-industrie-bij-welk-universum) onderaan.
+A, D, E en F delen dezelfde industrieën: de groeisectoren. B, C, G en H zijn de vangnetten voor de industrieën die daar niet in zitten, en elke industrie hoort bij precies één van A, B, C, G en H. Alleen E kijkt naar de Verenigde Staten. Welke industrie waar hoort, staat in de [sectortabel](#welke-sector-en-industrie-bij-welk-universum) onderaan.
 
 ## Landen en beurzen
 
@@ -47,13 +48,13 @@ Ik screen alleen op beurzen waar ik bij mijn broker gewone aandelen kan kopen. D
 
 | Groep | Land en beurs | Bij welk universum of welke lijst |
 | --- | --- | --- |
-| Kern van Europa | Nederland (Euronext Amsterdam), België (Euronext Brussel), Frankrijk (Euronext Paris), Duitsland (Xetra, Börse Frankfurt), Verenigd Koninkrijk (London Stock Exchange, inclusief AIM), Zwitserland (SIX), Oostenrijk (Wiener Börse), Ierland (Euronext Dublin) | A, B, C, D, F, G; Nederland ook in de landenlijst Nederland |
-| Noord- en Zuid-Europa | Denemarken (Nasdaq Copenhagen), Zweden (Nasdaq Stockholm), Noorwegen (Oslo Børs), Finland (Nasdaq Helsinki), Spanje (Bolsa de Madrid), Italië (Euronext Milan), Portugal (Euronext Lisbon) | A, B, C, D, F, G |
-| Oost- en Zuidoost-Europa | Polen (Warsaw Stock Exchange), Tsjechië (Prague Stock Exchange), Griekenland (Athens Stock Exchange) | A, B, C, F; kleiner en minder liquide, dus extra aandacht voor handelbaarheid |
-| Verenigde Staten | NASDAQ, NYSE, NYSE American; NYSE Arca laat ik uit, daar noteren vooral fondsen | B, C, D, E, G en de landenlijst Verenigde Staten; niet in A en F |
-| Canada | Toronto Stock Exchange, TSX Venture | A, B, C, D, F, G |
-| Hongkong | Hong Kong Stock Exchange | A, B, C, F en de landenlijst Hongkong; let op de lotgrootte |
-| Japan, Singapore, Australië | Tokyo Stock Exchange, Singapore Exchange, ASX | A, B, C, F; bij Japan let ik op verslaggeving in het Engels |
+| Kern van Europa | Nederland (Euronext Amsterdam), België (Euronext Brussel), Frankrijk (Euronext Paris), Duitsland (Xetra, Börse Frankfurt), Verenigd Koninkrijk (London Stock Exchange, inclusief AIM), Zwitserland (SIX), Oostenrijk (Wiener Börse), Ierland (Euronext Dublin) | A, B, C, D, F, G, H; Nederland ook in de landenlijst Nederland |
+| Noord- en Zuid-Europa | Denemarken (Nasdaq Copenhagen), Zweden (Nasdaq Stockholm), Noorwegen (Oslo Børs), Finland (Nasdaq Helsinki), Spanje (Bolsa de Madrid), Italië (Euronext Milan), Portugal (Euronext Lisbon) | A, B, C, D, F, G, H |
+| Oost- en Zuidoost-Europa | Polen (Warsaw Stock Exchange), Tsjechië (Prague Stock Exchange), Griekenland (Athens Stock Exchange) | A, B, C, F, G, H; kleiner en minder liquide, dus extra aandacht voor handelbaarheid |
+| Verenigde Staten | NASDAQ, NYSE, NYSE American; NYSE Arca laat ik uit, daar noteren vooral fondsen | Alleen E en de landenlijst Verenigde Staten |
+| Canada | Toronto Stock Exchange, TSX Venture | A, B, C, D, F, G, H |
+| Hongkong | Hong Kong Stock Exchange | A, B, C, F, G, H en de landenlijst Hongkong; let op de lotgrootte |
+| Japan, Singapore, Australië | Tokyo Stock Exchange, Singapore Exchange, ASX | A, B, C, F, G, H; bij Japan let ik op verslaggeving in het Engels |
 
 Wat ik bewust weglaat: Tradegate is een handelsplatform en geen thuisbeurs, dus daar screen ik niet op. Chinese A-aandelen op Shanghai of Shenzhen kan ik niet kopen. OTC-noteringen, handel buiten een gereguleerde beurs, laat ik buiten de screener; een bedrijf dat alleen daar noteert bekijk ik hoogstens via zijn thuisbeurs.
 
@@ -115,7 +116,7 @@ Dit is het vangnet voor bedrijven waarvan omzet en winst vooral de prijs van een
 
 | Filter in TradingView | Instelling |
 | --- | --- |
-| Marktknop | Alle DeGiro-landen, inclusief de Verenigde Staten |
+| Marktknop | Alle DeGiro-landen, behalve de Verenigde Staten |
 | Market capitalization | 200 miljoen tot 10 miljard dollar |
 | Enterprise value to EBITDA ratio | Tussen 0 en 7 |
 | Debt to equity ratio | Minder dan 1 |
@@ -134,7 +135,7 @@ Dit is het vangnet voor bedrijven die afhangen van overheidsuitgaven, vergunning
 
 | Filter in TradingView | C1 infrastructuur | C2 overheid en vergunning |
 | --- | --- | --- |
-| Marktknop | Alle DeGiro-landen, inclusief de Verenigde Staten | Alle DeGiro-landen, inclusief de Verenigde Staten |
+| Marktknop | Alle DeGiro-landen, behalve de Verenigde Staten | Alle DeGiro-landen, behalve de Verenigde Staten |
 | Market capitalization | 500 miljoen tot 30 miljard dollar | 500 miljoen tot 30 miljard dollar |
 | Revenue growth % (TTM, YoY) | Meer dan 3 procent | Meer dan 3 procent |
 | Net margin % (TTM) | Meer dan 3 procent | Meer dan 3 procent |
@@ -142,9 +143,9 @@ Dit is het vangnet voor bedrijven die afhangen van overheidsuitgaven, vergunning
 | Debt to equity ratio | Minder dan 2; deze bedrijven dragen structureel meer schuld | Minder dan 1 |
 | Enterprise value to EBITDA ratio | Tussen 0 en 12 | Tussen 0 en 12 |
 | Dividend yield % | Meer dan 2,5 procent | Geen filter; niet elk bedrijf keert uit |
-| Sector en Industry | Utilities (Electric Utilities, Gas Distributors, Water Utilities, Alternative Power Generation); Communications (Major Telecommunications, Specialty Telecommunications, Wireless Telecommunications); Transportation (Railroads, Airlines, Other Transportation); Industrial Services (Oil & Gas Pipelines, Environmental Services) | Electronic Technology (Aerospace & Defense); Health Services (Hospital/Nursing Management, Managed Health Care, Medical/Nursing Services); Consumer Services (Casinos/Gaming); Consumer Non-Durables (Tobacco) |
+| Sector en Industry | Utilities (Electric Utilities, Gas Distributors, Water Utilities, Alternative Power Generation); Communications (Major Telecommunications, Specialty Telecommunications, Wireless Telecommunications); Transportation (Railroads, Airlines, Other Transportation); Industrial Services (Oil & Gas Pipelines, Environmental Services) | Electronic Technology (Aerospace & Defense); Health Services (Hospital/Nursing Management, Managed Health Care, Medical/Nursing Services); Consumer Services (Casinos/Gaming); Consumer Non-Durables (Tobacco); Government (Sovereign) |
 
-Waarom deze industrieën hier staan: nuts en pijpleidingen hebben tarieven die een toezichthouder vaststelt; telecom werkt met frequenties en vergunningen; spoor, luchtvaart en luchthavens of tolwegen (Other Transportation) hangen af van concessies, landingsrechten en overheidsbeleid; afvalverwerking werkt met vergunningen en gemeentelijke contracten; defensie hangt af van begrotingen; ziekenhuizen en zorgverzekeraars van vergoedingen die de overheid regelt; kansspelen van vergunningen en kansspelbelasting; tabak van accijnzen en regelgeving.
+Waarom deze industrieën hier staan: nuts en pijpleidingen hebben tarieven die een toezichthouder vaststelt; telecom werkt met frequenties en vergunningen; spoor, luchtvaart en luchthavens of tolwegen (Other Transportation) hangen af van concessies, landingsrechten en overheidsbeleid; afvalverwerking werkt met vergunningen en gemeentelijke contracten; defensie hangt af van begrotingen; ziekenhuizen en zorgverzekeraars van vergoedingen die de overheid regelt; kansspelen van vergunningen en kansspelbelasting; tabak van accijnzen en regelgeving. Government is de sector voor overheden zelf; als aandeel komt hij bijna niet voor, maar van alle universums past hij hier het best.
 
 Mijn parametermodel is hier vaak capaciteit maal tarief maal bezetting, of bij defensie het orderboek maal de marge. Ik schrijf bij elke kandidaat op wie het tarief of het budget vaststelt en wanneer dat opnieuw wordt bekeken.
 
@@ -154,7 +155,7 @@ Dit is het vangnet voor bedrijven met klanten en snel groeiende omzet, maar nog 
 
 | Filter in TradingView | Instelling |
 | --- | --- |
-| Marktknop | De DeGiro-landen in Europa en Noord-Amerika, inclusief de Verenigde Staten |
+| Marktknop | De DeGiro-landen in Europa, en Canada; niet de Verenigde Staten |
 | Market capitalization | 200 miljoen tot 5 miljard dollar |
 | Omzet over de laatste twaalf maanden | Meer dan 50 miljoen dollar `[te controleren: filternaam voor de totale omzet]` |
 | Revenue growth % (TTM, YoY) | Meer dan 20 procent |
@@ -164,11 +165,11 @@ Dit is het vangnet voor bedrijven met klanten en snel groeiende omzet, maar nog 
 | Current ratio | Meer dan 1,5 |
 | Sector en Industry | De groeisectoren |
 
-Een positieve brutomarge betekent niet dat winstgevendheid alleen een kwestie van tijd is. Acquisitiekosten, vaste kosten, behoud van klanten en concurrentie kunnen dat pad veranderen. Bij deze bedrijven horen de financieringsvragen uit check 6 en 7 van de [No Go checks](../../03-Analyseproces/Bijlagen/02-NoGo-Checks.md) voorop. Azië en Oost-Europa laat ik hier uit, omdat de informatie over verliesgevende kleine bedrijven daar voor mij moeilijker te controleren is.
+Een positieve brutomarge betekent niet dat winstgevendheid alleen een kwestie van tijd is. Acquisitiekosten, vaste kosten, behoud van klanten en concurrentie kunnen dat pad veranderen. Bij deze bedrijven horen de financieringsvragen uit check 6 en 7 van de [No Go checks](../../03-Analyseproces/Bijlagen/02-NoGo-Checks.md) voorop. Azië en Oost-Europa laat ik hier uit, omdat de informatie over verliesgevende kleine bedrijven daar voor mij moeilijker te controleren is. De Verenigde Staten zitten alleen in E.
 
 ## E. Amerikaanse smallcaps
 
-Dit is het vangnet voor kleinere winstgevende groeibedrijven in de Verenigde Staten. A laat de Verenigde Staten uit, en hier pak ik ze met een lagere marktkapitalisatie. Een Amerikaanse notering garandeert geen volledige informatie of voldoende liquiditeit.
+Dit is het vangnet voor kleinere winstgevende groeibedrijven in de Verenigde Staten. Alle andere universums laten de Verenigde Staten uit; hier pak ik ze, met een lagere marktkapitalisatie. Een Amerikaanse notering garandeert geen volledige informatie of voldoende liquiditeit.
 
 | Filter in TradingView | Instelling |
 | --- | --- |
@@ -180,9 +181,9 @@ Dit is het vangnet voor kleinere winstgevende groeibedrijven in de Verenigde Sta
 | Earnings per share diluted growth % (TTM, YoY) | Meer dan 18 procent |
 | Net margin % (TTM) | Meer dan 5 procent |
 | Price to earnings ratio | Tussen 0 en 35 |
-| Sector en Industry | De groeisectoren. De industrieën van B, C en G staan standaard uit |
+| Sector en Industry | De groeisectoren, dezelfde industrieën als A, D en F |
 
-Waarom B, C en G hier standaard uit staan: bij de kleine Amerikaanse bedrijven zou de lijst anders volstromen met olie- en gasproducenten, regionale nutsbedrijven en biotechbedrijven, en die hebben elk hun eigen universum waarin de Verenigde Staten wel meedoen. Wil ik in een ronde toch een van die sectoren meenemen, dan zet ik hem bewust aan en noteer ik dat op het tabblad Ronde als afwijking.
+E is het enige universum met de Verenigde Staten, en het gebruikt dezelfde industrieën als A, D en F. Amerikaanse cyclische, gereguleerde en financiële bedrijven en Amerikaanse life sciences zitten dus in geen enkel universum; die zie ik alleen in de landenlijst Verenigde Staten. Wil ik in een ronde toch een van die industrieën in E meenemen, dan zet ik hem bewust aan en noteer ik dat op het tabblad Ronde als afwijking.
 
 De ondergrens van 3 dollar en de dagomzet van 1 miljoen dollar houden de allerkleinste en minst verhandelbare aandelen buiten de lijst. Bij Amerikaanse bedrijven let ik op de boekhoudstandaard: US GAAP behandelt leases en ontwikkelkosten anders dan IFRS. Wat dat voor mijn cijfers betekent staat in [hoofdstuk 6](../../02-Manifesto/06-DCF-Model.md). Een bedrijf dat in de Verenigde Staten noteert maar elders is gevestigd en daar zijn omzet haalt, bekijk ik extra kritisch op informatie en toezicht.
 
@@ -204,11 +205,11 @@ Bij een bedrijf van deze omvang is drie tot vijf keer de omzet in tien jaar zeld
 
 ## G. Life Sciences
 
-Life Sciences staat voor farmacie, biotechnologie en medische technologie. Het is een apart universum en geen onderdeel van de hoofdroute. Bij deze bedrijven kan één goedkeuring door een toezichthouder of één studie-uitkomst de koers in een dag omgooien. Ik kan de wetenschappelijke artikelen lezen, maar zelfs de onderzoekers weten niet zeker wat er uit een studie komt; daarom doen ze die studie. Wat ik heb is een vermoeden en een kansberekening, en of het een goede belegging is, volgt uit de combinatie van koers en kansberekening. Dat past niet in het winstmodel van A tot en met F, maar ik wil deze bedrijven wel kunnen zien.
+Life Sciences staat voor farmacie, biotechnologie en medische technologie. Het is een vangnet en geen onderdeel van de hoofdroute. Bij deze bedrijven kan één goedkeuring door een toezichthouder of één studie-uitkomst de koers in een dag omgooien. Ik kan de wetenschappelijke artikelen lezen, maar zelfs de onderzoekers weten niet zeker wat er uit een studie komt; daarom doen ze die studie. Wat ik heb is een vermoeden en een kansberekening, en of het een goede belegging is, volgt uit de combinatie van koers en kansberekening. Dat past niet in het winstmodel van A tot en met F, maar ik wil deze bedrijven wel kunnen zien.
 
 | Filter in TradingView | G1 met productomzet | G2 in ontwikkeling |
 | --- | --- | --- |
-| Marktknop | Alle DeGiro-landen, inclusief de Verenigde Staten | Alle DeGiro-landen, inclusief de Verenigde Staten |
+| Marktknop | Alle DeGiro-landen, behalve de Verenigde Staten | Alle DeGiro-landen, behalve de Verenigde Staten |
 | Market capitalization | 200 miljoen tot 20 miljard dollar | 200 miljoen tot 10 miljard dollar |
 | Revenue growth % (TTM, YoY) | Meer dan 10 procent | Geen filter |
 | Gross margin % (TTM) | Meer dan 50 procent | Geen filter |
@@ -218,6 +219,25 @@ Life Sciences staat voor farmacie, biotechnologie en medische technologie. Het i
 | Sector en Industry | Health Technology: Pharmaceuticals: Major, Pharmaceuticals: Other, Pharmaceuticals: Generic, Biotechnology, Medical Specialties | Dezelfde industrieën |
 
 Bij een kandidaat uit G schrijf ik op welke goedkeuring of studie-uitkomst de koers bepaalt, wanneer die wordt verwacht, welke kans ik daaraan toeken en waar die inschatting op rust, en wat de koers bij succes en bij mislukking zou betekenen. De kans komt met een bron of staat er als mijn eigen inschatting.
+
+## H. Financials en vastgoed
+
+Dit is het vangnet voor banken, verzekeraars, vastgoedbedrijven, vermogensbeheerders en andere financiële bedrijven, en voor de beursgenoteerde fondsen. Bij deze bedrijven is geld zelf de grondstof of zit de waarde in vastgoed, en daardoor zeggen de kengetallen van A weinig: schuld is voor een bank het bedrijf zelf, en een vastgoedfonds keert het grootste deel van zijn winst uit. Omdat een bank, een vastgoedfonds en een betaalnetwerk elk een ander model vragen, heeft dit universum drie opgeslagen varianten. De filters zijn een eerste werkhypothese, die ik na de eerste ronde bijstel.
+
+| Filter in TradingView | H1 banken en verzekeraars | H2 vastgoed | H3 dienstverleners en fondsen |
+| --- | --- | --- | --- |
+| Marktknop | Alle DeGiro-landen, behalve de Verenigde Staten | Alle DeGiro-landen, behalve de Verenigde Staten | Alle DeGiro-landen, behalve de Verenigde Staten |
+| Market capitalization | 500 miljoen tot 30 miljard dollar | 300 miljoen tot 10 miljard dollar | 300 miljoen tot 10 miljard dollar |
+| Price to book ratio | Tussen 0 en 1,5 | Tussen 0 en 1,2 | Geen filter |
+| Return on equity % (TTM) | Meer dan 10 procent | Geen filter | Meer dan 12 procent |
+| Price to earnings ratio | Tussen 0 en 12 | Geen filter; afschrijvingen op vastgoed maken de winst weinig zeggend | Tussen 0 en 25 |
+| Dividend yield % | Geen filter | Meer dan 4 procent | Geen filter |
+| Debt to equity ratio | Geen filter; voor een bank zegt dit weinig | Minder dan 1,5 | Minder dan 1 |
+| Revenue growth % (TTM, YoY) | Geen filter | Geen filter | Meer dan 8 procent |
+| Net margin % (TTM) | Geen filter | Geen filter | Meer dan 10 procent |
+| Sector en Industry | Finance (Major Banks, Regional Banks, Savings Banks, Property/Casualty Insurance, Multi-Line Insurance, Life/Health Insurance, Specialty Insurance) | Finance (Real Estate Investment Trusts, Real Estate Development) | Finance (Investment Managers, Investment Banks/Brokers, Insurance Brokers/Services, Financial Conglomerates, Finance/Rental/Leasing); Miscellaneous (Investment Trusts/Mutual Funds, Miscellaneous) |
+
+Mijn waardering werkt hier anders dan in [hoofdstuk 6](../../02-Manifesto/06-DCF-Model.md). Bij een bank of verzekeraar leg ik de koers-boekwaardeverhouding naast het rendement op eigen vermogen, en kijk ik naar kapitaalbuffers, kredietverliezen of de combined ratio. Bij vastgoed kijk ik naar de kasstroom uit verhuur, de bezetting en de waarde van het vastgoed min de schuld. Bij een financiële dienstverlener zonder grote eigen balans, zoals een vermogensbeheerder of een betaalnetwerk, werkt het winstmodel van A nog het best. Fondsen vallen door de groei- en margefilters van H3 meestal af; wil ik een beleggingsmaatschappij bekijken, dan zet ik die filters bewust uit en noteer ik dat als afwijking. Wat elke industrie kenmerkt, staat bij [Finance](../Sectoren/19-Finance.md) en [Miscellaneous](../Sectoren/20-Miscellaneous.md).
 
 ## Drie landenlijsten
 
@@ -229,13 +249,13 @@ De landenlijsten zijn geen universums en horen niet bij de hoofdroute. Ik volg N
 | Market capitalization | Geen ondergrens | Meer dan 1 miljard dollar | Meer dan 2 miljard dollar; kleinere bedrijven komen via D en E |
 | Price × average volume | Geen filter | Meer dan 1 miljoen dollar per dag | Geen filter |
 | Groei-, marge- en waarderingsfilters | Geen | Geen | Geen |
-| Sector en Industry | Alle sectoren, behalve Investment Trusts/Mutual Funds | Alle sectoren, behalve Investment Trusts/Mutual Funds | Alle sectoren, behalve Investment Trusts/Mutual Funds |
+| Sector en Industry | Alle industrieën, behalve de twee van Miscellaneous | Alle industrieën, behalve de twee van Miscellaneous | Alle industrieën, behalve de twee van Miscellaneous |
 
-In de landenlijsten blijven banken, verzekeraars en vastgoedbedrijven zichtbaar, omdat ze ter informatie bij het beeld van een markt horen. Ze gaan niet de methode in. Een naam uit een landenlijst die ik verder wil onderzoeken, zet ik in het screeningtemplate met de landenlijst als herkomst; daarna doorloopt hij dezelfde snelle analyse als elke andere kandidaat.
+In de landenlijsten blijven banken, verzekeraars en vastgoedbedrijven zichtbaar, omdat ze bij het beeld van een markt horen. De landenlijst Verenigde Staten is de enige plek waar ik Amerikaanse bedrijven buiten de groeisectoren van E zie. Een naam uit een landenlijst die ik verder wil onderzoeken, zet ik in het screeningtemplate met de landenlijst als herkomst; daarna doorloopt hij dezelfde snelle analyse als elke andere kandidaat.
 
 ## Welke sector en industrie bij welk universum
 
-TradingView deelt bedrijven in met de sector- en industrie-indeling van FactSet, op basis van waar het grootste deel van de omzet vandaan komt. Dit is mijn keuze per industrie. De groeisectoren zijn de rijen met A, D, E, F: die vier universums gebruiken dezelfde sectoren en verschillen in land, omvang en winstgevendheid.
+TradingView deelt bedrijven in met de sector- en industrie-indeling van FactSet, op basis van waar het grootste deel van de omzet vandaan komt. Dit is mijn keuze per industrie. De groeisectoren zijn de rijen met A, D, E, F: die vier universums gebruiken dezelfde industrieën en verschillen in land, omvang en winstgevendheid. Elke industrie hoort bij precies één van A, B, C, G en H.
 
 | Sector | Industrieën | Universum |
 | --- | --- | --- |
@@ -268,9 +288,11 @@ TradingView deelt bedrijven in met de sector- en industrie-indeling van FactSet,
 | Transportation | Railroads, Airlines, Other Transportation | C |
 | Transportation | Marine Shipping | B |
 | Transportation | Air Freight/Couriers, Trucking | A, D, E, F |
-| Finance | Alle 14 industrieën: Major Banks, Regional Banks, Savings Banks, Property/Casualty Insurance, Multi-Line Insurance, Life/Health Insurance, Specialty Insurance, Insurance Brokers/Services, Investment Managers, Investment Banks/Brokers, Financial Conglomerates, Finance/Rental/Leasing, Real Estate Development, Real Estate Investment Trusts | Uit in alle universums; zichtbaar in de landenlijsten |
-| Miscellaneous | Miscellaneous, Investment Trusts/Mutual Funds | Uit, ook in de landenlijsten |
-| Government | Sovereign | Uit, ook in de landenlijsten; alleen gezien in India |
+| Finance | Major Banks, Regional Banks, Savings Banks, Property/Casualty Insurance, Multi-Line Insurance, Life/Health Insurance, Specialty Insurance | H1 |
+| Finance | Real Estate Investment Trusts, Real Estate Development | H2 |
+| Finance | Investment Managers, Investment Banks/Brokers, Insurance Brokers/Services, Financial Conglomerates, Finance/Rental/Leasing | H3 |
+| Miscellaneous | Miscellaneous, Investment Trusts/Mutual Funds | H3; uit in de landenlijsten |
+| Government | Sovereign | C2; alleen gezien in India |
 
 Wat elke sector en industrie kenmerkt en waar ik als belegger op let, staat in [Sectoren en industrieën](../Sectoren/README.md).
 
@@ -283,9 +305,9 @@ Ik werk hiervoor alleen met het filter **Industry** en laat het standaardfilter 
 Daaruit volgt de snelste route:
 
 - **Bij een universum dat de meeste industrieën wil** (A, D, E, F en de landenlijsten): onderaan op **Select all** klikken, en daarna de industrieën uit de lijst uitvinken.
-- **Bij een universum dat een handvol industrieën wil** (B, C1, C2, G1, G2): direct die industrieën aanvinken, zonder Select all.
+- **Bij een universum dat een handvol industrieën wil** (B, C1, C2, G1, G2, H1, H2, H3): direct die industrieën aanvinken, zonder Select all.
 
-Het Sector-filter toont ook een sector Government. Van de vijf landen die ik op 13 september 2026 heb bekeken, kwam die alleen in India voor, met de industrie Sovereign en één notering. Ik vink die industrie overal uit; wat erachter zit, staat bij [Government](../Sectoren/21-Government.md) `[te controleren: of het Industry-filter deze industrie als Sovereign toont]`.
+Het Sector-filter toont ook een sector Government. Van de vijf landen die ik op 13 september 2026 heb bekeken, kwam die alleen in India voor, met de industrie Sovereign en één notering. Die industrie hoort bij C2; wat erachter zit, staat bij [Government](../Sectoren/21-Government.md) `[te controleren: of het Industry-filter deze industrie als Sovereign toont]`.
 
 De namen staan zoals het filter ze toont, met kleine letters na het eerste woord. Per sector staan ze op alfabet, zodat je ze in de lijst makkelijk terugvindt.
 
@@ -316,9 +338,9 @@ Select all, en dan deze 63 industrieën uitvinken. Er blijven 67 van de 130 indu
 - Producer manufacturing: Auto parts: OEM, Metal fabrication, Trucks/construction/farm machinery.
 - Transportation: Airlines, Marine shipping, Other transportation, Railroads.
 
-Ook Investment managers en Finance/Rental/Leasing gaan uit, al klinken ze minder als een bank. Op 13 september 2026 stonden in TradingView onder Investment managers ook Morgan Stanley, UBS en Northern Trust, en onder Finance/Rental/Leasing staat Visa naast kredietverstrekkers en verhuurbedrijven. Voor geen van die verdienmodellen werken mijn kengetallen betrouwbaar; ik zie ze in de landenlijsten.
+Ook Investment managers en Finance/Rental/Leasing gaan uit, al klinken ze minder als een bank. Op 13 september 2026 stonden in TradingView onder Investment managers ook Morgan Stanley, UBS en Northern Trust, en onder Finance/Rental/Leasing staat Visa naast kredietverstrekkers en verhuurbedrijven. Voor geen van die verdienmodellen werken mijn kengetallen betrouwbaar; ik zie ze in H3.
 
-D gebruikt de marktknop op Europa en Noord-Amerika, E op alleen de Verenigde Staten, F op alle DeGiro-landen behalve de Verenigde Staten. De Industry-instelling is voor alle vier gelijk.
+A en F gebruiken de marktknop op alle DeGiro-landen behalve de Verenigde Staten, D op Europa en Canada, en E op alleen de Verenigde Staten. De Industry-instelling is voor alle vier gelijk.
 
 ### B. Cyclische bedrijven
 
@@ -343,11 +365,12 @@ Geen Select all: direct deze 12 industrieën aanvinken.
 
 ### C2. Gereguleerd, overheid en vergunning
 
-Geen Select all: direct deze 6 industrieën aanvinken.
+Geen Select all: direct deze 7 industrieën aanvinken.
 
 - Consumer non-durables: Tobacco.
 - Consumer services: Casinos/gaming.
 - Electronic technology: Aerospace & defense.
+- Government: Sovereign.
 - Health services: Hospital/nursing management, Managed health care, Medical/nursing services.
 
 ### G1 en G2. Life Sciences
@@ -356,15 +379,34 @@ Geen Select all: direct deze 5 industrieën aanvinken.
 
 - Health technology: Biotechnology, Medical specialties, Pharmaceuticals: generic, Pharmaceuticals: major, Pharmaceuticals: other.
 
+### H1. Financials, banken en verzekeraars
+
+Geen Select all: direct deze 7 industrieën aanvinken.
+
+- Finance: Life/health insurance, Major banks, Multi-line insurance, Property/casualty insurance, Regional banks, Savings banks, Specialty insurance.
+
+### H2. Financials, vastgoed
+
+Geen Select all: direct deze 2 industrieën aanvinken.
+
+- Finance: Real estate development, Real estate investment trusts.
+
+### H3. Financials, dienstverleners en fondsen
+
+Geen Select all: direct deze 7 industrieën aanvinken.
+
+- Finance: Finance/Rental/Leasing, Financial conglomerates, Insurance brokers/services, Investment banks/brokers, Investment managers.
+- Miscellaneous: Investment trusts/mutual funds, Miscellaneous.
+
 ### Drie landenlijsten
 
-Select all, en dan 3 industrieën uitvinken: Investment trusts/mutual funds en Miscellaneous uit Miscellaneous, en Sovereign uit Government. Finance blijft hier aan, zodat ik ook banken, verzekeraars en vastgoed in Nederland, Hongkong en de Verenigde Staten zie.
+Select all, en dan alleen de 2 industrieën van Miscellaneous uitvinken: Investment trusts/mutual funds en Miscellaneous. Finance blijft hier aan, zodat ik ook banken, verzekeraars en vastgoed in Nederland, Hongkong en de Verenigde Staten zie.
 
 Wat de industrieën kenmerken en waarom ze bij een universum horen, staat per sector in [Sectoren en industrieën](../Sectoren/README.md).
 
 ## Bedrijven die een ander model vragen
 
-Banken, verzekeraars en vastgoedbedrijven laat ik buiten elk universum. Hun winst en balans werken anders, en de kengetallen die ik gebruik zeggen er weinig over. Dat zegt niet dat zulke bedrijven in het algemeen slechte beleggingen zijn.
+Banken, verzekeraars en vastgoedbedrijven hebben met H een eigen universum, omdat hun winst en balans anders werken en de kengetallen van A er weinig over zeggen. Een kandidaat uit H analyseer ik met een ander waarderingsmodel dan het winstmodel uit hoofdstuk 6.
 
 Een kleine marktkapitalisatie vraagt extra onderzoek naar informatie en handelbaarheid, geen automatische conclusie dat het bedrijf ondeugdelijk is. Een overheidsbelang maakt een onderneming evenmin tot een lege vennootschap. Een bedrijf met een tweede notering, bijvoorbeeld op Tradegate naast Hongkong, controleer ik op beide plekken op lotgrootte en spread.
 
@@ -374,7 +416,7 @@ Een screener geeft mij een lijst, geen vergelijking. Een nettomarge van 8 procen
 
 De bedrijven die eruit springen, in positieve of negatieve zin, of die ik niet kan verklaren, zet ik op het tabblad Vergelijking van het [screeningtemplate](../Templates/README.md), met de kengetallen uit de kolommen hierboven. Twee kolommen rekenen uit hoe de omzetgroei en de nettomarge afwijken van het gemiddelde van de bedrijven die ik uit dezelfde industrie heb ingevuld. Van een of meer van die bedrijven kijk ik op Seeking Alpha en op de investor-relationspagina van het bedrijf zelf. Seeking Alpha lees ik als de mening van anderen en de investor-relationspagina als wat het bedrijf over zichzelf zegt. Geen van beide is al een controle van de cijfers.
 
-Wil ik meer weten, dan plak ik de laatste jaarverslagen van twee tot vijf bedrijven uit dezelfde industrie in een AI-model en laat ik ze vergelijken met [prompt 13](../AI-Prompts/prompts-library.md#13-bedrijven-in-één-industrie-vergelijken). Die prompt zet de cijfers uit de screener naast de cijfers uit het jaarverslag en zoekt wat de verschillen verklaart. De cijfers die mijn keuze voor een snelle analyse dragen, zoek ik daarna zelf op in het jaarverslag.
+Wil ik meer weten, dan geef ik een AI-model de jaarverslagen, halfjaarberichten of presentaties van die bedrijven als pdf of link, met [prompt 13](../AI-Prompts/prompts-library.md#13-bedrijven-in-één-industrie-vergelijken). Die prompt geeft per bedrijf een snelle eerste analyse met de bear case eerst, legt de bedrijven naast elkaar en kiest welk bedrijf de beperkte plek op mijn lijst voor de snelle analyse krijgt. De cijfers die die keuze dragen, zoek ik daarna zelf op in het jaarverslag.
 
 ## De ronde afronden
 
