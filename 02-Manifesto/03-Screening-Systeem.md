@@ -12,19 +12,20 @@ Minstens één keer per jaar ververs ik mijn brede selectie. Ook eerder kan een 
 
 Ik houd bij wanneer ik de lijst heb samengesteld en welke informatie ik heb gebruikt. Zo kan ik onderscheiden of een kandidaat nog dezelfde kans vertegenwoordigt als toen ik hem vond.
 
-## 3.2 De zeven universums
+## 3.2 De acht universums
 
-Een universum is een groep bedrijven waarbinnen ik zoek. Universum A, de snelle groeiers, is mijn hoofdroute: winstgevende bedrijven met hoge groei van omzet en winst. Om A scherp te houden laat ik daar bewust bedrijven buiten, op grond van hun sector, hun land of hun omvang. De universums B tot en met F zijn de vangnetten voor die bedrijven, zodat ik ze apart kan bekijken met filters die bij hun aard passen in plaats van ze per ongeluk tussen de groeiers te vinden.
+Een universum is een groep bedrijven waarbinnen ik zoek. Universum A, de snelle groeiers, is mijn hoofdroute: winstgevende bedrijven met hoge groei van omzet en winst. Om A scherp te houden laat ik daar bewust bedrijven buiten, op grond van hun sector, hun land of hun omvang. D, E en F gebruiken dezelfde industrieën als A, maar zoeken de bedrijven die A op winst, land of omvang buiten laat. B, C, G en H zijn de vangnetten voor de industrieën die niet in A horen, zodat ik die apart kan bekijken met filters die bij hun aard passen in plaats van ze per ongeluk tussen de groeiers te vinden. Elke industrie hoort bij precies één van A, B, C, G en H. Alleen E kijkt naar de Verenigde Staten; alle andere universums laten die bewust uit.
 
 | Universum | Wie erin zit | Mogelijke reden voor onderwaardering |
 |---|---|---|
-| A. Snelle groeiers | Winstgevende bedrijven met hoge groei van omzet en winst, buiten de Verenigde Staten en buiten de sectoren van B, C en G | De markt schat groei, marges of houdbaarheid anders in dan ik |
+| A. Snelle groeiers | Winstgevende bedrijven met hoge groei van omzet en winst, buiten de Verenigde Staten en buiten de industrieën van B, C, G en H | De markt schat groei, marges of houdbaarheid anders in dan ik |
 | B. Cyclische bedrijven | Bedrijven waarvan omzet en winst vooral de prijs van een grondstof volgen: olie en gas, kolen, metalen en mijnbouw, landbouwgrondstoffen zoals palmolie, basischemie, papier en scheepvaart; en bedrijven die vooral de rente en de economische cyclus volgen: auto's, autotoeleveranciers, woningbouw, metaalbewerking en zware machines | De markt rekent een dal in de cyclus door alsof het blijvend is |
-| C. Gereguleerde bedrijven | Bedrijven die afhangen van overheidsuitgaven, vergunningen of tarieven die een toezichthouder vaststelt: nutsbedrijven, telecom, spoor, luchtvaart en infrastructuur, pijpleidingen, afvalverwerking, defensie, ziekenhuizen en zorgverzekeraars, kansspelen en tabak | Een begrotingsbesluit, een tariefherziening of een investeringsprogramma dat de markt nog niet meeweegt |
-| D. Omzetgroei zonder winst | Bedrijven met klanten en snel groeiende omzet, maar nog zonder bestendige winst | De overgang naar winst is onzeker of wordt onvoldoende begrepen |
-| E. Amerikaanse smallcaps | Kleinere Amerikaanse bedrijven met winst en groei, met een lagere marktkapitalisatie dan in A; de sectoren van B, C en G staan standaard uit | Aandacht, liquiditeit en beschikbare informatie verschillen |
+| C. Gereguleerde bedrijven | Bedrijven die afhangen van overheidsuitgaven, vergunningen of tarieven die een toezichthouder vaststelt: nutsbedrijven, telecom, spoor, luchtvaart en infrastructuur, pijpleidingen, afvalverwerking, defensie, ziekenhuizen en zorgverzekeraars, kansspelen, tabak en de sector Government | Een begrotingsbesluit, een tariefherziening of een investeringsprogramma dat de markt nog niet meeweegt |
+| D. Omzetgroei zonder winst | Bedrijven met klanten en snel groeiende omzet, maar nog zonder bestendige winst, in Europa en Canada | De overgang naar winst is onzeker of wordt onvoldoende begrepen |
+| E. Amerikaanse smallcaps | Kleinere Amerikaanse bedrijven met winst en groei, met een lagere marktkapitalisatie dan in A en dezelfde industrieën als A, D en F | Aandacht, liquiditeit en beschikbare informatie verschillen |
 | F. Midcaps | Bedrijven buiten de Verenigde Staten die door hun hogere marktkapitalisatie buiten A vallen | Een nieuwe markt of een veranderend bedrijfsmodel is nog onvoldoende in het beeld verwerkt |
 | G. Life Sciences | Farmacie, biotechnologie en medische technologie | De markt schat de kans op een goedkeuring of een studie-uitkomst anders in dan ik |
+| H. Financials en vastgoed | Banken, verzekeraars, vastgoedbedrijven, vermogensbeheerders en andere financiële dienstverleners, en beursgenoteerde fondsen | De markt prijst een tijdelijk probleem met kapitaal, rente of vastgoedwaarde alsof het blijvend is |
 
 **Cyclische bedrijven** passen niet in A, want hun omzet volgt de prijs van hun product of de fase van de economische cyclus meer dan hun eigen plannen. Aan de top van de cyclus is de winst hoog en de koers-winstverhouding laag, en juist dan is het aandeel duur. In B kijk ik daarom eerst naar de plaats in de cyclus en de balans, en pas daarna naar groei.
 
@@ -32,11 +33,11 @@ Een universum is een groep bedrijven waarbinnen ik zoek. Universum A, de snelle 
 
 **Life Sciences** is een universum apart, en het hoort niet bij mijn hoofdroute. Bij farmacie, biotechnologie en medische technologie kan één goedkeuring door een toezichthouder of één studie-uitkomst de koers in een dag omgooien. Ik kan de wetenschappelijke artikelen lezen en begrijpen, maar zelfs de onderzoekers weten niet zeker wat er uit een studie komt; daarom doen ze die studie. Ik heb een vermoeden en een kansberekening, en of het een goede belegging is, volgt uit de combinatie van koers en kansberekening. Dat past niet in het winstmodel dat ik voor A tot en met F gebruik. Ik wil deze bedrijven wel zien, en daarom hebben ze een eigen universum.
 
-Banken, verzekeraars, vermogensbeheerders en vastgoedbedrijven zitten in geen enkel universum. Hun winst en balans werken anders, en de kengetallen die ik gebruik zeggen er weinig over. Dat zegt niet dat zulke bedrijven slechte beleggingen zijn.
+**Financials en vastgoed** passen niet in A, want hun winst en balans werken anders: schuld is voor een bank het bedrijf zelf, en de waarde van een vastgoedbedrijf zit in zijn gebouwen. De kengetallen en het winstmodel die ik voor A gebruik zeggen er weinig over. Daarom hebben ze met H een eigen universum, met filters op de koers-boekwaardeverhouding, het rendement op eigen vermogen en het dividend, en een eigen manier van waarderen.
 
 ### Drie landenlijsten naast de universums
 
-Naast de zeven universums heb ik drie landenlijsten: Nederland, Hongkong en de Verenigde Staten. Die lijsten horen niet bij de hoofdroute van de methode. Ik volg deze markten uit persoonlijke interesse en heb er eigen informatiebronnen voor, en soms wil ik er zonder groeifilters een kijkje nemen. Een naam die ik daar vind, krijgt in mijn screeningbestand de landenlijst als herkomst en doorloopt daarna dezelfde snelle analyse als elke andere kandidaat.
+Naast de acht universums heb ik drie landenlijsten: Nederland, Hongkong en de Verenigde Staten. Die lijsten horen niet bij de hoofdroute van de methode. De landenlijst Verenigde Staten is de enige plek waar ik Amerikaanse bedrijven buiten de groeisectoren zie. Ik volg deze markten uit persoonlijke interesse en heb er eigen informatiebronnen voor, en soms wil ik er zonder groeifilters een kijkje nemen. Een naam die ik daar vind, krijgt in mijn screeningbestand de landenlijst als herkomst en doorloopt daarna dezelfde snelle analyse als elke andere kandidaat.
 
 Dit zijn onderzoeksvragen. Een bedrijf is niet ondergewaardeerd doordat het in een universum past. Ik kan tot dezelfde waardering komen als de markt en vervolgens een andere kandidaat kiezen.
 

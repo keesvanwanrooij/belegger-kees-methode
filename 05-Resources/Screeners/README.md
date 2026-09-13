@@ -1,8 +1,8 @@
-# Screeners, zeven universums en drie landenlijsten
+# Screeners, acht universums en drie landenlijsten
 
 Ik screen om mijn onderzoekstijd te richten. Het resultaat is een werkbare lijst van vijf tot tien kandidaten, niet een lijst aandelen die ik automatisch zou kopen.
 
-De [instellingen per universum](screeners.md) zijn een werkinstructie voor de aandelenscreener van TradingView: welke landen en beurzen, welke filters in de kop, welke kolommen op het scherm, en welke sectoren en industrieën aan of uit. Universum A, snelle groeiers, is de hoofdroute. B cyclische bedrijven, C gereguleerde bedrijven, D omzetgroei zonder winst, E Amerikaanse smallcaps en F midcaps zijn vangnetten voor bedrijven die A bewust buiten laat. G, life sciences, is een apart universum voor farmacie, biotechnologie en medische technologie. Daarnaast zijn er drie landenlijsten, Nederland, Hongkong en de Verenigde Staten, voor een kijkje buiten de hoofdroute.
+De [instellingen per universum](screeners.md) zijn een werkinstructie voor de aandelenscreener van TradingView: welke landen en beurzen, welke filters in de kop, welke kolommen op het scherm, en welke sectoren en industrieën aan of uit. Universum A, snelle groeiers, is de hoofdroute. D omzetgroei zonder winst, E Amerikaanse smallcaps en F midcaps gebruiken dezelfde industrieën als A. B cyclische bedrijven, C gereguleerde bedrijven, G life sciences en H financials en vastgoed zijn de vangnetten voor de industrieën die A buiten laat; elke industrie hoort bij precies één van A, B, C, G en H. Alleen E kijkt naar de Verenigde Staten. Daarnaast zijn er drie landenlijsten, Nederland, Hongkong en de Verenigde Staten, voor een kijkje buiten de hoofdroute.
 
 De [screeningfilosofie](../../02-Manifesto/03-Screening-Systeem.md) legt uit waarom ik zo selecteer; de [werkwijze voor het screenen](../../03-Analyseproces/01-Screenen.md) legt uit hoe een ronde verloopt.
 
