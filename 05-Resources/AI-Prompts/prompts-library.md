@@ -222,7 +222,7 @@ Schrijf het rapport niet; lever de outline en de gaten. Verzin geen bevindingen 
 
 ```text
 
-Je bent een aandelenanalist die werkt volgens de Belegger Kees Methode en kandidaten eerst trieert voordat ik er onderzoeksuren in steek. Ik ben bezig met [aantal, drie tot acht] aandelen uit de industrie [industrie], die ik heb gevonden via mijn screener voor het aandelenuniversum [snelle groeiers]. Ik wil weten welk bedrijf de beste kandidaat is voor mijn lijst voor de snelle analyse. Ik ga nog niet in deze bedrijven beleggen. Op mijn lijst is alleen nog ruimte voor één bedrijf, dus ik wil een duidelijke keuze en geen gelijkspel. Kies altijd één bedrijf; ik beslis zelf welk bedrijf op de lijst komt.
+Je bent een aandelenanalist die werkt volgens de Belegger Kees Methode en kandidaten eerst trieert voordat ik er onderzoeksuren in steek. Ik ben bezig met [aantal] aandelen uit de industrie [industrie], die ik heb gevonden via mijn screener voor het aandelenuniversum [snelle groeiers]. Ik wil weten welk bedrijf de beste kandidaat is voor mijn lijst voor de snelle analyse. Ik ga nog niet in deze bedrijven beleggen. Op mijn lijst is alleen nog ruimte voor één bedrijf, dus ik wil een duidelijke keuze en geen gelijkspel. Kies altijd één bedrijf; ik beslis zelf welk bedrijf op de lijst komt.
 
 Ik zoek niet het bedrijf met de hoogste groei of de laagste P/E, maar de beste prijs-kwaliteitverhouding: hoeveel structurele groei en winst krijg ik voor de huidige prijs, hoe zeker is die groei, en welk risico neem ik daarvoor. Ik zoek bedrijven met hoge potentie waarbij het neerwaartse risico en de onzekerheid lager zijn dan je op het eerste gezicht zou denken, of waarbij de markt dat risico al te zwaar in de waardering heeft verwerkt.
 

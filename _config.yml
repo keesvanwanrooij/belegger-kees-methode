@@ -26,7 +26,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Rewrites links between .md files (e.g. "../07-Over-Belegger-Kees/README.md")
+# Rewrites links between .md files (e.g. "../08-Over-Belegger-Kees/README.md")
 # to the pages Jekyll actually builds, instead of leaving them as dead links.
 relative_links:
   enabled: true

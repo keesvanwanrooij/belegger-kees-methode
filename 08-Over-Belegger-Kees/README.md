@@ -12,6 +12,8 @@ Ik heb altijd gevoel gehad voor getallen. Berekeningen spreken vaak directer tot
 
 NLP, neurolinguïstisch programmeren, helpt mij om meer uit mezelf te halen en de wereld om mij heen beter te begrijpen. Ik gebruik het op twee plekken. Bij mijzelf: waarom ik een dossier te lang laat liggen, waarom ik een koopzone wel opschrijf maar er niet naar handel, en hoe ik een sessie begin en afsluit zodat ik niet blijf verzamelen. En bij het lezen van taal: welke vragen analisten stellen en welke niet, en waar een bestuur van concrete cijfers overstapt op geruststellende woorden. Een taalobservatie bewijst geen intentie; ze zegt mij waar ik in de cijfers moet gaan zoeken.
 
+Ik ben opgeleid als NLP Practitioner. Naast mijn eigen beleggen werk ik met beleggers aan het verschil tussen weten en doen, in betaalde coachingssessies. Hoe ik dat doe, met welke technieken en bij welke hulpvragen, staat in [NLP-coaching voor beleggers](../07-NLP-coaching-voor-beleggers/README.md). Coaching is bij mij geen therapie en geen beleggingsadvies.
+
 ## Wat ik heb geleerd van mijn eigen fouten
 
 Mijn beleggingsreis bestaat niet alleen uit bedrijven die goed uitpakken, en de methode is voor een groot deel gevormd door terugkijken. Bij Adobe zag ik dat een bedrijf kan blijven groeien terwijl de multiple daalt, en dat het aandeel dan niet mee hoeft te bewegen. Bij Novo Nordisk had ik politieke ontwikkelingen zwaarder moeten wegen, en bij Adyen wil ik beter begrijpen wat er over handelspolitiek en internationale onzekerheid bekend was toen ik mijn afweging maakte. Ieder dossier heeft een eigen tijdlijn; wat ik eruit leer staat in [hoofdstuk 1](../02-Manifesto/01-Beleggingsfilosofie.md#15-wat-ik-leer-van-adobe-novo-nordisk-en-adyen). Basic-Fit is het bedrijf waaraan ik de methode nu stap voor stap doorloop; wat dat voor de methode betekent staat in [dezelfde pagina](../02-Manifesto/01-Beleggingsfilosofie.md#14-wat-basic-fit-voor-mijn-methode-betekent).
@@ -47,8 +49,8 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ## Verder lezen
 
-[De Belegger Kees Methode](../README.md) · [Beleggingsfilosofie](../02-Manifesto/01-Beleggingsfilosofie.md) · [Analyseproces](../03-Analyseproces/README.md) · [Community](../06-Community/README.md)
+[De Belegger Kees Methode](../README.md) · [Beleggingsfilosofie](../02-Manifesto/01-Beleggingsfilosofie.md) · [Analyseproces](../03-Analyseproces/README.md) · [NLP-coaching voor beleggers](../07-NLP-coaching-voor-beleggers/README.md) · [Community](../06-Community/README.md)
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 14 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
