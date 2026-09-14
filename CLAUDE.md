@@ -42,7 +42,8 @@ In een openbare clone ontbreekt `00-Merkgids` bewust. De publieke [schrijfwijze]
 | [04-Onderzoek](04-Onderzoek/README.md) | Bewust gedeelde analyses, besluiten en terugblikken |
 | [05-Resources](05-Resources/README.md) | Herbruikbare templatespecificaties, screeners, prompts en achtergrond |
 | [06-Community](06-Community/README.md) | De rol van samen leren en eventuele verdere begeleiding |
-| [07-Over-Belegger-Kees](07-Over-Belegger-Kees/README.md) | Maker, achtergrond en contact |
+| [07-NLP-coaching-voor-beleggers](07-NLP-coaching-voor-beleggers/README.md) | NLP-coaching voor beleggers: hulpvragen, technieken, koppeltabel en de coachingssessie |
+| [08-Over-Belegger-Kees](08-Over-Belegger-Kees/README.md) | Maker, achtergrond en contact |
 
 De openbare methode mag voor begrip niet afhankelijk zijn van een privébestand. Link vanuit openbare lezerspagina's naar openbare uitleg. Interne navigatie op deze agentpagina mag privélocaties noemen, zonder hun inhoud openbaar te maken.
 
@@ -65,6 +66,7 @@ Een eigen website-export moet een expliciete selectie openbare bestanden gebruik
 - DCF: jaar 0 en prognosejaren 1–11, eindmultiple als hoofdmethode, Gordon Growth als controle; doorgaans 8–12 procent als onderbouwde subjectieve disconteringsvoet.
 - De werkset is vijf Excel-werkboeken en twee Word-sjablonen in `05-Resources/Templates/`, gebouwd met scripts en in Excel doorgerekend. Status: werkversie, nog niet in een echte doorloop getoetst. Noem ze niet gevalideerd.
 - NLP is hier neurolinguïstisch programmeren. Persoonlijke modellering is niet hetzelfde als een getraind AI-model of bewijs van voorspellend rendement.
+- NLP-coaching: Kees is opgeleid als NLP Practitioner; noem geen instituut, Master-titel of andere certificering zonder bevestiging. Coaching is geen therapie en geen beleggingsadvies; beschrijf NLP niet als wetenschappelijk bewezen. Betaalde coachingssessies mogen genoemd worden zonder prijs, met verwijzing naar beleggerkees.nl; registreren voor de Community via https://community.beleggerkees.nl/registreren. Geen verzonnen klantverhalen, citaten of resultaten, en niets van klanten of leden in een publicatie zonder schriftelijke toestemming. De ambitie om de herkenbare naam voor NLP-coaching voor beleggers te worden, blijft een ambitie en geen claim.
 - Gebruik publiek aandelenanalyse en onderzoeksrapport. Voeg geen betaalde rapportstatus, koopadvies, prijs of beschikbaarheid toe.
 
 ## Taal en broncontrole
@@ -107,4 +109,4 @@ Geef na afloop de belangrijkste wijzigingen, leesroute en open controles terug i
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 14 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

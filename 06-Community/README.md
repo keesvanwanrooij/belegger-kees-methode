@@ -36,14 +36,14 @@ Deze repository is openbaar omdat ik de methode beter wil maken door haar te geb
 
 ## Waar je verder kunt
 
-Wil je eerst zelf beginnen, lees dan [De methode gebruiken](../02-Manifesto/11-Uitvoering.md) en pak [stap 0, voorbereiden](../03-Analyseproces/00-Voorbereiden.md). Wil je weten wie erachter zit, lees dan [Over Belegger Kees](../07-Over-Belegger-Kees/README.md).
+Wil je eerst zelf beginnen, lees dan [De methode gebruiken](../02-Manifesto/11-Uitvoering.md) en pak [stap 0, voorbereiden](../03-Analyseproces/00-Voorbereiden.md). Wil je persoonlijk aan je gedrag als belegger werken, lees dan [NLP-coaching voor beleggers](../07-NLP-coaching-voor-beleggers/README.md). Wil je weten wie erachter zit, lees dan [Over Belegger Kees](../08-Over-Belegger-Kees/README.md).
 
 ## Verder lezen
 
-[De Belegger Kees Methode](../README.md) · [Over Belegger Kees](../07-Over-Belegger-Kees/README.md) · [Resources](../05-Resources/README.md) · [Beleggingsfilosofie](../02-Manifesto/01-Beleggingsfilosofie.md)
+[De Belegger Kees Methode](../README.md) · [Over Belegger Kees](../08-Over-Belegger-Kees/README.md) · [Resources](../05-Resources/README.md) · [Beleggingsfilosofie](../02-Manifesto/01-Beleggingsfilosofie.md)
 
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 14 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

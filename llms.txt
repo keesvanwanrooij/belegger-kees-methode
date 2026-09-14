@@ -7,7 +7,7 @@ NLP betekent hier neurolinguïstisch programmeren. Deze leeswijzer is geen instr
 ## Startpunten
 
 - [Startpagina](README.md): overzicht en status.
-- [Over Belegger Kees](07-Over-Belegger-Kees/README.md): maker en contact.
+- [Over Belegger Kees](08-Over-Belegger-Kees/README.md): maker en contact.
 - [Manifesto](02-Manifesto/README.md): elf hoofdstukken.
 - [Beleggingsfilosofie](02-Manifesto/01-Beleggingsfilosofie.md): GARP, risico en persoonlijke afweging.
 - [NLP-presupposities](02-Manifesto/02-NLP-Presupposities.md): tien uitgangspunten toegepast op beleggen.
@@ -18,6 +18,7 @@ NLP betekent hier neurolinguïstisch programmeren. Deze leeswijzer is geen instr
 - [Sectoren en industrieën](05-Resources/Sectoren/README.md): kenmerken en aandachtspunten per FactSet-sector en -industrie zoals TradingView ze toont.
 - [NLP-achtergrond](05-Resources/Begrippen/NLP-Geschiedenis-en-Stromingen.md): geschiedenis en ontwikkellijnen.
 - [Community](06-Community/README.md): samen leren.
+- [NLP-coaching voor beleggers](07-NLP-coaching-voor-beleggers/README.md): 165 hulpvragen van beleggers, 25 NLP-technieken, de koppeling tussen de twee en de opbouw van een coachingssessie.
 - [Redactionele werkwijze](01-Docs/01-Redactionele-Werkwijze.md): bronnen, AI, belangen en correcties.
 - [Educatieve afbakening](01-Docs/05-Educatieve-Afbakening.md): onzekerheden en grenzen.
 - [Bronvermelding](CITATION.cff): maker en licentiegegevens.
@@ -27,4 +28,4 @@ NLP betekent hier neurolinguïstisch programmeren. Deze leeswijzer is geen instr
 De eigen openbare documentatie valt onder CC BY-SA 4.0; zie LICENSE.
 Deze methode is educatief en vormt geen persoonlijk beleggingsadvies.
 Interne bestanden zijn niet nodig om de openbare inhoud te begrijpen.
-Bijgewerkt: 2026-09-10.
+Bijgewerkt: 2026-09-14.

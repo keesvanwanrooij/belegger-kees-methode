@@ -126,7 +126,7 @@ Je kunt onderzoeken welke uitgangspunten jou helpen. Mijn methode is een persoon
 
 ## Verder lezen
 
-[Alle hoofdstukken](README.md) · [De Belegger Kees Methode](../README.md) · [Bronnen en redactionele werkwijze](../01-Docs/README.md)
+[Alle hoofdstukken](README.md) · [De Belegger Kees Methode](../README.md) · [NLP-coaching voor beleggers](../07-NLP-coaching-voor-beleggers/README.md) · [Bronnen en redactionele werkwijze](../01-Docs/README.md)
 
 
 > In English: Belegger Kees applies ten NLP presuppositions to investing. Each section explains a traditional working assumption and Kees van Wanrooij's practical interpretation. These are perspectives for reflection and learning, not predictions of investment returns.
@@ -135,4 +135,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 14 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

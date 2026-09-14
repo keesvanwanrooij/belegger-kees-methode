@@ -2,7 +2,7 @@
 
 Deze methode helpt je om beter naar aandelen te kijken. Ik combineer fundamentele analyse met NLP, neurolinguïstisch programmeren, om betere keuzes te maken. In deze repository leg ik uit hoe ik bedrijven selecteer, hun groeimogelijkheden onderzoek en het verwachte rendement afweeg tegen het risico.
 
-Ik ben [Kees van Wanrooij, de maker van Belegger Kees](07-Over-Belegger-Kees/README.md). Ik deel mijn beleggingsreis en de lessen die ik daaruit leer. Door mijn werkwijze op te schrijven maak ik ook voor mijzelf zichtbaar hoe ik denk, welke informatie ik gebruik en waar ik mijn afweging kan verbeteren.
+Ik ben [Kees van Wanrooij, de maker van Belegger Kees](08-Over-Belegger-Kees/README.md). Ik deel mijn beleggingsreis en de lessen die ik daaruit leer. Door mijn werkwijze op te schrijven maak ik ook voor mijzelf zichtbaar hoe ik denk, welke informatie ik gebruik en waar ik mijn afweging kan verbeteren.
 
 > In English: The Belegger Kees Method is Kees van Wanrooij's Dutch-language approach to fundamental stock analysis, valuation, investor psychology and practical NLP. This repository documents the method, research process and reusable resources.
 
@@ -24,7 +24,8 @@ Wil je vooral leren waarderen? Lees de [uitgebreide analyse](02-Manifesto/05-Uit
 | [04-Onderzoek](04-Onderzoek/README.md) | De plek voor bewust gedeelde analyses en terugblikken |
 | [05-Resources](05-Resources/README.md) | Screenerinstellingen, templatebeschrijvingen, AI-prompts, NLP-achtergrond en hulpmiddelen |
 | [06-Community](06-Community/README.md) | Samen leren, vragen stellen en de rol van mogelijke verdere begeleiding |
-| [07-Over-Belegger-Kees](07-Over-Belegger-Kees/README.md) | Wie ik ben, wat ik wil overbrengen en waar je mij vindt |
+| [07-NLP-coaching-voor-beleggers](07-NLP-coaching-voor-beleggers/README.md) | NLP-coaching voor beleggers: 165 hulpvragen, 25 technieken en de opbouw van een coachingssessie |
+| [08-Over-Belegger-Kees](08-Over-Belegger-Kees/README.md) | Wie ik ben, wat ik wil overbrengen en waar je mij vindt |
 
 Elke map begint met een README die je terugbrengt naar deze startpagina en naar relevante vervolgstappen. De openbare methode is zelfstandig leesbaar; interne strategie en persoonlijke werkdossiers maken geen deel uit van de publieke uitleg.
 
@@ -52,7 +53,7 @@ Er staat nog geen volledig uitgewerkt, gecontroleerd onderzoeksrapport in de ope
 
 ### Wat heeft NLP met aandelenanalyse te maken?
 
-In mijn methode gaat NLP over waarnemen, taal en mijn eigen afwegingen. Ik onderzoek bijvoorbeeld welke maatstaf ontbreekt als een bestuurder zegt dat de resultaten goed zijn. Ook kijk ik welk gevoel een aandeel bij mij oproept en welke feiten en aannames daaronder liggen. Lees de [NLP-presupposities voor beleggen](02-Manifesto/02-NLP-Presupposities.md) en de [geschiedenis en belangrijkste stromingen van NLP](05-Resources/Begrippen/NLP-Geschiedenis-en-Stromingen.md).
+In mijn methode gaat NLP over waarnemen, taal en mijn eigen afwegingen. Ik onderzoek bijvoorbeeld welke maatstaf ontbreekt als een bestuurder zegt dat de resultaten goed zijn. Ook kijk ik welk gevoel een aandeel bij mij oproept en welke feiten en aannames daaronder liggen. Lees de [NLP-presupposities voor beleggen](02-Manifesto/02-NLP-Presupposities.md) en de [geschiedenis en belangrijkste stromingen van NLP](05-Resources/Begrippen/NLP-Geschiedenis-en-Stromingen.md). Hoe ik NLP gebruik om met beleggers aan hun gedrag te werken, staat in [NLP-coaching voor beleggers](07-NLP-coaching-voor-beleggers/README.md).
 
 ### Hoe vaak screen ik aandelen?
 
@@ -86,8 +87,8 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ## Verder lezen
 
-[Alle hoofdstukken](02-Manifesto/README.md) · [Zelf aan de slag](03-Analyseproces/README.md) · [Bronnen en publicatie](01-Docs/README.md) · [Over de maker](07-Over-Belegger-Kees/README.md)
+[Alle hoofdstukken](02-Manifesto/README.md) · [Zelf aan de slag](03-Analyseproces/README.md) · [Bronnen en publicatie](01-Docs/README.md) · [NLP-coaching voor beleggers](07-NLP-coaching-voor-beleggers/README.md) · [Over de maker](08-Over-Belegger-Kees/README.md)
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 14 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
