@@ -67,7 +67,7 @@ Een ontbrekende margeverbetering is geen automatische afwijzing. Het gaat om de 
 
 Het aantal analisten is een aanwijzing voor aandacht. Het zegt niet hoeveel onderzoek iedereen doet of welke informatie al in de prijs verwerkt is.
 
-Bij de selectie noteer ik wat ik over de dekking kan vinden. In de snelle of uitgebreide analyse kijk ik verder naar de analisten zelf: welke bedrijven volgen zij en hoe goed kennen ze deze sector? Ik ga niet uit van een gegarandeerde voorsprong doordat een bedrijf kleiner is.
+Bij de selectie is de dekking een eerste indruk die ik niet apart vastleg. In de snelle of uitgebreide analyse kijk ik verder naar de analisten zelf: welke bedrijven volgen zij en hoe goed kennen ze deze sector? Ik ga niet uit van een gegarandeerde voorsprong doordat een bedrijf kleiner is.
 
 ### Insideractiviteit
 
@@ -95,7 +95,7 @@ Daarna schrijf ik kort op waarom ik dit aandeel verder zou willen onderzoeken: b
 
 De lijst bevat bij voorkeur vijf tot tien namen. Vind ik minder overtuigende kandidaten, dan laat ik het daarbij. Ik hoef de lijst niet aan te vullen om een aantal te halen.
 
-In de [screeningspecificatie](../05-Resources/Templates/README.md) staan de gegevens die ik daarvoor vastleg: identificatie van het aandeel, datum, bron, universum, reden voor interesse en de volgende onderzoeksvraag.
+In het [screeningwerkboek](../05-Resources/Templates/README.md) leg ik per kandidaat vast: ticker, DeGiro-code, land, de screener waar de naam uit komt, sector, industrie, het businessmodel in een paar woorden, de reden om verder te kijken, wat er mis kan gaan en het omzetmodel. Valuta, marktkapitalisatie, de plek van de koers tussen het laagste en hoogste punt van het afgelopen jaar en de P/E komen automatisch mee via het gegevenstype Aandelen van Excel. Meer houd ik tijdens het screenen niet bij.
 
 ## 3.5 Een bestaande kandidaat opnieuw bekijken
 
@@ -132,4 +132,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
