@@ -9,7 +9,7 @@ Ik kopieer een template naar [mijn werkmap](../../04-Onderzoek/Work-in-Progress/
 | Bestand | Stap | Wat erin zit | Staat |
 | --- | --- | --- | --- |
 | [01-Universum.xlsx](01-Universum.xlsx) | [Stap 5](../../03-Analyseproces/05-Universum-Bijhouden.md) | Eén rij per bedrijf met onderzoeksfase, reden om te volgen, gekoppelde koersdata, een mini-waardering en de koopzone bij mijn rendementseis; een overzicht met tellingen en signalen; een onderhoudslijst | Werkversie, formules gecontroleerd |
-| [02-Screening.xlsx](02-Screening.xlsx) | [Stap 1](../../03-Analyseproces/01-Screenen.md) | De ronde met incheck en uitkomst per universum; de kandidatenlijst; de vergelijking van bedrijven per industrie; de acht universums en drie landenlijsten uit de [screeners](../Screeners/screeners.md) | Werkversie, formules gecontroleerd |
+| [02-Screening.xlsx](02-Screening.xlsx) | [Stap 1](../../03-Analyseproces/01-Screenen.md) | Kandidaten met ticker, DeGiro-code, land, screener, sector, industrie, businessmodel, reden, risico en omzetmodel, met marktgegevens via het gegevenstype Aandelen; wisselkoersen op Fiat; een automatisch overzicht op Ronde; de acht universums en drie landenlijsten uit de [screeners](../Screeners/screeners.md) | Werkversie, in gebruik bij de ronde van september 2026 |
 | [03-Snelle-Analyse.xlsx](03-Snelle-Analyse.xlsx) | [Stap 2](../../03-Analyseproces/02-Snel-Analyseren.md) | De zes fasen van de snelle analyse, de zestien checks, de verkorte omgekeerde DCF en de pre-mortem | Werkversie, formules gecontroleerd |
 | [04-Uitgebreide-Analyse.xlsx](04-Uitgebreide-Analyse.xlsx) | [Stap 3](../../03-Analyseproces/03-Uitgebreid-Analyseren.md) en [4](../../03-Analyseproces/04-Waarderen.md) | Historie, ondernemingswaarde, drie scenario's, het model uit hoofdstuk 6.7, gevoeligheid, rode vlaggen, analisten, technisch en instap, controles | Werkversie, formules gecontroleerd |
 | [05-Portefeuille.xlsx](05-Portefeuille.xlsx) | [Stap 6](../../03-Analyseproces/06-Kopen-Aanhouden-Verkopen.md) | Posities met these, verkoopregel en signalen; transacties; cash en inleg | Werkversie, formules gecontroleerd |
@@ -21,6 +21,8 @@ Werkversie betekent: de formules zijn in Excel doorgerekend en gecontroleerd met
 ## Wat alle werkboeken gemeen hebben
 
 Lichtblauw is een invoercel, geen kleur is een formule en lichtgeel is een controlecel die In orde toont of een melding geeft. Grijs is een kopregel. Alleen de kopregel staat vast; de uitleg staat op Lees mij.
+
+Het screeningwerkboek wijkt daarvan af. Dat heb ik zelf ingericht zoals ik een ronde werkelijk doe: geen kleurcodes, geen keuzelijsten en geen velden die mij tijdens het screenen niet helpen kiezen. Ik vul alleen Kandidaten in; Ronde rekent zichzelf uit.
 
 Tekstcellen waarin ik drie tot vijf zinnen schrijf, zoals een antwoord, een reden of een these, zijn breed en hebben tekstterugloop. Ze groeien mee als ik meer schrijf.
 
@@ -48,4 +50,4 @@ Een werkboek dat rekent is nog geen goede analyse. De formules controleren de re
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

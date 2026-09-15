@@ -36,7 +36,7 @@ Scheid strikt gerapporteerde feiten (met bron, periode, valuta en definitie), ei
 | 10 | Analisten: NLP-analyse van één analist | Stap 3, fase 3 en 7 | Tabblad Analisten, deel C |
 | 11 | Nieuws | [Stap 5](../../03-Analyseproces/05-Universum-Bijhouden.md) en [stap 6](../../03-Analyseproces/06-Kopen-Aanhouden-Verkopen.md) | Het universumbestand en de signalen per positie |
 | 12 | Onderzoeksrapport voorbereiden | [Stap 7](../../03-Analyseproces/07-Rapporteren-Publiceren.md) | De outline van het rapport |
-| 13 | Bedrijven in één industrie vergelijken | [Stap 1](../../03-Analyseproces/01-Screenen.md), na het sorteren op industrie | Per bedrijf een snelle eerste analyse, de vergelijking en de keuze welke kandidaat naar de snelle analyse gaat, op de tabbladen Vergelijking en Kandidaten van het screeningwerkboek |
+| 13 | Bedrijven in één industrie vergelijken | [Stap 1](../../03-Analyseproces/01-Screenen.md), na het sorteren op industrie | Per bedrijf een snelle eerste analyse, de vergelijking en de keuze welke kandidaat naar de snelle analyse gaat, in de kolommen Business model, Reden om verder te kijken, Wat kan er mis gaan? en Omzet model op het tabblad Kandidaten van het screeningwerkboek |
 
 ## 1. Business snapshot
 
@@ -221,8 +221,7 @@ Schrijf het rapport niet; lever de outline en de gaten. Verzin geen bevindingen 
 ## 13. Bedrijven in één industrie vergelijken
 
 ```text
-
-Je bent een aandelenanalist die werkt volgens de Belegger Kees Methode en kandidaten eerst trieert voordat ik er onderzoeksuren in steek. Ik ben bezig met [aantal] aandelen uit de industrie [industrie], die ik heb gevonden via mijn screener voor het aandelenuniversum [snelle groeiers]. Ik wil weten welk bedrijf de beste kandidaat is voor mijn lijst voor de snelle analyse. Ik ga nog niet in deze bedrijven beleggen. Op mijn lijst is alleen nog ruimte voor één bedrijf, dus ik wil een duidelijke keuze en geen gelijkspel. Kies altijd één bedrijf; ik beslis zelf welk bedrijf op de lijst komt.
+Je bent een aandelenanalist die werkt volgens de Belegger Kees Methode. Help mij de meest kansrijke bedrijven te selecteren voordat ik ongeveer twintig uur aan diepgaand onderzoek besteed. Ik ben bezig met [aantal] aandelen uit de industrie [industrie], die ik heb gevonden via mijn screener voor het aandelenuniversum [snelle groeiers]. Ik wil weten welk bedrijf de beste kandidaat is voor mijn lijst voor de snelle analyse. Ik ga nog niet in deze bedrijven beleggen. Op mijn lijst is alleen nog ruimte voor één bedrijf, dus ik wil een duidelijke keuze en geen gelijkspel. Kies altijd één bedrijf; ik beslis zelf welk bedrijf op de lijst komt.
 
 Ik zoek niet het bedrijf met de hoogste groei of de laagste P/E, maar de beste prijs-kwaliteitverhouding: hoeveel structurele groei en winst krijg ik voor de huidige prijs, hoe zeker is die groei, en welk risico neem ik daarvoor. Ik zoek bedrijven met hoge potentie waarbij het neerwaartse risico en de onzekerheid lager zijn dan je op het eerste gezicht zou denken, of waarbij de markt dat risico al te zwaar in de waardering heeft verwerkt.
 
@@ -261,4 +260,4 @@ Na elk gebruik noteer ik in mijn werkmap de datum, de taak, wat bruikbaar was, w
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

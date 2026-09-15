@@ -10,17 +10,17 @@ Ik weet wat er aan het eind van deze sessie op papier staat, ik werk in de goede
 
 **De incheck.** Ik beantwoord de vier vragen uit de [incheckprocedure](Bijlagen/01-Incheck-Procedure.md) op papier of bovenaan het werkbestand: wat is de gewenste uitkomst, hoe bereik ik die, waaraan zie ik dat het af is, en vanuit welke houding werk ik. Screenen en snel analyseren zijn filteren. De eerste fasen van een uitgebreide analyse zijn verzamelen; daarna is het weer filteren. Schrijven is een derde houding: dan zie ik de lezer voor me.
 
-**De werkmap.** Voor elk bedrijf maak ik een map in [Work-in-Progress](../04-Onderzoek/Work-in-Progress/README.md) met de bedrijfsnaam, bijvoorbeeld `Work-in-Progress/Basic-Fit/`. Daar komen de ingevulde templates, de gedownloade bronnen en mijn notities. Een screeningronde krijgt een eigen map met de datum, bijvoorbeeld `Work-in-Progress/Screening-2026-09/`.
+**De werkmap.** Voor elk bedrijf maak ik een map in [Work-in-Progress](../04-Onderzoek/Work-in-Progress/README.md) met de bedrijfsnaam, bijvoorbeeld `Work-in-Progress/Basic-Fit/`. Daar komen de ingevulde templates, de gedownloade bronnen en mijn notities. Een screeningronde krijgt een eigen map met de datum, bijvoorbeeld `Work-in-Progress/Screening 2026-09/`.
 
 **De templates.** Ik kopieer het lege template uit [Templates](../05-Resources/Templates/README.md) naar de werkmap en geef de kopie de bedrijfsnaam: `Basic-Fit-Snelle-Analyse.xlsx`. Het lege template blijft leeg. In de kopie werk ik.
 
 **De bronnen.** Bij een screeningronde: TradingView met de opgeslagen screeners, Seeking Alpha, en een submap `Jaarverslagen/` in de map van de ronde voor de jaarverslagen die ik per industrie met AI wil vergelijken. Bij een snelle analyse: de investor-relationspagina van het bedrijf, het laatste jaarverslag, het laatste kwartaal- of halfjaarbericht, de laatste presentatie en het laatste transcript van de earnings call. Bij een uitgebreide analyse komen daar de jaarverslagen van de laatste vijf tot tien jaar bij, de calls van de laatste vier kwartalen, het beloningsverslag en wat er openbaar is over insidertransacties. Ik sla de bestanden op in de werkmap met jaar en soort in de naam, zodat ik later weet wat ik heb gelezen.
 
-**De koersdata.** Ik open de kopie van het template en koppel de cellen voor koers, marktkapitalisatie en P/E aan het gegevenstype Aandelen van Excel. Hoe dat werkt staat op het tabblad Lees mij van elk template.
+**De koersdata.** Ik open de kopie van het template en koppel de cellen voor koers, marktkapitalisatie en P/E aan het gegevenstype Aandelen van Excel. In het screeningwerkboek is dat één cel per kandidaat, in de kolom Data. Hoe dat werkt staat op het tabblad Lees mij van elk template.
 
 ## Template en tabblad
 
-Geen eigen template. De incheck staat bovenaan het tabblad Overzicht van de snelle en de uitgebreide analyse, en op het tabblad Ronde van de screening.
+Geen eigen template. De incheck staat bovenaan het tabblad Overzicht van de snelle en de uitgebreide analyse. Bij een screeningronde schrijf ik haar op papier of bovenaan mijn notities; het screeningwerkboek houdt alleen de kandidaten bij.
 
 ## Prompts
 
@@ -48,4 +48,4 @@ Een kwartier. Langer betekent meestal dat ik al aan het analyseren ben geslagen 
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

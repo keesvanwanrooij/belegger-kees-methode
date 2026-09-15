@@ -59,7 +59,7 @@ Een eigen website-export moet een expliciete selectie openbare bestanden gebruik
 
 - Alle beleggingsdrempels, aantallen en tijdsindicaties zijn richtlijnen met ruimte voor gemotiveerde afwijking. Dit is geen toestemming om feiten te verzinnen of privacycontroles over te slaan.
 - Screening: per kwartaal als doel, jaarlijks als minimum; bestaande kansrijke kandidaten mogen voorgaan. Werkbare selectie vijf tot tien namen. Acht universums: A snelle groeiers (hoofdroute), B cyclische bedrijven, C gereguleerde bedrijven, D omzetgroei zonder winst, E Amerikaanse smallcaps, F midcaps, G life sciences, H financials en vastgoed. A, D, E en F delen dezelfde industrieën; B, C, G en H zijn de vangnetten voor de rest, en elke industrie hoort bij precies één van A, B, C, G en H. Alleen E bevat de Verenigde Staten. Daarnaast drie landenlijsten (Nederland, Hongkong, Verenigde Staten) buiten de hoofdroute.
-- De Excel-werkboeken `03-Snelle-Analyse.xlsx` en `04-Uitgebreide-Analyse.xlsx` zijn door Kees met de hand aangepast. Bouw ze nooit opnieuw vanuit een script; wijzig ze in Excel zelf en houd de documentatie gelijk aan hun indeling.
+- De Excel-werkboeken `02-Screening.xlsx`, `03-Snelle-Analyse.xlsx` en `04-Uitgebreide-Analyse.xlsx` zijn door Kees met de hand aangepast. Bouw ze nooit opnieuw vanuit een script; wijzig ze in Excel zelf en houd de documentatie gelijk aan hun indeling. Het screeningwerkboek volgt zijn eigen rondebestand: alleen Kandidaten is invoer, Ronde rekent automatisch, marktgegevens komen uit het gegevenstype Aandelen, en er komen geen kleurcodes, keuzelijsten of administratievelden bij die het screenen niet helpen.
 - Tien directe No Go checks en zes aanvullende vragen, zonder verplichte totaalscore.
 - Een snelle analyse helpt kiezen waar de volgende ongeveer twintig onderzoeksuren het meest zinvol zijn.
 - Watchlist betekent een afgerond dossier met koopzone waarvan de prijs nog niet past. Onderzoeksfase en reden om te volgen blijven apart.
@@ -109,4 +109,4 @@ Geef na afloop de belangrijkste wijzigingen, leesroute en open controles terug i
 
 ---
 
-Bijgewerkt: 14 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

@@ -4,7 +4,7 @@ Ik wil vooraf kunnen beschrijven wat een bruikbare uitkomst is. Dat voorkomt dat
 
 ## Screening
 
-Ik heb doorgaans vijf tot tien kandidaten met bedrijf, ticker, beurs, datum, bron en een korte reden om verder te kijken. De ruwe lijst mag ongeveer honderd namen bevatten. Ik leg de gebruikte filters en eventuele uitzonderingen vast.
+Ik heb doorgaans vijf tot tien kandidaten met ticker, DeGiro-code, land, de screener waar de naam uit komt, sector, industrie, het businessmodel in een paar woorden, de reden om verder te kijken, wat er mis kan gaan en het omzetmodel. De ruwe lijst mag ongeveer honderd namen bevatten. Het tabblad Ronde van het screeningwerkboek toont geen kandidaten zonder reden, risico, omzetmodel of DeGiro-code. De filters staan in de opgeslagen screeners; wijk ik ervan af, dan pas ik de screenerpagina aan met de reden.
 
 Een ronde zonder geschikte kandidaten kan ook een goede uitkomst zijn. Ik pas filters niet alleen aan om de lijst alsnog te vullen. Mijn doelritme is per kwartaal, met jaarlijks als minimum en ruimte om bestaande kansen eerst af te werken.
 
@@ -52,4 +52,4 @@ Als een andere uitkomst of volgorde beter past, leg ik uit waarom. Dan blijft de
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

@@ -22,7 +22,7 @@ Drie dingen controleer ik voordat ik een lijst vertrouw.
 
 Filters met een slotje, zoals Price to earnings ratio forward en Enterprise value to EBITDA ratio forward, vragen een betaald abonnement. De instellingen hieronder gebruiken ze niet.
 
-Ik noteer bij elke ronde de datum, het universum, de precieze filterwaarden, het aantal ruwe namen en de kandidaten die overblijven. Het [screeningtemplate](../Templates/README.md) heeft daar een tabblad voor.
+De filters en kolommen staan in de opgeslagen screeners en op deze pagina; die schrijf ik niet per ronde opnieuw over. Verander ik een filter, dan pas ik deze pagina aan en zet ik de reden erbij. De kandidaten die overblijven, zet ik in het [screeningwerkboek](../Templates/README.md), met in de kolom Screener het universum of de landenlijst waar de naam uit komt.
 
 ## De indeling in één oogopslag
 
@@ -183,7 +183,7 @@ Dit is het vangnet voor kleinere winstgevende groeibedrijven in de Verenigde Sta
 | Price to earnings ratio | Tussen 0 en 35 |
 | Sector en Industry | De groeisectoren, dezelfde industrieën als A, D en F |
 
-E is het enige universum met de Verenigde Staten, en het gebruikt dezelfde industrieën als A, D en F. Amerikaanse cyclische, gereguleerde en financiële bedrijven en Amerikaanse life sciences zitten dus in geen enkel universum; die zie ik alleen in de landenlijst Verenigde Staten. Wil ik in een ronde toch een van die industrieën in E meenemen, dan zet ik hem bewust aan en noteer ik dat op het tabblad Ronde als afwijking.
+E is het enige universum met de Verenigde Staten, en het gebruikt dezelfde industrieën als A, D en F. Amerikaanse cyclische, gereguleerde en financiële bedrijven en Amerikaanse life sciences zitten dus in geen enkel universum; die zie ik alleen in de landenlijst Verenigde Staten. Wil ik in een ronde toch een van die industrieën in E meenemen, dan zet ik hem bewust aan en noteer ik dat op deze pagina als afwijking.
 
 De ondergrens van 3 dollar en de dagomzet van 1 miljoen dollar houden de allerkleinste en minst verhandelbare aandelen buiten de lijst. Bij Amerikaanse bedrijven let ik op de boekhoudstandaard: US GAAP behandelt leases en ontwikkelkosten anders dan IFRS. Wat dat voor mijn cijfers betekent staat in [hoofdstuk 6](../../02-Manifesto/06-DCF-Model.md). Een bedrijf dat in de Verenigde Staten noteert maar elders is gevestigd en daar zijn omzet haalt, bekijk ik extra kritisch op informatie en toezicht.
 
@@ -251,7 +251,7 @@ De landenlijsten zijn geen universums en horen niet bij de hoofdroute. Ik volg N
 | Groei-, marge- en waarderingsfilters | Geen | Geen | Geen |
 | Sector en Industry | Alle industrieën, behalve de twee van Miscellaneous | Alle industrieën, behalve de twee van Miscellaneous | Alle industrieën, behalve de twee van Miscellaneous |
 
-In de landenlijsten blijven banken, verzekeraars en vastgoedbedrijven zichtbaar, omdat ze bij het beeld van een markt horen. De landenlijst Verenigde Staten is de enige plek waar ik Amerikaanse bedrijven buiten de groeisectoren van E zie. Een naam uit een landenlijst die ik verder wil onderzoeken, zet ik in het screeningtemplate met de landenlijst als herkomst; daarna doorloopt hij dezelfde snelle analyse als elke andere kandidaat.
+In de landenlijsten blijven banken, verzekeraars en vastgoedbedrijven zichtbaar, omdat ze bij het beeld van een markt horen. De landenlijst Verenigde Staten is de enige plek waar ik Amerikaanse bedrijven buiten de groeisectoren van E zie. Een naam uit een landenlijst die ik verder wil onderzoeken, zet ik in het screeningwerkboek met de landenlijst in de kolom Screener; daarna doorloopt hij dezelfde snelle analyse als elke andere kandidaat.
 
 ## Welke sector en industrie bij welk universum
 
@@ -296,7 +296,7 @@ TradingView deelt bedrijven in met de sector- en industrie-indeling van FactSet,
 
 Wat elke sector en industrie kenmerkt en waar ik als belegger op let, staat in [Sectoren en industrieën](../Sectoren/README.md).
 
-Deze indeling is mijn vertrekpunt. Kom ik een bedrijf tegen dat volgens de indeling in een universum hoort maar er naar mijn inschatting niet past, of andersom, dan noteer ik dat in het screeningtemplate en pas ik de indeling in een volgende ronde bewust aan.
+Deze indeling is mijn vertrekpunt. Kom ik een bedrijf tegen dat volgens de indeling in een universum hoort maar er naar mijn inschatting niet past, of andersom, dan noteer ik dat bij de kandidaat en pas ik de indeling in een volgende ronde bewust aan.
 
 ## Wat ik aan- of uitvink per universum
 
@@ -414,13 +414,13 @@ Een kleine marktkapitalisatie vraagt extra onderzoek naar informatie en handelba
 
 Een screener geeft mij een lijst, geen vergelijking. Een nettomarge van 8 procent is hoog voor een groothandel en laag voor een softwarebedrijf, dus een kengetal zegt mij pas iets naast bedrijven met hetzelfde verdienmodel. Daarom sorteer ik de uitkomst op Industry en kijk ik per industrie wie harder groeit, wie een hogere marge haalt, wie meer vrije kasstroom overhoudt en wie lager gewaardeerd is. Wat een industrie kenmerkt en waar ik op let, staat in [Sectoren en industrieën](../Sectoren/README.md).
 
-De bedrijven die eruit springen, in positieve of negatieve zin, of die ik niet kan verklaren, zet ik op het tabblad Vergelijking van het [screeningtemplate](../Templates/README.md), met de kengetallen uit de kolommen hierboven. Twee kolommen rekenen uit hoe de omzetgroei en de nettomarge afwijken van het gemiddelde van de bedrijven die ik uit dezelfde industrie heb ingevuld. Van een of meer van die bedrijven kijk ik op Seeking Alpha en op de investor-relationspagina van het bedrijf zelf. Seeking Alpha lees ik als de mening van anderen en de investor-relationspagina als wat het bedrijf over zichzelf zegt. Geen van beide is al een controle van de cijfers.
+De vergelijking zelf doe ik in TradingView, op het gesorteerde scherm; ik neem de kengetallen niet over in een werkboek. Van de bedrijven die eruit springen, in positieve of negatieve zin, of die ik niet kan verklaren, bekijk ik er een of meer op Seeking Alpha en op de investor-relationspagina van het bedrijf zelf. Seeking Alpha lees ik als de mening van anderen en de investor-relationspagina als wat het bedrijf over zichzelf zegt. Geen van beide is al een controle van de cijfers.
 
 Wil ik meer weten, dan geef ik een AI-model de jaarverslagen, halfjaarberichten of presentaties van die bedrijven als pdf of link, met [prompt 13](../AI-Prompts/prompts-library.md#13-bedrijven-in-één-industrie-vergelijken). Die prompt geeft per bedrijf een snelle eerste analyse met de bear case eerst, legt de bedrijven naast elkaar en kiest welk bedrijf de beperkte plek op mijn lijst voor de snelle analyse krijgt. De cijfers die die keuze dragen, zoek ik daarna zelf op in het jaarverslag.
 
 ## De ronde afronden
 
-Ik noteer datum, databron, universums en landenlijsten, definities, instellingen, aantal ruwe resultaten en de uiteindelijke kandidaten. Ongeveer honderd ruwe namen zijn doorgaans genoeg om vijf tot tien kandidaten te selecteren. Kom ik ver boven de honderd uit, dan scherp ik één filter aan; kom ik onder de twintig, dan verruim ik er één, en ik schrijf op welke.
+Het tabblad Ronde van het screeningwerkboek telt de kandidaten per screener, land en sector en laat zien welke kernvelden nog ontbreken. Ongeveer honderd ruwe namen zijn doorgaans genoeg om vijf tot tien kandidaten te selecteren. Kom ik ver boven de honderd uit, dan scherp ik één filter aan; kom ik onder de twintig, dan verruim ik er één, en ik schrijf op welke.
 
 Bij elke kandidaat controleer ik bereikbaarheid, lotgrootte, spread en kosten voor mijn beoogde positie. Voor actuele handelsvoorwaarden raadpleeg ik de broker en de betreffende beurs. Historische voorbeelden zijn geen actuele orderinformatie.
 
@@ -432,4 +432,4 @@ Mijn doel is een bruikbare selectie in een middag, met screening doorgaans per k
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
