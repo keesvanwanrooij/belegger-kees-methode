@@ -99,14 +99,15 @@ Hier zoek ik winstgevende bedrijven met hoge groei van omzet en winst, in de lan
 | --- | --- |
 | Marktknop | Alle DeGiro-landen uit de tabel hierboven, behalve de Verenigde Staten |
 | Market capitalization | 200 miljoen tot 5 miljard dollar |
-| Revenue growth % (TTM, YoY) | Meer dan 12 procent |
-| Earnings per share diluted growth % (TTM, YoY) | Meer dan 18 procent |
-| Net margin % (TTM) | Meer dan 5 procent |
-| Price to earnings ratio | Tussen 0 en 35 |
-| Return on equity % (TTM) | Meer dan 12 procent; ik laat dit filter weg als de lijst te klein wordt |
+| Price × average volume, 10 dagen | Meer dan 50.000 dollar |
+| Revenue growth, 5 year CAGR | Meer dan 10 procent |
+| Net income growth % (TTM, YoY) | Meer dan 10 procent |
+| Net margin % (FY) | Meer dan 10 procent |
+| Return on equity % (TTM) | Meer dan 10 procent |
+| Price to earnings ratio | Minder dan 35 |
 | Sector en Industry | De groeisectoren uit de sectortabel |
 
-Historische groei bewijst geen toekomstige groei. Sneller stijgende winst kan door marges, belastingvoordelen, financiering of een tijdelijk lage basis komen. De screener geeft mij namen; de [snelle analyse](../../02-Manifesto/04-Snelle-Analyse.md) beoordeelt ze.
+Op 16 september 2026 heb ik deze filters bijgewerkt: de omzetgroei kijk ik nu over vijf jaar in plaats van over de laatste twaalf maanden, zodat een eenmalige piek minder telt. Winstgroei filter ik nu op de nettowinst in plaats van op de winst per aandeel, want die laatste kan door inkoop van aandelen worden vertekend. Nettomarge kijk ik nu over het boekjaar in plaats van de laatste twaalf maanden. Het rendement op eigen vermogen is niet langer optioneel. Er is een liquiditeitsfilter bijgekomen op koers maal gemiddeld volume over tien dagen, zodat de allerkleinste, moeilijk verhandelbare namen er al bij het screenen uitvallen. Historische groei bewijst geen toekomstige groei. Sneller stijgende winst kan door marges, belastingvoordelen, financiering of een tijdelijk lage basis komen. De screener geeft mij namen; de [snelle analyse](../../02-Manifesto/04-Snelle-Analyse.md) beoordeelt ze.
 
 Een bedrijf dat net winstgevend wordt, valt hier vaak af op nettomarge of koers-winstverhouding, terwijl de operationele hefboom juist dan begint. Zo'n bedrijf vind ik eerder via D of via een landenlijst.
 
@@ -432,4 +433,4 @@ Mijn doel is een bruikbare selectie in een middag, met screening doorgaans per k
 
 ---
 
-Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 16 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
