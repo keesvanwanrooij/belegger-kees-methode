@@ -10,7 +10,7 @@ Ik weet wat er aan het eind van deze sessie op papier staat, ik werk in de goede
 
 **De incheck.** Ik beantwoord de vier vragen uit de [incheckprocedure](Bijlagen/01-Incheck-Procedure.md) op papier of bovenaan het werkbestand: wat is de gewenste uitkomst, hoe bereik ik die, waaraan zie ik dat het af is, en vanuit welke houding werk ik. Screenen en snel analyseren zijn filteren. De eerste fasen van een uitgebreide analyse zijn verzamelen; daarna is het weer filteren. Schrijven is een derde houding: dan zie ik de lezer voor me.
 
-**De werkmap.** Voor elk bedrijf maak ik een map in [Work-in-Progress](../04-Onderzoek/Work-in-Progress/README.md) met de bedrijfsnaam, bijvoorbeeld `Work-in-Progress/Basic-Fit/`. Daar komen de ingevulde templates, de gedownloade bronnen en mijn notities. Een screeningronde krijgt een eigen map met de datum, bijvoorbeeld `Work-in-Progress/Screening 2026-09/`.
+**De werkmap.** Voor elk bedrijf maak ik een map in mijn privé werkmap `Work-in-Progress` met de bedrijfsnaam, bijvoorbeeld `Work-in-Progress/Basic-Fit/`. Daar komen de ingevulde templates, de gedownloade bronnen en mijn notities. Een screeningronde krijgt een eigen map met de datum, bijvoorbeeld `Work-in-Progress/Screening 2026-09/`.
 
 **De templates.** Ik kopieer het lege template uit [Templates](../05-Resources/Templates/README.md) naar de werkmap en geef de kopie de bedrijfsnaam: `Basic-Fit-Snelle-Analyse.xlsx`. Het lege template blijft leeg. In de kopie werk ik.
 
@@ -42,10 +42,12 @@ De incheck is ingevuld, de werkmap bestaat, de template-kopie heeft de bedrijfsn
 
 Een kwartier. Langer betekent meestal dat ik al aan het analyseren ben geslagen voordat ik wist wat ik zocht. Dan ga ik terug naar de eerste vraag van de incheck.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Analyseproces](README.md) · [Stap 1: Screenen](01-Screenen.md) · [Vastloopprotocol](Bijlagen/04-Vastloop-Protocol.md) · [De Belegger Kees Methode](../README.md)
 
 ---
 
-Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

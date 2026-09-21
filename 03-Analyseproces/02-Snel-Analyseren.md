@@ -55,10 +55,12 @@ De [Definition of Done](Bijlagen/03-Definition-of-Done.md) voor de snelle analys
 
 Enkele uren per kandidaat. Een naam die snel afvalt kost een uur. Zit ik na een dag nog in fase 2, dan pak ik het [vastloopprotocol](Bijlagen/04-Vastloop-Protocol.md) erbij: meestal ben ik dan aan het verzamelen in plaats van aan het filteren.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Analyseproces](README.md) · [Stap 3: Uitgebreid analyseren](03-Uitgebreid-Analyseren.md) · [Hoofdstuk 4: Snelle aandelenanalyse](../02-Manifesto/04-Snelle-Analyse.md) · [No Go checks](Bijlagen/02-NoGo-Checks.md)
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

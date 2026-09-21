@@ -10,10 +10,12 @@ Hier staat aanvullende uitleg bij de methode.
 
 NLP betekent hier neurolinguïstisch programmeren. In informatica wordt dezelfde afkorting ook gebruikt voor natural language processing, de automatische verwerking van menselijke taal. Dat is niet dezelfde betekenis als mijn persoonlijke NLP-werkwijze.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Resources](../README.md) · [De Belegger Kees Methode](../../README.md) · [Bronnen](../../01-Docs/06-Bronnen.md)
 
 ---
 
-Bijgewerkt: 14 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

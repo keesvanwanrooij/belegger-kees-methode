@@ -31,10 +31,12 @@ Bij mijn periodieke terugblik zoek ik naar terugkerende problemen. Als ik vaak s
 
 Ik wil met deze procedure mijn tijd beter gebruiken en mijn eigen gedrag begrijpen. Zij is geen reden om een noodzakelijke controle over te slaan.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Analyseproces](../README.md) · [De Belegger Kees Methode](../../README.md) · [Manifesto](../../02-Manifesto/README.md)
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

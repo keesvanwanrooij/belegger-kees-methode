@@ -13,7 +13,9 @@ authors:
     email: info@beleggerkees.nl
 abstract: >-
   De persoonlijke werkwijze van Kees van Wanrooij voor fundamentele
-  aandelenanalyse, waardering, beleggingspsychologie en praktische NLP.
+  aandelenanalyse, waardering, beleggingspsychologie en praktische NLP,
+  met een deel over NLP-coaching voor beleggers: hulpvragen, technieken en
+  de opbouw van een coachingssessie.
   De methode beschrijft screening, snelle en uitgebreide analyse,
   instappen, onderhoud en terugkijken. Tien directe No Go checks en zes
   aanvullende onderzoeksvragen zijn richtlijnen zonder verplichte
@@ -34,8 +36,11 @@ keywords:
   - neurolinguïstisch programmeren
   - aandelen screenen
   - vermogensopbouw
+  - NLP-coaching
+  - beleggerscoaching
+  - DCF-waardering
 license: CC-BY-SA-4.0
 repository-code: https://github.com/keesvanwanrooij/belegger-kees-methode
 url: https://beleggerkees.nl
-version: 1.3.0
-date-released: '2026-09-12'
+version: 1.4.0
+date-released: '2026-09-21'

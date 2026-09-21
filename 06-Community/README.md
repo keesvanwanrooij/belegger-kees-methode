@@ -36,6 +36,8 @@ Deze repository is openbaar omdat ik de methode beter wil maken door haar te geb
 
 ## Waar je verder kunt
 
+Wil je meedoen, dan kun je je [gratis registreren](https://community.beleggerkees.nl/registreren) voor de Community. Wat de plannen inhouden en kosten staat op [beleggerkees.nl](https://beleggerkees.nl).
+
 Wil je eerst zelf beginnen, lees dan [De methode gebruiken](../02-Manifesto/11-Uitvoering.md) en pak [stap 0, voorbereiden](../03-Analyseproces/00-Voorbereiden.md). Wil je persoonlijk aan je gedrag als belegger werken, lees dan [NLP-coaching voor beleggers](../07-NLP-coaching-voor-beleggers/README.md). Wil je weten wie erachter zit, lees dan [Over Belegger Kees](../08-Over-Belegger-Kees/README.md).
 
 ## Verder lezen

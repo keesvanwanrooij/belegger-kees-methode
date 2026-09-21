@@ -53,10 +53,12 @@ Deze stap is nooit af; hij is op orde als elke rij een fase, een reden, een datu
 
 Een uur per week voor de lijst als geheel, plus tien tot vijftien minuten per naam bij nieuwe cijfers. Kost het structureel meer, dan is de lijst te lang.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Analyseproces](README.md) · [Stap 6: Kopen, aanhouden en verkopen](06-Kopen-Aanhouden-Verkopen.md) · [Hoofdstuk 7: Het aandelenuniversum beheren](../02-Manifesto/07-Universum-Beheren.md) · [Templates](../05-Resources/Templates/README.md)
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

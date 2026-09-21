@@ -2,7 +2,7 @@
 
 Dit zijn de bestanden waarin ik mijn methode uitvoer. Elk Excel-werkboek begint met een tabblad Lees mij dat zegt waar het bestand voor is, hoe je het gebruikt en wat de kleuren betekenen. De uitleg staat daar, niet boven de tabellen, zodat alleen de kopregel vastgezet hoeft te zijn.
 
-Ik kopieer een template naar [mijn werkmap](../../04-Onderzoek/Work-in-Progress/README.md), geef de kopie de naam van het bedrijf of de ronde, en vul die kopie in. De templates hier blijven leeg.
+Ik kopieer een template naar mijn privé werkmap, geef de kopie de naam van het bedrijf of de ronde, en vul die kopie in. De templates hier blijven leeg.
 
 ## De bestanden
 
@@ -40,9 +40,11 @@ De koopzone volgt uit de scenario's: de onderkant is de koers waarbij het tegenv
 
 ## Werk en controle
 
-Ingevulde versies blijven in [de werkmap](../../04-Onderzoek/Work-in-Progress/README.md), die zichzelf buiten Git houdt. Alleen een gecontroleerde, bewust gekozen versie gaat naar een openbaar dossier in [Onderzoek](../../04-Onderzoek/README.md). Ik publiceer geen lokale bestandspaden, posities uit het portefeuillebestand of gegevens van anderen.
+Ingevulde versies blijven in mijn privé werkmap, die buiten deze repository blijft. Alleen een gecontroleerde, bewust gekozen versie gaat naar een openbaar dossier in [Onderzoek](../../04-Onderzoek/README.md). Ik publiceer geen lokale bestandspaden, posities uit het portefeuillebestand of gegevens van anderen.
 
 Een werkboek dat rekent is nog geen goede analyse. De formules controleren de rekenkunde; de aannames, de bronnen en de conclusie controleer ik zelf. Vind je een fout in een template, dan hoor ik dat graag via de [community](../../06-Community/README.md).
+
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
 ## Verder lezen
 
@@ -50,4 +52,4 @@ Een werkboek dat rekent is nog geen goede analyse. De formules controleren de re
 
 ---
 
-Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

@@ -10,10 +10,12 @@ Een screener geeft mij een lijst, geen vergelijking. Daarom sorteer ik de uitkom
 
 Ik streef naar een ronde per kwartaal, met jaarlijks als minimum. Zolang er voldoende kansrijke kandidaten liggen, kan ik die eerst afwerken. Mijn levende screeningronden en ruwe exports blijven in de werkmap.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Resources](../README.md) · [De Belegger Kees Methode](../../README.md) · [Templates](../Templates/README.md) · [Sectoren en industrieën](../Sectoren/README.md)
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
