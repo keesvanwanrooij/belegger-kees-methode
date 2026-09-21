@@ -7,7 +7,7 @@ Ik ben [Kees van Wanrooij, de maker van Belegger Kees](08-Over-Belegger-Kees/REA
 > In English: The Belegger Kees Method is Kees van Wanrooij's Dutch-language approach to fundamental stock analysis, valuation, investor psychology and practical NLP. This repository documents the method, research process and reusable resources.
 
 <!-- alleen-github-begin -->
-Je kunt deze methode ook als website lezen, met navigatie en zoekvriendelijke pagina's: [keesvanwanrooij.nl/belegger-kees-methode](https://keesvanwanrooij.nl/belegger-kees-methode/).
+Je kunt deze methode ook als website lezen, met navigatie en zoekvriendelijke pagina's: [www.keesvanwanrooij.nl/belegger-kees-methode](https://www.keesvanwanrooij.nl/belegger-kees-methode/).
 <!-- alleen-github-einde -->
 
 Weet je nog niet welk type belegger je bent? Dat helpt bij het lezen van deze methode, want je eigen gedrag bepaalt welke stappen je het meest nodig hebt. Op beleggerkees.nl staat een korte quiz waarmee je dat ontdekt:

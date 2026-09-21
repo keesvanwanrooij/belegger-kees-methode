@@ -35,8 +35,8 @@ SECTION_LABELS = {"docs": "Docs", "manifesto": "Manifesto", "analyseproces": "An
 
 
 # Ecosysteemblok in de voet: identiek in de vier sites van het merk Kees van Wanrooij
-# (hub keesvanwanrooij.nl, deze methode, cursus-elektrotechniek en cursus-cv-ketels).
-HUB = "https://keesvanwanrooij.nl"
+# (hub www.keesvanwanrooij.nl, deze methode, cursus-elektrotechniek en cursus-cv-ketels).
+HUB = "https://www.keesvanwanrooij.nl"
 ECO = [
     ("Beleggen", [
         ("belegger-kees", "https://beleggerkees.nl", "Belegger Kees"),

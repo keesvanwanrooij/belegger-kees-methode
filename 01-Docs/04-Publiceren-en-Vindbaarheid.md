@@ -12,7 +12,7 @@ Ik kies beschrijvende titels en links die vertellen wat de lezer krijgt. Een pag
 
 ## Van deze repository naar een openbare website
 
-De repository is de inhoudelijke bron. Bij elke wijziging zet een script deze Markdown om in een leesbare website op GitHub Pages, op [keesvanwanrooij.nl/belegger-kees-methode](https://keesvanwanrooij.nl/belegger-kees-methode/). Het script neemt alleen bestanden mee die in Git staan, dus wat ik buiten Git houd komt nooit op de site. Elke pagina krijgt een eigen titel en omschrijving, een voorkeursadres, een broodkruimelpad, gestructureerde gegevens over de auteur en de pagina, en een plek in de sitemap.
+De repository is de inhoudelijke bron. Bij elke wijziging zet een script deze Markdown om in een leesbare website op GitHub Pages, op [www.keesvanwanrooij.nl/belegger-kees-methode](https://www.keesvanwanrooij.nl/belegger-kees-methode/). Het script neemt alleen bestanden mee die in Git staan, dus wat ik buiten Git houd komt nooit op de site. Elke pagina krijgt een eigen titel en omschrijving, een voorkeursadres, een broodkruimelpad, gestructureerde gegevens over de auteur en de pagina, en een plek in de sitemap.
 
 Een eigen adres op het domein van Belegger Kees kies ik bewust later, zodat één versie van een pagina de vaste vindplaats wordt. Tot die keuze staat het voorkeursadres op de GitHub-site.
 
