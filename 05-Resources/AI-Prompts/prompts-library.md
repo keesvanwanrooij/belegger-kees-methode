@@ -254,10 +254,12 @@ Per bedrijf de bear case eerst. Gerapporteerde feiten staan gescheiden van eigen
 
 Na elk gebruik noteer ik in mijn werkmap de datum, de taak, wat bruikbaar was, wat fout ging en wat ik aan de prompt heb veranderd. Een antwoord dat goed werkte is leerinformatie; het maakt de prompt niet onfeilbaar. Verandert mijn methode, dan verandert eerst het hoofdstuk en daarna de prompt, niet andersom.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [AI-prompts](README.md) · [Hoofdstuk 10: AI-werkwijze](../../02-Manifesto/10-AI-Werkwijze.md) · [Analyseproces](../../03-Analyseproces/README.md) · [Analistenonderzoek](../Analistenonderzoek.md) · [Tien checks en zes vragen](../../03-Analyseproces/Bijlagen/02-NoGo-Checks.md)
 
 ---
 
-Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

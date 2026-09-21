@@ -6,6 +6,8 @@ Ik ben [Kees van Wanrooij, de maker van Belegger Kees](08-Over-Belegger-Kees/REA
 
 > In English: The Belegger Kees Method is Kees van Wanrooij's Dutch-language approach to fundamental stock analysis, valuation, investor psychology and practical NLP. This repository documents the method, research process and reusable resources.
 
+Je kunt deze methode ook als website lezen, met navigatie en zoekvriendelijke pagina's: [keesvanwanrooij.github.io/belegger-kees-methode](https://keesvanwanrooij.github.io/belegger-kees-methode/).
+
 ## Waar begin je?
 
 Wil je begrijpen hoe ik naar beleggen kijk? Begin bij de [beleggingsfilosofie](02-Manifesto/01-Beleggingsfilosofie.md). Daarna lees je hoe ik [tien NLP-presupposities toepas op beleggen](02-Manifesto/02-NLP-Presupposities.md). Presupposities zijn uitgangspunten die ik gebruik om vragen te stellen en mijn eigen denken te onderzoeken.
@@ -79,7 +81,7 @@ De eigen openbare documentatie en prompts staan onder [CC BY-SA 4.0](LICENSE). V
 
 Geef aan welk bestand of welke passage je bedoelt, wat er volgens jou niet klopt en welke informatie daarbij helpt. Mijn [redactionele werkwijze](01-Docs/01-Redactionele-Werkwijze.md) beschrijft hoe ik bronnen, belangen en correcties behandel.
 
-Je vindt Belegger Kees op [beleggerkees.nl](https://beleggerkees.nl). De [Community-pagina](06-Community/README.md) legt uit hoe samen leren bij deze methode past, zonder hier een niet-bevestigd aanbod of prijs te beloven.
+Je vindt Belegger Kees op [beleggerkees.nl](https://beleggerkees.nl). Wil je de methode samen met anderen toepassen, dan kun je je [gratis registreren voor de Community](https://community.beleggerkees.nl/registreren). De [Community-pagina](06-Community/README.md) legt uit hoe samen leren bij deze methode past, zonder hier een niet-bevestigd aanbod of prijs te beloven.
 
 ## Belangrijk om te weten
 

@@ -12,10 +12,12 @@ Hier vind je materiaal waarmee je de Belegger Kees Methode kunt toepassen en bet
 
 Een werkversie is nog geen getoetst hulpmiddel. Iedere onderdeelpagina zegt wat al is gecontroleerd en wat niet.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [De Belegger Kees Methode](../README.md) · [Manifesto](../02-Manifesto/README.md) · [Analyseproces](../03-Analyseproces/README.md)
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

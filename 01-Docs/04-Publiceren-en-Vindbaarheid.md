@@ -12,9 +12,11 @@ Ik kies beschrijvende titels en links die vertellen wat de lezer krijgt. Een pag
 
 ## Van deze repository naar een openbare website
 
-De repository is de inhoudelijke bron. Een website kan deze Markdown later omzetten in leesbare HTML. De definitieve plek op het eigen domein en de technische uitvoering kies ik bewust, zodat één versie van een pagina de vaste vindplaats wordt.
+De repository is de inhoudelijke bron. Bij elke wijziging zet een script deze Markdown om in een leesbare website op GitHub Pages, op [keesvanwanrooij.github.io/belegger-kees-methode](https://keesvanwanrooij.github.io/belegger-kees-methode/). Het script neemt alleen bestanden mee die in Git staan, dus wat ik buiten Git houd komt nooit op de site. Elke pagina krijgt een eigen titel en omschrijving, een voorkeursadres, een broodkruimelpad, gestructureerde gegevens over de auteur en de pagina, en een plek in de sitemap.
 
-Voor een website-uitrol wil ik controleren dat de pagina's bereikbaar en indexeerbaar zijn, de navigatie werkt en privébestanden niet in de uitvoer zitten. Ik controleer dan ook titels, beschrijvingen, auteurspagina, sitemap en mobiele leesbaarheid.
+Een eigen adres op het domein van Belegger Kees kies ik bewust later, zodat één versie van een pagina de vaste vindplaats wordt. Tot die keuze staat het voorkeursadres op de GitHub-site.
+
+Bij elke wijziging controleer ik dat de pagina's bereikbaar en indexeerbaar zijn, de navigatie werkt en privébestanden niet in de uitvoer zitten. Ik controleer ook titels, beschrijvingen, auteurspagina, sitemap en mobiele leesbaarheid.
 
 Wanneer dezelfde inhoud op meerdere URL's staat, kies ik een voorkeursadres. Google kan die voorkeur via onder meer canonicals (verwijzingen in de paginacode naar het voorkeursadres) en redirects (automatische doorverwijzingen) meewegen, maar bepaalt zelf welke pagina als canoniek wordt gebruikt. Een canonical is geen afdwingbare instructie. [Google over canonieke URL's](https://developers.google.com/search/docs/crawling-indexing/canonicalization)
 
@@ -22,7 +24,7 @@ Wanneer dezelfde inhoud op meerdere URL's staat, kies ik een voorkeursadres. Goo
 
 Goede inhoud en gewone technische toegankelijkheid blijven de basis. Google raadt aan om inhoud te maken die mensen echt helpt en betrouwbaar is, in plaats van pagina's te schrijven om alleen zoekverkeer te krijgen. Google noemt ook voor AI-zoekfuncties geen aparte techniek die goede uitleg, bronnen en onderlinge links vervangt. [Google over inhoud voor mensen](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) · [Google over AI-functies en websites](https://developers.google.com/search/docs/appearance/ai-features)
 
-Het bestand [llms.txt](../llms.txt) is een aanvullende leeswijzer voor systemen die het bestand willen lezen. Het is geen toegangssysteem en geen bewijs dat een AI-systeem Belegger Kees zal noemen. Mijn aandacht gaat daarom naar eigen voorbeelden, duidelijke begrippen, controleerbare bronnen en pagina's die een vraag volledig beantwoorden.
+Het bestand [llms.txt](../llms.txt) staat ook op de website en is een aanvullende leeswijzer voor systemen die het bestand willen lezen. Het is geen toegangssysteem en geen bewijs dat een AI-systeem Belegger Kees zal noemen. Mijn aandacht gaat daarom naar eigen voorbeelden, duidelijke begrippen, controleerbare bronnen en pagina's die een vraag volledig beantwoorden.
 
 Een zoekmachine of AI-systeem bepaalt zelf wat het indexeert, samenvat of citeert. Ik kan dat niet afdwingen. Ik kan wel steeds betere, eigen uitleg maken die mensen ook zonder zoekmachine helpt.
 
@@ -34,10 +36,12 @@ Financiële informatie kan invloed hebben op belangrijke beslissingen. Daarom ma
 
 Ik publiceer alleen teksten die ik zelf heb nagelezen. Ruwe notities, interne strategie en levende werkdossiers blijven buiten de openbare bronbestanden. Een analyse verschijnt pas wanneer ik bewust besluit dat de inhoud, bronnen, belangen en privacy daarvoor in orde zijn.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Docs](README.md) · [De Belegger Kees Methode](../README.md) · [Openbaar onderzoek](../04-Onderzoek/README.md)
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

@@ -22,10 +22,12 @@ Een rapport mag duidelijk maken dat ik een bedrijf interessant vind. Het schrijf
 
 Een tikfout kan ik direct herstellen. Verandert een fout een belangrijk feit, berekening of conclusie, dan voeg ik een zichtbare correctienotitie toe. Ik beschrijf wat er veranderde, wanneer en waarom. Een historisch besluit blijft als gebeurtenis staan; ik verander het niet stilzwijgend met kennis van later.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Docs](README.md) · [Redactionele werkwijze](01-Redactionele-Werkwijze.md) · [Openbare analyses](../04-Onderzoek/Analyses/README.md)
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

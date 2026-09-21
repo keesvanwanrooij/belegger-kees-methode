@@ -59,10 +59,12 @@ De tabel in de [Definition of Done](Bijlagen/03-Definition-of-Done.md) voor de u
 
 Ongeveer twintig uur, soms aanzienlijk meer. Ik verdeel het over sessies met elk een eigen incheck. Heb ik na vijftig uur nog een vraag die de afweging bepaalt, dan mag ik doorgaan; heb ik na vijftig uur alleen nog vragen die de afweging niet veranderen, dan is het dossier af.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Analyseproces](README.md) · [Stap 4: Waarderen](04-Waarderen.md) · [Hoofdstuk 5: Uitgebreide aandelenanalyse](../02-Manifesto/05-Uitgebreide-Analyse.md) · [Analistenonderzoek](../05-Resources/Analistenonderzoek.md)
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

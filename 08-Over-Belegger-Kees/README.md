@@ -39,6 +39,7 @@ Ik bouw vertrouwen op door mijn onderzoek begrijpelijk uit te leggen, bronnen te
 ## Contact en herkomst
 
 - Website: [beleggerkees.nl](https://beleggerkees.nl).
+- Community: [gratis registreren](https://community.beleggerkees.nl/registreren).
 - Instagram: [Belegger Kees](https://instagram.com/beleggerkees).
 - LinkedIn: [Kees van Wanrooij](https://linkedin.com/in/keesvanwanrooij).
 - E-mail: info@beleggerkees.nl.

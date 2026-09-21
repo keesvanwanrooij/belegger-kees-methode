@@ -433,10 +433,12 @@ Bij elke kandidaat controleer ik bereikbaarheid, lotgrootte, spread en kosten vo
 
 Mijn doel is een bruikbare selectie in een middag, met screening doorgaans per kwartaal en minimaal jaarlijks. Wat ik daarna met de kandidaten doe staat in [de werkwijze voor het screenen](../../03-Analyseproces/01-Screenen.md).
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Screeners](README.md) · [Resources](../README.md) · [Hoofdstuk 3: Aandelen screenen](../../02-Manifesto/03-Screening-Systeem.md) · [Snelle analyse](../../02-Manifesto/04-Snelle-Analyse.md)
 
 ---
 
-Bijgewerkt: 16 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

@@ -26,10 +26,12 @@ Waar een hoofdstuk een bijbehorende procedure of een hulpmiddel heeft, staat daa
 
 Deze methode blijft in ontwikkeling. Ik verbeter haar door mijn onderzoek uit te schrijven, terug te kijken en helder te maken waar een hulpmiddel nog niet bestaat of niet volledig is getest.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [De Belegger Kees Methode](../README.md) · [Bronnen en schrijfwijze](../01-Docs/README.md) · [Praktische uitvoering](../03-Analyseproces/README.md)
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

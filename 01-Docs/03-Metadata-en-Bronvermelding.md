@@ -30,10 +30,12 @@ Gebruik [CITATION.cff](../CITATION.cff) voor de formele maker- en brongegevens. 
 
 De openbare eigen tekst valt onder [de repositorylicentie](../LICENSE). Vermeld bij hergebruik de maker, bron, licentie en eventuele wijzigingen. De [officiële licentie-uitleg](https://creativecommons.org/licenses/by-sa/4.0/) beschrijft ook de voorwaarden voor het verspreiden van bewerkingen.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Docs](README.md) · [De Belegger Kees Methode](../README.md) · [Openbaar onderzoek](../04-Onderzoek/README.md)
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

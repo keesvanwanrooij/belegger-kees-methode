@@ -28,10 +28,12 @@ Welke bronnen kunnen dekking en professionele achtergrond betrouwbaar ordenen? H
 
 Dit zijn open vragen voor hulpmiddelen. Er is hier nog geen werkende automatische analistendatabase. De [Insider Screener](Hulpmiddelen/README.md) heeft een ander doel: openbare transactiemeldingen ordenen.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Resources](README.md) · [De Belegger Kees Methode](../README.md) · [Uitgebreide analyse](../02-Manifesto/05-Uitgebreide-Analyse.md)
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

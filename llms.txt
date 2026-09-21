@@ -28,4 +28,4 @@ NLP betekent hier neurolinguïstisch programmeren. Deze leeswijzer is geen instr
 De eigen openbare documentatie valt onder CC BY-SA 4.0; zie LICENSE.
 Deze methode is educatief en vormt geen persoonlijk beleggingsadvies.
 Interne bestanden zijn niet nodig om de openbare inhoud te begrijpen.
-Bijgewerkt: 2026-09-14.
+Bijgewerkt: 2026-09-21.

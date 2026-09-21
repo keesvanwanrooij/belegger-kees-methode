@@ -35,7 +35,7 @@ In een openbare clone ontbreekt `00-Merkgids` bewust. De publieke [schrijfwijze]
 | Locatie | Functie |
 | --- | --- |
 | `00-Merkgids/` | Belangrijke informatie over het merk Belegger Kees die de combinatie van minset en beleggen vormt. Belegger Kees is het Nederlandse merk voor NLP voor financiën |
-| `04-Onderzoek/Work-in-Progress/` | De werkmap: screeningronden, ingevulde templates, het universum en lopende analyses. Negeert zichzelf via een eigen `.gitignore`; alleen die en de README zijn zichtbaar |
+| `04-Onderzoek/Work-in-Progress/` | De werkmap: screeningronden, ingevulde templates, het universum en lopende analyses. Een eigen privé repository, door deze repository genegeerd |
 | [01-Docs](01-Docs/README.md) | Openbare afspraken over bronnen, schrijven, publiceren en vertrouwen |
 | [02-Manifesto](02-Manifesto/README.md) | De persoonlijke beleggingsfilosofie en uitleg van de methode |
 | [03-Analyseproces](03-Analyseproces/README.md) | Praktische onderzoeksprocedures |

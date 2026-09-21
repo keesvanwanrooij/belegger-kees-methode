@@ -46,10 +46,12 @@ Drie scenario's rekenen door zonder foutcellen, de exit P/E en de discount rate 
 
 Een dagdeel als de historie er staat. Het meeste werk zit in de parameters, niet in het rekenen. Blijf ik aan de discount rate schaven, dan is dat een teken dat ik de uitkomst probeer te sturen; dan noteer ik dat en stop ik.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Analyseproces](README.md) · [Stap 5: Universum bijhouden](05-Universum-Bijhouden.md) · [Hoofdstuk 6: DCF, exit multiple en intern rendement](../02-Manifesto/06-DCF-Model.md) · [Templates](../05-Resources/Templates/README.md)
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

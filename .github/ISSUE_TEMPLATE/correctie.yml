@@ -1,0 +1,30 @@
+name: Fout of onduidelijkheid melden
+description: Een feitelijke fout, een dode link, een formule die niet klopt of een stap die je niet kunt volgen.
+title: "Correctie: "
+labels: ["correctie"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bedankt voor je hulp. Ik onderzoek elke melding en pas de tekst aan als daar aanleiding voor is, met een zichtbare correctie. Dit is educatie en geen beleggingsadvies: vraag hier dus niet om advies over een aandeel of over je eigen portefeuille.
+  - type: input
+    id: pagina
+    attributes:
+      label: Op welke pagina of in welk bestand?
+      description: Plak de link of noem het bestand.
+    validations:
+      required: true
+  - type: textarea
+    id: fout
+    attributes:
+      label: Wat klopt er volgens jou niet?
+      description: Citeer bij voorkeur de zin of het cijfer.
+    validations:
+      required: true
+  - type: textarea
+    id: bron
+    attributes:
+      label: Waarop baseer je dat?
+      description: Een bron, een berekening of een ervaring helpt mij om het te controleren.
+    validations:
+      required: false

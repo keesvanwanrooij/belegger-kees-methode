@@ -47,10 +47,12 @@ De tekst doorstaat de publicatiecontrole, ik heb hem zelf teruggelezen, de posit
 
 Een blogpost een dagdeel, een onderzoeksrapport enkele dagen verdeeld over sessies. Schrijven kost mij minder tijd als het dossier af is; blijf ik tijdens het schrijven onderzoeken, dan was het dossier niet af.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Analyseproces](README.md) · [Stap 0: Voorbereiden](00-Voorbereiden.md) · [Hoofdstuk 9: Aandelenanalyses en onderzoeksrapporten delen](../02-Manifesto/09-Rapportage.md) · [Publicatiecontrole](../01-Docs/07-Publicatiecontrole.md)
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

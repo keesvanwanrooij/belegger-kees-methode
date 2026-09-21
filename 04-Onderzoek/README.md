@@ -4,7 +4,7 @@ Ik wil laten zien hoe ik tot mijn afwegingen kom, inclusief de vragen en lessen 
 
 > In English: This folder holds the published research of the Belegger Kees Method: reviewed stock analyses and research reports, plus a research archive with retrospectives. Live work stays in a private working folder until it passes the publication checks. Nothing here is investment advice.
 
-- [Werk in uitvoering](Work-in-Progress/README.md): mijn werkmap. De inhoud blijft buiten Git; alleen de uitleg is zichtbaar.
+- Werk in uitvoering: mijn werkmap. Die staat in een aparte, privé repository en niet hier.
 - [Aandelenanalyses](Analyses/README.md): de plek voor gecontroleerde openbare dossiers.
 - [Onderzoeksarchief](Archief/README.md): terugblikken op afgerond of gestopt onderzoek.
 
@@ -26,10 +26,12 @@ Een dossier laat zien hoe ik dacht op een bepaald moment, met de bronnen en de r
 
 Een fout corrigeer ik zichtbaar in het dossier zelf, met datum, oude strekking, juiste uitleg en bron. Een afweging die ik ooit maakte, herschrijf ik niet achteraf.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [De Belegger Kees Methode](../README.md) · [Rapportage](../02-Manifesto/09-Rapportage.md) · [Analyseproces](../03-Analyseproces/README.md) · [Stap 7: Rapporteren en publiceren](../03-Analyseproces/07-Rapporteren-Publiceren.md)
 
 ---
 
-Bijgewerkt: 12 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

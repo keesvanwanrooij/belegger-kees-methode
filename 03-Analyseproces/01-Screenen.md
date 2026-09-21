@@ -46,10 +46,12 @@ De [Definition of Done](Bijlagen/03-Definition-of-Done.md) voor screening: vijf 
 
 Een middag voor de filters, het sorteren en de vergelijking per industrie. Een vergelijking van jaarverslagen met AI doe ik alleen voor de industrie waar ik het meest nieuwsgierig naar ben. Duurt het langer, dan ben ik namen aan het onderzoeken in plaats van aan het screenen. Dan stop ik, noteer ik welke naam mij meetrok, en zet ik die bovenaan voor stap 2.
 
+De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
+
 ## Verder lezen
 
 [Analyseproces](README.md) · [Stap 2: Snel analyseren](02-Snel-Analyseren.md) · [Screeners](../05-Resources/Screeners/screeners.md) · [Hoofdstuk 3: Aandelen screenen](../02-Manifesto/03-Screening-Systeem.md)
 
 ---
 
-Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
