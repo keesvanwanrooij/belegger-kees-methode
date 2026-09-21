@@ -154,6 +154,7 @@ for p in md_files:
     m = re.search(r"^# (.+)$", raw, flags=re.M)
     h1 = m.group(1).strip()
     body = raw[:m.start()] + raw[m.end():] if m else raw
+    body = re.sub(r"<!-- alleen-github-begin -->.*?<!-- alleen-github-einde -->\s*", "", body, flags=re.S)
     body = body.lstrip("\n")
     pages[p] = dict(path=p, url=URL_OF[p], h1=h1, body=body, raw=raw,
                     title=make_title(h1, p), desc=make_description(body), label=nav_label(h1, p),
@@ -192,6 +193,8 @@ def render_md(page):
     out = re.sub(r"<blockquote>\s*<p>In English:", '<blockquote class="in-english" lang="en"><p><span class="lbl">In English:</span>', out)
     out = re.sub(r"<p>(Bijgewerkt: [^<]*)</p>", r'<p class="updated">\1</p>', out)
     out = re.sub(r"<p>(De content op Belegger Kees is uitsluitend[^<]*)</p>", r'<aside class="disclaimer"><p>\1</p></aside>', out)
+    out = re.sub(r"<p><strong>(<a href=\"[^\"]+\">[^<]+</a>)</strong></p>",
+                 lambda m: '<p class="cta">' + m.group(1).replace("<a ", '<a class="btn" ', 1) + "</p>", out)
     out = re.sub(r"<hr\s*/?>", '<hr class="end">', out)
     return out
 
@@ -367,7 +370,7 @@ def header_html():
 <a href="{href("/nlp-coaching-voor-beleggers/")}">NLP-coaching</a>
 <a href="{href("/over-belegger-kees/")}">Over Kees</a>
 </nav>
-<a class="btn" href="{esc(CFG["register_url"])}">Gratis registreren</a>
+<a class="btn" href="{esc(CFG["quiz_url"])}">Doe de quiz</a>
 </div>
 </header>'''
 
@@ -380,6 +383,7 @@ def footer_html(has_disclaimer):
 <div class="foot-grid">
 <div><p class="foot-h">Belegger Kees</p>
 <ul><li><a href="{esc(CFG["brand_url"])}">beleggerkees.nl</a></li>
+<li><a href="{esc(CFG["quiz_url"])}">Quiz: welke belegger ben jij?</a></li>
 <li><a href="{esc(CFG["register_url"])}">Gratis registreren in de Community</a></li>
 <li><a href="{esc(CFG["instagram"])}">Instagram</a></li>
 <li><a href="{esc(CFG["linkedin"])}">LinkedIn</a></li>
@@ -489,11 +493,31 @@ def main():
                                 noindex=True, has_disclaimer=False))
 
     # sitemap.xml, robots.txt, llms.txt
-    sx = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    sx = ['<?xml version="1.0" encoding="UTF-8"?>', f'<?xml-stylesheet type="text/xsl" href="{href("/sitemap.xsl")}"?>',
+          '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u, m in sorted(urls):
         sx.append(f"<url><loc>{esc(u)}</loc><lastmod>{m}</lastmod></url>")
     sx.append("</urlset>")
     write("sitemap.xml", "\n".join(sx) + "\n")
+    write("sitemap.xsl", f'''<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:s="http://www.sitemaps.org/schemas/sitemap/0.9">
+<xsl:output method="html" encoding="UTF-8" indent="yes"/>
+<xsl:template match="/">
+<html lang="nl"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Sitemap | Belegger Kees</title>
+<meta name="robots" content="noindex"/>
+<link rel="icon" href="{href("/assets/favicon.svg")}" type="image/svg+xml"/>
+<link rel="icon" href="{href("/assets/favicon.ico")}" sizes="48x48"/>
+<link rel="stylesheet" href="{href("/assets/site.css")}"/>
+</head><body><main class="wrap" style="padding-top:40px;padding-bottom:80px">
+<h1>Sitemap</h1>
+<p>Dit is het XML-bestand voor zoekmachines met <xsl:value-of select="count(s:urlset/s:url)"/> pagina's. Een leesbare lijst voor mensen staat op de <a href="{href("/sitemap/")}">sitemappagina</a>.</p>
+<div class="table-wrap"><table><thead><tr><th>Pagina</th><th>Gewijzigd</th></tr></thead><tbody>
+<xsl:for-each select="s:urlset/s:url"><tr><td><a href="{{s:loc}}"><xsl:value-of select="s:loc"/></a></td><td><xsl:value-of select="s:lastmod"/></td></tr></xsl:for-each>
+</tbody></table></div></main></body></html>
+</xsl:template>
+</xsl:stylesheet>
+''')
     write("robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}/sitemap.xml\n")
     llms = read("llms.txt")
     origin = urlparse(SITE_URL).scheme + "://" + urlparse(SITE_URL).netloc
