@@ -34,6 +34,42 @@ SECTION_LABELS = {"docs": "Docs", "manifesto": "Manifesto", "analyseproces": "An
                   "over-belegger-kees": "Over Belegger Kees"}
 
 
+# Ecosysteemblok in de voet: identiek in de vier sites van het merk Kees van Wanrooij
+# (hub keesvanwanrooij.github.io, deze methode, cursus-elektrotechniek en cursus-cv-ketels).
+HUB = "https://keesvanwanrooij.github.io"
+ECO = [
+    ("Beleggen", [
+        ("belegger-kees", "https://beleggerkees.nl", "Belegger Kees"),
+        ("methode", HUB + "/belegger-kees-methode/", "Belegger Kees Methode"),
+        ("beleggen", HUB + "/beleggen/", "Beleggen met GARP en NLP"),
+    ]),
+    ("Gratis cursussen", [
+        ("elektro", HUB + "/cursus-elektrotechniek/", "Cursus Elektrotechniek"),
+        ("cv", HUB + "/cursus-cv-ketels/", "Cursus CV-ketels"),
+    ]),
+    ("Kees van Wanrooij", [
+        ("home", HUB + "/", "Home"),
+        ("over-mij", HUB + "/over-mij/", "Over mij"),
+        ("linkedin", "https://www.linkedin.com/in/keesvanwanrooij/", "LinkedIn"),
+        ("instagram", "https://www.instagram.com/beleggerkees/", "Instagram"),
+        ("github", "https://github.com/keesvanwanrooij", "GitHub"),
+    ]),
+]
+ECO_HERE = "methode"
+
+
+def eco_html():
+    cols = []
+    for kop, links in ECO:
+        lis = "".join(
+            f'<li><a href="{esc(h)}"{" aria-current=" + chr(34) + "true" + chr(34) if k == ECO_HERE else ""}>{esc(t)}</a></li>'
+            for k, h, t in links)
+        cols.append(f'<nav aria-label="{esc(kop)}"><p class="foot-h">{esc(kop)}</p><ul>{lis}</ul></nav>')
+    return ('<div class="foot-eco"><div><p class="foot-brand">Kees van Wanrooij<span class="dot">.</span></p>'
+            '<p class="foot-tag">Belegger en NLP-practitioner. Oprichter van Belegger Kees. Educatie, geen beleggingsadvies.</p></div>'
+            + "".join(cols) + '</div>')
+
+
 def git(*args):
     return subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True, encoding="utf-8").stdout
 
@@ -380,13 +416,11 @@ def footer_html(has_disclaimer):
     return f'''<footer class="foot">
 <div class="wrap">
 {disc}
+{eco_html()}
 <div class="foot-grid">
-<div><p class="foot-h">Belegger Kees</p>
-<ul><li><a href="{esc(CFG["brand_url"])}">beleggerkees.nl</a></li>
-<li><a href="{esc(CFG["quiz_url"])}">Quiz: welke belegger ben jij?</a></li>
+<div><p class="foot-h">Community en contact</p>
+<ul><li><a href="{esc(CFG["quiz_url"])}">Quiz: welke belegger ben jij?</a></li>
 <li><a href="{esc(CFG["register_url"])}">Gratis registreren in de Community</a></li>
-<li><a href="{esc(CFG["instagram"])}">Instagram</a></li>
-<li><a href="{esc(CFG["linkedin"])}">LinkedIn</a></li>
 <li><a href="mailto:{esc(CFG["contact_email"])}">{esc(CFG["contact_email"])}</a></li></ul></div>
 <div><p class="foot-h">Betrouwbaarheid</p>
 <ul><li><a href="{href("/over-belegger-kees/")}">Over Kees van Wanrooij</a></li>
