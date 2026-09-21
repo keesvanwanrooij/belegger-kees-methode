@@ -21,6 +21,7 @@ $RECYCLE.BIN/
 *-PRIVE/
 *-PRIVAT*.
 portefeuille-posities.*
+**/Work-in-Progress/
 
 # Tijdelijke exports en downloads
 *.crdownload
@@ -35,6 +36,7 @@ portefeuille-posities.*
 # Werkmap: eigen git-repository sinds 13 september 2026 (prive,
 # keesvanwanrooij/belegger-kees-methode-werkmap). Nooit in deze repo.
 04-Onderzoek/Work-in-Progress/
+07-NLP-coaching-voor-beleggers/Work-in-Progress/
 
 # Feedback is prive bronmateriaal, ongeacht de map, hoofdletters of prefix.
 # Git-ignore verwijdert geen al gevolgde bestanden of bestaande geschiedenis.
