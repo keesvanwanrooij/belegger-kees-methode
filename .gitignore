@@ -21,6 +21,7 @@ $RECYCLE.BIN/
 *-PRIVE/
 *-PRIVAT*.
 portefeuille-posities.*
+**/Work-in-Progress/
 
 # Tijdelijke exports en downloads
 *.crdownload
@@ -28,6 +29,7 @@ portefeuille-posities.*
 
 
 04-Onderzoek/Work-in-Progress/
+07-NLP-coaching-voor-beleggers/Work-in-Progress/
 
 # Feedback is prive bronmateriaal, ongeacht de map, hoofdletters of prefix.
 # Git-ignore verwijdert geen al gevolgde bestanden of bestaande geschiedenis.

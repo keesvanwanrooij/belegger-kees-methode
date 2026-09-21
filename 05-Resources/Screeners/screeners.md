@@ -60,6 +60,12 @@ Wat ik bewust weglaat: Tradegate is een handelsplatform en geen thuisbeurs, dus 
 
 Met de marktknop kies je een of meer landen; dan zitten alle beurzen van dat land erin. Een beurs binnen een land uitzetten, zoals TSX Venture bij Canada of NYSE Arca bij de Verenigde Staten, kan met een filter op de beurs `[te controleren: de naam van dat filter in jouw weergave]`. Lukt dat niet, dan zet ik de kolom met de beurs op het scherm en sla ik die namen bij het doorlopen over.
 
+## Let op de minimale lot grootte
+
+Op de beurs van Hong Kong (HKEX) bepaalt elk bedrijf zelf de minimale handelsgrootte (de board lot), waardoor dit kan variëren van 100 tot wel 4.000 aandelen per transactie. Bedrijven kiezen hier vaak voor om de nominale waarde van een transactie betaalbaar te houden voor particuliere beleggers. De beurs van Japan (TSE) heeft dit daarentegen sinds 2018 volledig gestandaardiseerd: daar is de minimale handelsgrootte voor elk aandeel verplicht 100 stuks.Voor Europese beleggers via DEGIRO gelden deze restricties alleen op specifieke Aziatische markten. Hieronder vindt u een overzicht van hoe de minimale ordergroottes verschillen per regio:Hong Kong (HKEX): Variabele board lots (bijv. 100, 500, 1.000 of 4.000 aandelen), specifiek vastgesteld per beursgenoteerd bedrijf.Japan (TSE): Altijd een vaste minimale pluk van exact 100 aandelen.Europa & Verenigde Staten: Op de meeste westerse beurzen die via DEGIRO toegankelijk zijn (zoals Euronext Amsterdam, de New York Stock Exchange en NASDAQ), geldt een minimale ordergrootte van 1 individueel aandeel.Houd er bij het handelen in Aziatische aandelen dus altijd rekening mee dat uw minimale investering afhangt van de geldende lot size van het specifieke aandeel.
+
+Daarom sluit ik soms Japan uit als beurs bij mijn filters als ik merk dat ik te veel Japanse bedrijven vindt die door hun lotgrootte niet beschikbaar zijn. Soms is een aandeel op de Hong Kong Stock exchange ook via een Europese beurs verhandelbaar en de prijzen van deze aandelen zijn vaak ook lager in getal, daardoor laat ik Hong Kong er wel vaak tussen staan. Ik zou ook een Japanse filter met prijs kunnen maken bijvoorbeeld.
+
 ## Kolommen op het scherm
 
 Deze kolommen zet ik in elke screener, zodat ik een bedrijf kan plaatsen zonder het aan te klikken. De namen zijn de namen in TradingView.
