@@ -34,21 +34,22 @@ SECTION_LABELS = {"docs": "Docs", "manifesto": "Manifesto", "analyseproces": "An
                   "over-belegger-kees": "Over Belegger Kees"}
 
 
-# Ecosysteemblok in de voet: identiek in de vier sites van het merk Kees van Wanrooij
-# (hub www.keesvanwanrooij.nl, deze methode, cursus-elektrotechniek en cursus-cv-ketels).
+# Ecosysteemblok in de voet: identiek in de hub (www.keesvanwanrooij.nl) en deze methode-site.
+# De cursussites hebben hiervan een eigen variant.
 HUB = "https://www.keesvanwanrooij.nl"
 ECO = [
     ("Beleggen", [
         ("belegger-kees", "https://beleggerkees.nl", "Belegger Kees"),
         ("methode", HUB + "/belegger-kees-methode/", "Belegger Kees Methode"),
         ("beleggen", HUB + "/beleggen/", "Beleggen met GARP en NLP"),
+        ("welke-kees", HUB + "/welke-kees/", "Welke Kees is Belegger Kees?"),
     ]),
-    ("Gratis cursussen", [
-        ("elektro", HUB + "/cursus-elektrotechniek/", "Cursus Elektrotechniek"),
-        ("cv", HUB + "/cursus-cv-ketels/", "Cursus CV-ketels"),
+    ("Op Belegger Kees", [
+        ("beginners", "https://beleggerkees.nl/beleggen-voor-beginners", "Beleggen voor beginners"),
+        ("mindset", "https://beleggerkees.nl/mindset-en-beleggen", "Mindset en beleggen"),
+        ("ai", "https://beleggerkees.nl/beleggen-met-ai", "Beleggen met AI"),
     ]),
     ("Kees van Wanrooij", [
-        ("home", HUB + "/", "Home"),
         ("over-mij", HUB + "/over-mij/", "Over mij"),
         ("linkedin", "https://www.linkedin.com/in/keesvanwanrooij/", "LinkedIn"),
         ("instagram", "https://www.instagram.com/beleggerkees/", "Instagram"),
@@ -66,7 +67,7 @@ def eco_html():
             for k, h, t in links)
         cols.append(f'<nav aria-label="{esc(kop)}"><p class="foot-h">{esc(kop)}</p><ul>{lis}</ul></nav>')
     return ('<div class="foot-eco"><div><p class="foot-brand">Kees van Wanrooij<span class="dot">.</span></p>'
-            '<p class="foot-tag">Belegger en NLP-practitioner. Oprichter van Belegger Kees. Educatie, geen beleggingsadvies.</p></div>'
+            '<p class="foot-tag">Ondernemer, belegger en NLP-practitioner. Oprichter van Belegger Kees. Educatie, geen beleggingsadvies.</p></div>'
             + "".join(cols) + '</div>')
 
 
