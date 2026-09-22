@@ -44,10 +44,11 @@ ECO = [
         ("beleggen", HUB + "/beleggen/", "Beleggen met GARP en NLP"),
         ("welke-kees", HUB + "/welke-kees/", "Welke Kees is Belegger Kees?"),
     ]),
-    ("Op Belegger Kees", [
+    ("Meer over beleggen", [
         ("beginners", "https://beleggerkees.nl/beleggen-voor-beginners", "Beleggen voor beginners"),
         ("mindset", "https://beleggerkees.nl/mindset-en-beleggen", "Mindset en beleggen"),
         ("ai", "https://beleggerkees.nl/beleggen-met-ai", "Beleggen met AI"),
+        ("faq", HUB + "/veelgestelde-vragen/", "Veelgestelde vragen"),
     ]),
     ("Kees van Wanrooij", [
         ("over-mij", HUB + "/over-mij/", "Over mij"),
