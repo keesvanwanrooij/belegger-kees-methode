@@ -8,7 +8,7 @@ Hier staat aanvullende uitleg bij de methode.
 - [DCF, eindwaarde en intern rendement](../../02-Manifesto/06-DCF-Model.md): financiële begrippen binnen het rekenmodel.
 - [Beleggingsfilosofie en GARP](../../02-Manifesto/01-Beleggingsfilosofie.md): hoe groei, prijs en mijn eigen afweging samenkomen.
 
-NLP betekent hier neurolinguïstisch programmeren. In informatica wordt dezelfde afkorting ook gebruikt voor natural language processing, de automatische verwerking van menselijke taal. Dat is niet dezelfde betekenis als mijn persoonlijke NLP-werkwijze.
+NLP betekent hier Neuro Linguïstisch Programmeren. In informatica wordt dezelfde afkorting ook gebruikt voor natural language processing, de automatische verwerking van menselijke taal. Dat is niet dezelfde betekenis als mijn persoonlijke NLP-werkwijze.
 
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 

@@ -65,7 +65,7 @@ Een eigen website-export moet een expliciete selectie openbare bestanden gebruik
 - Watchlist betekent een afgerond dossier met koopzone waarvan de prijs nog niet past. Onderzoeksfase en reden om te volgen blijven apart.
 - DCF: jaar 0 en prognosejaren 1–11, eindmultiple als hoofdmethode, Gordon Growth als controle; doorgaans 8–12 procent als onderbouwde subjectieve disconteringsvoet.
 - De werkset is vijf Excel-werkboeken en twee Word-sjablonen in `05-Resources/Templates/`, gebouwd met scripts en in Excel doorgerekend. Status: werkversie, nog niet in een echte doorloop getoetst. Noem ze niet gevalideerd.
-- NLP is hier neurolinguïstisch programmeren. Persoonlijke modellering is niet hetzelfde als een getraind AI-model of bewijs van voorspellend rendement.
+- NLP is hier Neuro Linguïstisch Programmeren. Persoonlijke modellering is niet hetzelfde als een getraind AI-model of bewijs van voorspellend rendement.
 - NLP-coaching: Kees is opgeleid als NLP Practitioner; noem geen instituut, Master-titel of andere certificering zonder bevestiging. Coaching is geen therapie en geen beleggingsadvies; beschrijf NLP niet als wetenschappelijk bewezen. Betaalde coachingssessies mogen genoemd worden zonder prijs, met verwijzing naar beleggerkees.nl; registreren voor de Community via https://community.beleggerkees.nl/registreren. Geen verzonnen klantverhalen, citaten of resultaten, en niets van klanten of leden in een publicatie zonder schriftelijke toestemming. De ambitie om de herkenbare naam voor NLP-coaching voor beleggers te worden, blijft een ambitie en geen claim.
 - Gebruik publiek aandelenanalyse en onderzoeksrapport. Voeg geen betaalde rapportstatus, koopadvies, prijs of beschikbaarheid toe.
 

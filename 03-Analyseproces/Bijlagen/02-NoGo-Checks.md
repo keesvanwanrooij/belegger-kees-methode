@@ -96,7 +96,7 @@ Ik kijk naar investeringen, overnames, dividend, aandeleninkoop, beloning en ope
 
 Ik vergelijk openbare calls en antwoorden over meerdere perioden. Welke maatstaf ontbreekt? Verandert een termijn? Welk onderwerp blijft onbeantwoord? Ik leg observatie, context en mogelijke uitleg apart vast.
 
-Een bepaalde woordkeuze of zintuiglijke formulering bewijst geen misleiding. Mijn toepassing van NLP, neurolinguïstisch programmeren, helpt onderzoeksvragen maken; zij bepaalt niet iemands karakter.
+Een bepaalde woordkeuze of zintuiglijke formulering bewijst geen misleiding. Mijn toepassing van NLP, Neuro Linguïstisch Programmeren, helpt onderzoeksvragen maken; zij bepaalt niet iemands karakter.
 
 ## De uitkomst
 

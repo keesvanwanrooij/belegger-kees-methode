@@ -4,7 +4,7 @@ De Belegger Kees Methode beschrijft mijn persoonlijke werkwijze. Zij kan je help
 
 Een waardering, scenario of historische transactie is uitleg van onderzoek. Het is geen belofte over een toekomstige koers of een uitkomst die voor jouw situatie passend is. Ik ken jouw financiële omstandigheden, kennis, verplichtingen en verliesruimte niet.
 
-NLP staat hier voor neurolinguïstisch programmeren. Ik gebruik het als praktische methode voor mijn eigen ontwikkeling en het onderzoeken van taal en verwachtingen. Ik presenteer het niet als bewijs dat ik toekomstige rendementen kan voorspellen of iemands intenties kan vaststellen.
+NLP staat hier voor Neuro Linguïstisch Programmeren. Ik gebruik het als praktische methode voor mijn eigen ontwikkeling en het onderzoeken van taal en verwachtingen. Ik presenteer het niet als bewijs dat ik toekomstige rendementen kan voorspellen of iemands intenties kan vaststellen.
 
 ## Openbaar onderzoek
 
