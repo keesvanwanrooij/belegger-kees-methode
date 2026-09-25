@@ -1,6 +1,6 @@
 # De methode vinden en begrijpen
 
-Ik wil dat mensen Belegger Kees kunnen vinden wanneer ze meer willen begrijpen van aandelenanalyse, waardering, beleggingspsychologie en NLP (neurolinguïstisch programmeren) voor hun financiën. Daarom schrijf ik over onderwerpen waar ik zelf mee werk en leg ik uit hoe mijn onderdelen met elkaar samenhangen.
+Ik wil dat mensen Belegger Kees kunnen vinden wanneer ze meer willen begrijpen van aandelenanalyse, waardering, beleggingspsychologie en NLP (Neuro Linguïstisch Programmeren) voor hun financiën. Daarom schrijf ik over onderwerpen waar ik zelf mee werk en leg ik uit hoe mijn onderdelen met elkaar samenhangen.
 
 Deze repository is de openbare bron van de methode. Ik schrijf eerst voor mensen die al beleggen en een eigen structuur willen om bedrijven te onderzoeken. Ook mensen die via NLP bij Belegger Kees uitkomen kunnen hier zien hoe ik die manier van denken toepas op financiën en aandelenonderzoek.
 

@@ -1,6 +1,6 @@
 # De Belegger Kees Methode: aandelenanalyse, waardering en NLP
 
-Deze methode helpt je om beter naar aandelen te kijken. Ik combineer fundamentele analyse met NLP, neurolinguïstisch programmeren, om betere keuzes te maken. In deze repository leg ik uit hoe ik bedrijven selecteer, hun groeimogelijkheden onderzoek en het verwachte rendement afweeg tegen het risico.
+Deze methode helpt je om beter naar aandelen te kijken. Ik combineer fundamentele analyse met NLP, Neuro Linguïstisch Programmeren, om betere keuzes te maken. In deze repository leg ik uit hoe ik bedrijven selecteer, hun groeimogelijkheden onderzoek en het verwachte rendement afweeg tegen het risico.
 
 Ik ben [Kees van Wanrooij, de maker van Belegger Kees](08-Over-Belegger-Kees/README.md). Ik deel mijn beleggingsreis en de lessen die ik daaruit leer. Door mijn werkwijze op te schrijven maak ik ook voor mijzelf zichtbaar hoe ik denk, welke informatie ik gebruik en waar ik mijn afweging kan verbeteren.
 

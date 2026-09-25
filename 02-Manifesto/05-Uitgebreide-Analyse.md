@@ -98,7 +98,7 @@ De opbouw staat in [rapportage](09-Rapportage.md). Ik bepaal apart welke delen v
 
 ## 5.3 NLP toepassen op openbare communicatie
 
-NLP staat hier voor neurolinguïstisch programmeren. De uitgangspunten achter de taalpatronen hieronder staan in [NLP en beleggen](02-NLP-Presupposities.md).
+NLP staat hier voor Neuro Linguïstisch Programmeren. De uitgangspunten achter de taalpatronen hieronder staan in [NLP en beleggen](02-NLP-Presupposities.md).
 
 ### Metamodelvragen
 

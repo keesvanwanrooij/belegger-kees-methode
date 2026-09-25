@@ -6,7 +6,7 @@ Ik zoek bedrijven met een hoge potentie voor groei waarvan ik inschat dat ze min
 
 ## 1.1 NLP, beleggen en mezelf modelleren
 
-NLP staat hier voor neurolinguïstisch programmeren. Ik gebruik het om meer uit mezelf te halen en de wereld om mij heen beter te begrijpen. Daar horen taalpatronen bij, maar ook mijn overtuigingen, interne representaties, emoties en de manier waarop ik informatie verwerk. Het kunnen sturen van mijn "state" helpt mij ervoor de kiezen om als de beste versie van mezelf die dag aan het werk te gaan.
+NLP staat hier voor Neuro Linguïstisch Programmeren. Ik gebruik het om meer uit mezelf te halen en de wereld om mij heen beter te begrijpen. Daar horen taalpatronen bij, maar ook mijn overtuigingen, interne representaties, emoties en de manier waarop ik informatie verwerk. Het kunnen sturen van mijn "state" helpt mij ervoor de kiezen om als de beste versie van mezelf die dag aan het werk te gaan.
 
 Bij modelleren onderzoek ik hoe gedrag tot stand komt. Bij beleggen kijk ik bijvoorbeeld terug naar de vragen die ik mezelf stelde, welke informatie mijn aandacht kreeg en hoe mijn vertrouwen zich ontwikkelde. Dat doe ik bij besluiten waar ik tevreden over ben en bij besluiten die achteraf tegenvielen. Een goede uitkomst kan geluk bevatten. Een tegenvallende uitkomst kan ook bij een zorgvuldig besluit horen.
 

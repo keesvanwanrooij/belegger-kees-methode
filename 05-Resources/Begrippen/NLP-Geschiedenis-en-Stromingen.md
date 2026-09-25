@@ -1,6 +1,6 @@
 # NLP: geschiedenis, belangrijke stromingen en mijn toepassing
 
-NLP staat hier voor neurolinguïstisch programmeren. Ik gebruik het als praktische methode om meer uit mezelf te halen en de wereld om mij heen beter te begrijpen. Bij Belegger Kees verbind ik dat met mijn beleggingsgedrag en mijn manier van aandelen analyseren.
+NLP staat hier voor Neuro Linguïstisch Programmeren. Ik gebruik het als praktische methode om meer uit mezelf te halen en de wereld om mij heen beter te begrijpen. Bij Belegger Kees verbind ik dat met mijn beleggingsgedrag en mijn manier van aandelen analyseren.
 
 Om die toepassing te begrijpen helpt het om te weten waar NLP vandaan komt. Dit overzicht beschrijft belangrijke ontwikkellijnen. Het is geen complete catalogus van alle opleidingen, merknamen en latere varianten. Die lopen deels door elkaar en gebruiken niet altijd dezelfde indeling.
 

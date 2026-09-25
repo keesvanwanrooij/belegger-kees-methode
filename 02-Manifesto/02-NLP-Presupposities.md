@@ -1,6 +1,6 @@
 # NLP en beleggen: tien presupposities die ik gebruik
 
-NLP-presupposities zijn uitgangspunten waarmee ik naar mezelf en de wereld kijk. NLP staat hier voor neurolinguïstisch programmeren. Ze helpen mij om mijn beleggingsgedrag, verwachtingen en communicatie beter te begrijpen. In dit hoofdstuk leg ik tien van deze uitgangspunten uit. Je leest steeds wat de presuppositie traditioneel betekent en hoe ik haar toepas tijdens mijn aandelenonderzoek.
+NLP-presupposities zijn uitgangspunten waarmee ik naar mezelf en de wereld kijk. NLP staat hier voor Neuro Linguïstisch Programmeren. Ze helpen mij om mijn beleggingsgedrag, verwachtingen en communicatie beter te begrijpen. In dit hoofdstuk leg ik tien van deze uitgangspunten uit. Je leest steeds wat de presuppositie traditioneel betekent en hoe ik haar toepas tijdens mijn aandelenonderzoek.
 
 De gebruikelijke spelling is *presupposities*. Binnen NLP bestaan verschillende lijsten en formuleringen. Dit zijn de tien uitgangspunten die het beste bij mijn werkwijze passen. De traditionele betekenissen zijn beknopt gebaseerd op de [beschrijving van Robert Dilts](https://www.nlpu.com/Articles/artic20.htm) en het [overzicht van NLP University](https://www.nlpu.com/FoundationSample/NLPU%20100%20Presuppositions-s.pdf). De toepassing op beleggen is mijn eigen uitwerking.
 

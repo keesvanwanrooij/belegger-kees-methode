@@ -1,6 +1,6 @@
 # Manifesto: de Belegger Kees Methode
 
-Deze elf hoofdstukken laten je zien hoe ik naar aandelen kijk. Ik combineer fundamentele analyse, waardering, beleggingspsychologie en NLP (neurolinguïstisch programmeren) om mijn keuzes beter te begrijpen en te onderbouwen.
+Deze elf hoofdstukken laten je zien hoe ik naar aandelen kijk. Ik combineer fundamentele analyse, waardering, beleggingspsychologie en NLP (Neuro Linguïstisch Programmeren) om mijn keuzes beter te begrijpen en te onderbouwen.
 
 Begin bij de filosofie en de NLP-uitgangspunten. Daarna volg je mijn werk van een eerste selectie tot onderzoek, waardering, uitvoering en terugkijken.
 

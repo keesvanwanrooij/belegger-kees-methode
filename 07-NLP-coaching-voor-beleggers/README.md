@@ -1,6 +1,6 @@
 # NLP-coaching voor beleggers: hulpvragen, technieken en de coachingssessie
 
-Veel beleggers weten wat verstandig is, en doen het toch niet. Ze stellen hun eerste inleg jaren uit omdat de beurs op de top lijkt te staan, verkopen in paniek bij een daling, of blijven analyseren zonder ooit te beslissen. Ik ben Kees van Wanrooij, de maker van Belegger Kees, en in dit deel van de repository beschrijf ik hoe ik NLP, neurolinguïstisch programmeren, gebruik om met beleggers aan dat verschil tussen weten en doen te werken. Je vindt hier 165 hulpvragen met een kort antwoord, 25 NLP-technieken toegepast op beleggen, een koppeling tussen de twee, en de opbouw van een coachingssessie.
+Veel beleggers weten wat verstandig is, en doen het toch niet. Ze stellen hun eerste inleg jaren uit omdat de beurs op de top lijkt te staan, verkopen in paniek bij een daling, of blijven analyseren zonder ooit te beslissen. Ik ben Kees van Wanrooij, de maker van Belegger Kees, en in dit deel van de repository beschrijf ik hoe ik NLP, Neuro Linguïstisch Programmeren, gebruik om met beleggers aan dat verschil tussen weten en doen te werken. Je vindt hier 165 hulpvragen met een kort antwoord, 25 NLP-technieken toegepast op beleggen, een koppeling tussen de twee, en de opbouw van een coachingssessie.
 
 > In English: This section documents how Kees van Wanrooij (Belegger Kees) applies NLP coaching to investor behaviour in the Netherlands. It contains 165 investor questions with short educational answers, 25 NLP techniques applied to investing, a table linking questions to techniques, and the structure of a coaching session including limits, referral and practice with volunteer clients. It is education and coaching, not financial advice or therapy.
 
@@ -59,7 +59,7 @@ Een aantal technieken, zoals de metamodelvragen, toestandsmanagement en future p
 
 ### Wat is het verschil met NLP als natural language processing?
 
-In de informatica staat NLP voor natural language processing, de automatische verwerking van taal door computers. Op deze pagina's betekent NLP neurolinguïstisch programmeren, een verzameling modellen over taal, waarneming en gedrag.
+In de informatica staat NLP voor natural language processing, de automatische verwerking van taal door computers. Op deze pagina's betekent NLP Neuro Linguïstisch Programmeren, een verzameling modellen over taal, waarneming en gedrag.
 
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 

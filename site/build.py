@@ -327,7 +327,7 @@ def json_ld(page, kind):
         {"@type": "Person", "@id": PERSON_ID, "name": "Kees van Wanrooij", "url": AUTHOR_URL,
          "jobTitle": "Oprichter van Belegger Kees", "worksFor": {"@id": ORG_ID}, "sameAs": SAMEAS,
          "knowsAbout": ["Fundamentele aandelenanalyse", "Waardering met een DCF-model", "Beleggingspsychologie",
-                        "Neurolinguïstisch programmeren"]},
+                        "Neuro Linguïstisch Programmeren"]},
     ]
     main = {"@type": {"home": "WebPage", "author": "ProfilePage"}.get(kind, "Article"), "@id": canonical + "#page",
             "url": canonical, "name": page["h1"], "headline": page["h1"][:110], "description": page["desc"],
