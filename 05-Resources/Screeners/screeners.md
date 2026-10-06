@@ -28,7 +28,7 @@ De filters en kolommen staan in de opgeslagen screeners en op deze pagina; die s
 
 | Universum | Rol | Landen | Market capitalization | Sectoren |
 | --- | --- | --- | --- | --- |
-| A. Snelle groeiers | Hoofdroute | Alle DeGiro-landen behalve de Verenigde Staten | 200 miljoen tot 5 miljard dollar | De groeisectoren |
+| A. Snelle groeiers | Hoofdroute | Alle DeGiro-landen behalve de Verenigde Staten en Singapore | 200 miljoen tot 5 miljard dollar | De groeisectoren |
 | B. Cyclische bedrijven | Vangnet: grondstofprijzen en de economische cyclus | Alle DeGiro-landen behalve de Verenigde Staten | 200 miljoen tot 10 miljard dollar | Energie, mijnbouw, metalen, basischemie, landbouwgrondstoffen, papier, scheepvaart, auto's, woningbouw, metaalbewerking, zware machines |
 | C. Gereguleerde bedrijven | Vangnet: overheid en toezichthouder | Alle DeGiro-landen behalve de Verenigde Staten | 500 miljoen tot 30 miljard dollar | Nuts, telecom, vervoer, pijpleidingen, afval, defensie, zorgdiensten, kansspelen, tabak, overheid |
 | D. Omzetgroei zonder winst | Vangnet: nog geen winst | DeGiro-landen in Europa, en Canada | 200 miljoen tot 5 miljard dollar | De groeisectoren |
@@ -54,7 +54,10 @@ Ik screen alleen op beurzen waar ik bij mijn broker gewone aandelen kan kopen. D
 | Verenigde Staten | NASDAQ, NYSE, NYSE American; NYSE Arca laat ik uit, daar noteren vooral fondsen | Alleen E en de landenlijst Verenigde Staten |
 | Canada | Toronto Stock Exchange, TSX Venture | A, B, C, D, F, G, H |
 | Hongkong | Hong Kong Stock Exchange | A, B, C, F, G, H en de landenlijst Hongkong; let op de lotgrootte |
-| Japan, Singapore, Australië | Tokyo Stock Exchange, Singapore Exchange, ASX | A, B, C, F, G, H; bij Japan let ik op verslaggeving in het Engels |
+| Japan en Australië | Tokyo Stock Exchange, ASX | A, B, C, F, G, H; bij Japan let ik op verslaggeving in het Engels |
+| Singapore | Singapore Exchange | B, C, F, G, H; niet in A, zie hieronder |
+
+Singapore staat wel bij DeGiro, maar ik laat het uit A weg: de informatievoorziening is daar minder. Bedrijven zijn moeilijker te doorgronden en hebben weinig dekking bij Seeking Alpha en in de gegevensbronnen die ik in Excel gebruik. Bij B, C, F, G en H blijft Singapore voorlopig staan `[te controleren: of ik dat ook daar wil]`.
 
 Wat ik bewust weglaat: Tradegate is een handelsplatform en geen thuisbeurs, dus daar screen ik niet op. Chinese A-aandelen op Shanghai of Shenzhen kan ik niet kopen. OTC-noteringen, handel buiten een gereguleerde beurs, laat ik buiten de screener; een bedrijf dat alleen daar noteert bekijk ik hoogstens via zijn thuisbeurs.
 
@@ -103,7 +106,7 @@ Hier zoek ik winstgevende bedrijven met hoge groei van omzet en winst, in de lan
 
 | Filter in TradingView | Instelling |
 | --- | --- |
-| Marktknop | Alle DeGiro-landen uit de tabel hierboven, behalve de Verenigde Staten |
+| Marktknop | Alle DeGiro-landen uit de tabel hierboven, behalve de Verenigde Staten en Singapore |
 | Market capitalization | 200 miljoen tot 5 miljard dollar |
 | Price × average volume, 10 dagen | Meer dan 50.000 dollar |
 | Revenue growth, 5 year CAGR | Meer dan 10 procent |
