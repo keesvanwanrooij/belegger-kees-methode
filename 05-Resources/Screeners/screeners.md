@@ -168,12 +168,15 @@ Dit is het vangnet voor bedrijven met klanten en snel groeiende omzet, maar nog 
 | Marktknop | De DeGiro-landen in Europa, en Canada; niet de Verenigde Staten |
 | Market capitalization | 200 miljoen tot 5 miljard dollar |
 | Omzet over de laatste twaalf maanden | Meer dan 50 miljoen dollar `[te controleren: filternaam voor de totale omzet]` |
-| Revenue growth % (TTM, YoY) | Meer dan 20 procent |
+| Price × average volume, 10 dagen | Meer dan 50.000 dollar |
+| Revenue growth, 5 year CAGR | Meer dan 20 procent |
 | Gross margin % (TTM) | Meer dan 30 procent |
-| Net margin % (TTM) | Minder dan 5 procent; zo overlapt D niet met A |
+| Net margin % (FY) | Minder dan 5 procent; zo overlapt D niet met A |
 | Price to sales ratio | Minder dan 6 |
 | Current ratio | Meer dan 1,5 |
 | Sector en Industry | De groeisectoren |
+
+Op 6 oktober 2026 heb ik D op dezelfde punten aangescherpt als A: omzetgroei over vijf jaar in plaats van over de laatste twaalf maanden, nettomarge over het boekjaar, en een liquiditeitsfilter op koers maal gemiddeld volume over tien dagen. Het gevolg is dat een bedrijf dat korter dan vijf jaar bestaat of genoteerd is, hier buiten de lijst valt. Zo'n bedrijf bekijk ik niet via deze screener; wil ik het wel zien, dan zet ik de vijfjaarsfilter tijdelijk uit en noteer ik dat als afwijking. Een winstfilter heeft D niet, dus de winstgroei en het rendement op eigen vermogen uit A komen hier niet terug.
 
 Een positieve brutomarge betekent niet dat winstgevendheid alleen een kwestie van tijd is. Acquisitiekosten, vaste kosten, behoud van klanten en concurrentie kunnen dat pad veranderen. Bij deze bedrijven horen de financieringsvragen uit check 6 en 7 van de [No Go checks](../../03-Analyseproces/Bijlagen/02-NoGo-Checks.md) voorop. Azië en Oost-Europa laat ik hier uit, omdat de informatie over verliesgevende kleine bedrijven daar voor mij moeilijker te controleren is. De Verenigde Staten zitten alleen in E.
 
@@ -186,14 +189,17 @@ Dit is het vangnet voor kleinere winstgevende groeibedrijven in de Verenigde Sta
 | Marktknop | Verenigde Staten; beurzen NASDAQ, NYSE en NYSE American |
 | Market capitalization | 100 miljoen tot 2 miljard dollar |
 | Price | Meer dan 3 dollar |
-| Price × average volume | Meer dan 1 miljoen dollar per dag |
-| Revenue growth % (TTM, YoY) | Meer dan 12 procent |
-| Earnings per share diluted growth % (TTM, YoY) | Meer dan 18 procent |
-| Net margin % (TTM) | Meer dan 5 procent |
+| Price × average volume, 10 dagen | Meer dan 1 miljoen dollar per dag |
+| Revenue growth, 5 year CAGR | Meer dan 12 procent |
+| Net income growth % (TTM, YoY) | Meer dan 18 procent |
+| Net margin % (FY) | Meer dan 5 procent |
+| Return on equity % (TTM) | Meer dan 10 procent |
 | Price to earnings ratio | Tussen 0 en 35 |
 | Sector en Industry | De groeisectoren, dezelfde industrieën als A, D en F |
 
 E is het enige universum met de Verenigde Staten, en het gebruikt dezelfde industrieën als A, D en F. Amerikaanse cyclische, gereguleerde en financiële bedrijven en Amerikaanse life sciences zitten dus in geen enkel universum; die zie ik alleen in de landenlijst Verenigde Staten. Wil ik in een ronde toch een van die industrieën in E meenemen, dan zet ik hem bewust aan en noteer ik dat op deze pagina als afwijking.
+
+Op 6 oktober 2026 heb ik E op dezelfde punten aangescherpt als A: omzetgroei over vijf jaar, winstgroei op de nettowinst in plaats van de winst per aandeel, nettomarge over het boekjaar, en een verplicht rendement op eigen vermogen. De drempels zijn ongewijzigd, behalve het rendement op eigen vermogen, dat ik net als bij A op 10 procent zet. Het liquiditeitsfilter was hier al strenger dan bij A en blijft dat. Ook hier valt een bedrijf met minder dan vijf jaar historie af.
 
 De ondergrens van 3 dollar en de dagomzet van 1 miljoen dollar houden de allerkleinste en minst verhandelbare aandelen buiten de lijst. Bij Amerikaanse bedrijven let ik op de boekhoudstandaard: US GAAP behandelt leases en ontwikkelkosten anders dan IFRS. Wat dat voor mijn cijfers betekent staat in [hoofdstuk 6](../../02-Manifesto/06-DCF-Model.md). Een bedrijf dat in de Verenigde Staten noteert maar elders is gevestigd en daar zijn omzet haalt, bekijk ik extra kritisch op informatie en toezicht.
 
@@ -444,4 +450,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 6 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
