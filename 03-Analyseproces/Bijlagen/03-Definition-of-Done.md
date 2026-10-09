@@ -4,9 +4,9 @@ Ik wil vooraf kunnen beschrijven wat een bruikbare uitkomst is. Dat voorkomt dat
 
 ## Screening
 
-Ik heb doorgaans vijf tot tien kandidaten met ticker, DeGiro-code, land, de screener waar de naam uit komt, sector, industrie, het businessmodel in een paar woorden, de reden om verder te kijken, wat er mis kan gaan en het omzetmodel. De ruwe lijst mag ongeveer honderd namen bevatten. Het tabblad Ronde van het screeningwerkboek toont geen kandidaten zonder reden, risico, omzetmodel of DeGiro-code. De filters staan in de opgeslagen screeners; wijk ik ervan af, dan pas ik de screenerpagina aan met de reden.
+Ik heb per batch vier kandidaten voor de snelle analyse, met ticker, DeGiro-code, land, de herkomst van de naam, sector, industrie, het businessmodel in een paar woorden, de reden om verder te kijken, wat er mis kan gaan en het omzetmodel. De lijst waaruit ik kies, de undercovered-lijst van Seeking Alpha, mag veel langer zijn. Het tabblad Ronde van het screeningwerkboek toont geen kandidaten zonder reden, risico, omzetmodel of DeGiro-code. Gebruik ik de TradingView-route, dan staan de filters in de opgeslagen screeners; wijk ik ervan af, dan pas ik de screenerpagina aan met de reden.
 
-Een ronde zonder geschikte kandidaten kan ook een goede uitkomst zijn. Ik pas filters niet alleen aan om de lijst alsnog te vullen. Mijn doelritme is per kwartaal, met jaarlijks als minimum en ruimte om bestaande kansen eerst af te werken.
+Een batch met minder dan vier overtuigende namen kan ook een goede uitkomst zijn. Ik vul de batch niet aan met namen waar ik geen reden voor heb en pas filters niet alleen aan om de lijst alsnog te vullen. Mijn doelritme is een batch per maand, met ruimte om bestaande kansen eerst af te werken. Mijn doel is minstens vier artikelen per batch; valt een naam snel af en is er ruimte, dan krijgt de volgende naam van de lijst een snelle analyse.
 
 ## Snelle analyse
 
@@ -42,7 +42,7 @@ Een intern bruikbaar dossier is nog niet automatisch publicatieklaar. Voor een o
 
 ## Tijd en uitzonderingen
 
-Een screening kost doorgaans een middag en een snelle analyse enkele uren. Dieper onderzoek kan ongeveer twintig uur vragen en soms aanzienlijk meer. Tijdsindicaties helpen mij kiezen; zij zijn geen verplichte tijdslimieten.
+Het kiezen uit de lijst moet snel gaan en een snelle analyse kost enkele uren. Dieper onderzoek kan ongeveer twintig uur vragen en soms aanzienlijk meer. Tijdsindicaties helpen mij kiezen; zij zijn geen verplichte tijdslimieten.
 
 Als een andere uitkomst of volgorde beter past, leg ik uit waarom. Dan blijft de methode een bruikbaar hulpmiddel.
 
@@ -54,4 +54,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 9 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

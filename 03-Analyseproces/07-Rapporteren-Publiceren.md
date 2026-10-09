@@ -2,6 +2,8 @@
 
 Een analyse is pas af als ik haar kan uitleggen aan iemand die mijn onderzoek niet heeft gedaan. Ik schrijf twee vormen: een korte aandelenanalyse als blogpost, en een uitgebreid onderzoeksrapport. Beide beginnen als werkversie in mijn werkmap en komen pas in de openbare map als ze de publicatiecontrole doorstaan. Een automatisch opgeslagen werkbestand is nog geen publicatie.
 
+In een maandelijkse batch wordt de afgeronde analyse van elke naam die de snelle analyse overleeft bovendien een artikel op Seeking Alpha. Daarvoor gelden dezelfde regels als voor mijn andere publicaties: de zeven punten van de publicatiecontrole, mijn positie en belangen op de publicatiedatum, geen koersdoel en geen koopadvies. Het platform heeft eigen auteursregels en die gaan voor; ik lees de actuele versie voordat ik aan een artikel begin. Een artikel voor een extern platform schrijf ik zelf. AI helpt mij daarbij met onderzoek, rekenwerk en controle, niet met de tekst.
+
 ## Doel
 
 Een tekst waarin de lezer kan volgen waar mijn conclusie vandaan komt, kan zien waar ik onzeker ben, en begrijpt waarom ik een risico anders beoordeel dan de markt. Zonder koersdoel, zonder koopadvies, met mijn positie en belangen op de publicatiedatum erbij.
@@ -24,7 +26,7 @@ Het afgeronde dossier uit [stap 3](03-Uitgebreid-Analyseren.md) en [stap 4](04-W
 4. **De risico's.** Ze krijgen genoeg ruimte om te begrijpen. De pre-mortem uit stap 2 en de rode vlaggen uit stap 3 zijn het materiaal; ik kies de risico's die ertoe doen en som niet alles op.
 5. **De publicatiecontrole.** Ik loop de zeven punten uit de [publicatiecontrole](../01-Docs/07-Publicatiecontrole.md) na: bedrijf en verslagperiode, gecontroleerde cijfers, onzekerheden en tegenargumenten, positie en belangen op de publicatiedatum, waar ik AI voor heb gebruikt, geen privégegevens of materiaal zonder rechten, en status, auteur, datum en links.
 6. **Zelf teruglezen.** Ik publiceer alleen een tekst die ik zelf heb nagelezen. Een concept van een taalmodel is nog niet goedgekeurd omdat het mijn stem nabootst.
-7. **Publiceren.** De gecontroleerde versie gaat naar [Onderzoek/Analyses](../04-Onderzoek/Analyses/README.md) met een eigen README: bedrijf en notering, onderzoeksvraag, conclusie, verslagperiode, status, bronnen, onzekerheden en positieverklaring. De blogpost gaat naar beleggerkees.nl. De werkversie blijft in de werkmap.
+7. **Publiceren.** De gecontroleerde versie gaat naar [Onderzoek/Analyses](../04-Onderzoek/Analyses/README.md) met een eigen README: bedrijf en notering, onderzoeksvraag, conclusie, verslagperiode, status, bronnen, onzekerheden en positieverklaring. De blogpost gaat naar beleggerkees.nl. Het artikel voor Seeking Alpha plaats ik op dat platform, pas na dezelfde controle. De werkversie blijft in de werkmap.
 8. **Corrigeren.** Een tikfout herstel ik direct. Bij een inhoudelijke fout komt er een zichtbare correctienotitie met datum, oude strekking, juiste uitleg en bron. Een historisch besluit verander ik niet achteraf.
 
 ## Prompts
@@ -55,4 +57,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 9 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

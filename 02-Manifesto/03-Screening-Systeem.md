@@ -6,6 +6,8 @@ Tijd is mijn grootste bezit. Als ik al een aantal overtuigende kandidaten heb, o
 
 ## 3.1 Wanneer ik een nieuwe screening doe
 
+Op dit moment kies ik elke maand uit de undercovered-lijst van Seeking Alpha in plaats van met een eigen screener. Dat is een keuze om kosten, uitgelegd in [stap 1 van het analyseproces](../03-Analyseproces/01-Screenen.md#waarom-deze-lijst-en-waarom-nu). Wat hieronder staat, is hoe ik met TradingView screen, en dat blijft op de lange termijn mijn route.
+
 Eén keer per kwartaal is mijn richtpunt. Dat betekent niet dat ik ieder kwartaal opnieuw moet beginnen. Als de bestaande kandidaten nog interessant zijn en er al werk ligt, pak ik dat eerst op.
 
 Minstens één keer per jaar ververs ik mijn brede selectie. Ook eerder kan een nieuwe ronde nodig zijn: bijvoorbeeld wanneer er weinig kansrijke namen over zijn, de gegevens ongeveer twaalf maanden oud zijn of de prijs van mijn kandidaten aanzienlijk is gestegen. Een nieuw kwartaalbericht kan al genoeg zijn om een bestaande kandidaat opnieuw te beoordelen, zonder een hele screening te starten.

@@ -1,6 +1,6 @@
 # Stap 2. Snel analyseren
 
-De snelle analyse beantwoordt één vraag: wil ik ongeveer twintig uur verder onderzoek aan dit bedrijf besteden, of staat er een betere kandidaat op mijn lijst? Ik kijk eerst naar wat fout kan gaan en pas daarna naar wat goed kan gaan. De uitkomst is een keuze per kandidaat en een voorkeursvolgorde over alle kandidaten heen.
+De snelle analyse beantwoordt één vraag: wil ik ongeveer twintig uur verder onderzoek aan dit bedrijf besteden, of staat er een betere kandidaat op mijn lijst? Ik kijk eerst naar wat fout kan gaan en pas daarna naar wat goed kan gaan. De uitkomst is een keuze per kandidaat en een voorkeursvolgorde over alle kandidaten heen. Binnen een maandelijkse batch is dit de poort naar de uitgebreide analyse: de vier namen uit [stap 1](01-Screenen.md) krijgen elk een snelle analyse, wie "verder onderzoeken" krijgt gaat door, en valt een naam snel af terwijl er nog ruimte in de batch is, dan krijgt de volgende naam van de lijst dezelfde analyse.
 
 ## Doel
 
@@ -53,7 +53,7 @@ De [Definition of Done](Bijlagen/03-Definition-of-Done.md) voor de snelle analys
 
 ## Hoe lang het duurt
 
-Enkele uren per kandidaat. Een naam die snel afvalt kost een uur. Zit ik na een dag nog in fase 2, dan pak ik het [vastloopprotocol](Bijlagen/04-Vastloop-Protocol.md) erbij: meestal ben ik dan aan het verzamelen in plaats van aan het filteren.
+Enkele uren per kandidaat. Een naam die snel afvalt kost een uur; daardoor kan ik in een batch meer dan vier namen bekijken. Zit ik na een dag nog in fase 2, dan pak ik het [vastloopprotocol](Bijlagen/04-Vastloop-Protocol.md) erbij: meestal ben ik dan aan het verzamelen in plaats van aan het filteren.
 
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
@@ -63,4 +63,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 9 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

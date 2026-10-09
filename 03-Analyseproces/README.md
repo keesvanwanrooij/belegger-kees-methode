@@ -7,13 +7,17 @@ De stappen volgen de trechter van de methode. Niet elke stap hoort bij elk bedri
 | Stap | Pagina | Wat eruit komt |
 | --- | --- | --- |
 | 0 | [Voorbereiden](00-Voorbereiden.md) | Een ingevulde incheck, een werkmap en de bronnen bij de hand |
-| 1 | [Screenen](01-Screenen.md) | Vijf tot tien kandidaten met een reden om verder te kijken |
+| 1 | [Screenen](01-Screenen.md) | Vier kandidaten uit de Seeking Alpha-lijst voor de snelle analyse, elk met een reden om verder te kijken |
 | 2 | [Snel analyseren](02-Snel-Analyseren.md) | Per kandidaat: verder onderzoeken, later terugkomen of stoppen, en een voorkeursvolgorde |
 | 3 | [Uitgebreid analyseren](03-Uitgebreid-Analyseren.md) | Een dossier waarin ik het bedrijf, de risico's en het bestuur kan uitleggen |
 | 4 | [Waarderen](04-Waarderen.md) | Drie scenario's, een verwacht rendement en een koopzone |
 | 5 | [Universum bijhouden](05-Universum-Bijhouden.md) | Een lijst waarvan ik elke naam kan uitleggen, met een volgende actie |
 | 6 | [Kopen, aanhouden en verkopen](06-Kopen-Aanhouden-Verkopen.md) | Een vastgelegde reden bij elke beslissing en de signalen die ik volg |
-| 7 | [Rapporteren en publiceren](07-Rapporteren-Publiceren.md) | Een blogpost of onderzoeksrapport dat de publicatiecontrole doorstaat |
+| 7 | [Rapporteren en publiceren](07-Rapporteren-Publiceren.md) | Een blogpost, onderzoeksrapport of artikel op Seeking Alpha dat de publicatiecontrole doorstaat |
+
+## Hoe de stappen in een maandelijkse batch lopen
+
+Ik werk in maandelijkse batches. Een batch begint bij de lijst met undercovered aandelen van Seeking Alpha, aandelen waar recent weinig over is geschreven (stap 1). De vier meest kansrijke namen krijgen de snelle analyse (stap 2). Valt een naam snel af en is er nog ruimte in de batch, dan krijgt de volgende naam van de lijst dezelfde analyse. Wat de snelle analyse overleeft, krijgt de uitgebreide analyse en de waardering (stap 3 en 4) en wordt een artikel op Seeking Alpha (stap 7). Mijn doel is minstens vier artikelen per batch; dat is een richtlijn en geen dwang. Het bijhouden van het universum en het kopen, aanhouden en verkopen (stap 5 en 6) volgen hun eigen ritme.
 
 ## De bijlagen
 
@@ -28,7 +32,7 @@ De checks zijn richtlijnen. Een belangrijke belemmering kan genoeg reden zijn om
 
 ## Waar het werk staat
 
-Alles wat ik tijdens deze stappen invul staat in mijn privé werkmap, die buiten deze repository blijft. De lege templates staan in [Templates](../05-Resources/Templates/README.md), de prompts in [de promptbibliotheek](../05-Resources/AI-Prompts/prompts-library.md) en de screenerinstellingen in [Screeners](../05-Resources/Screeners/screeners.md). Alleen bewust gedeelde analyses komen in [Onderzoek](../04-Onderzoek/README.md).
+Alles wat ik tijdens deze stappen invul staat in mijn privé werkmap, die buiten deze repository blijft. De lege templates staan in [Templates](../05-Resources/Templates/README.md), de prompts in [de promptbibliotheek](../05-Resources/AI-Prompts/prompts-library.md) en de screenerinstellingen voor de TradingView-route in [Screeners](../05-Resources/Screeners/screeners.md). Alleen bewust gedeelde analyses komen in [Onderzoek](../04-Onderzoek/README.md).
 
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
@@ -38,4 +42,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 9 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
