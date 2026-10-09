@@ -4,7 +4,7 @@ In de uitgebreide analyse wil ik een bedrijf zo goed begrijpen dat ik mijn verwa
 
 ## Doel
 
-Een dossier waarin het parametermodel, de markt, de risico's, de financiering en het bestuur zo beschreven zijn dat ik de kans kan vergelijken met mijn andere kansen en kan uitleggen wat mijn verwachting zou veranderen.
+Een dossier waarin het parametermodel, de markt, de risico's, de financiering en het bestuur zo beschreven zijn dat ik de kans kan vergelijken met mijn andere kansen en kan uitleggen wat mijn verwachting zou veranderen. Binnen een batch is dit dossier de basis voor een artikel op Seeking Alpha, zie [stap 7](07-Rapporteren-Publiceren.md).
 
 ## Wat ik klaarzet
 
@@ -67,4 +67,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 9 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

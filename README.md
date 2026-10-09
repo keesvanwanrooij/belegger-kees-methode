@@ -65,7 +65,7 @@ In mijn methode gaat NLP over waarnemen, taal en mijn eigen afwegingen. Ik onder
 
 ### Hoe vaak screen ik aandelen?
 
-Mijn doel is eens per kwartaal en mijn minimum eens per jaar. Als er nog voldoende kansrijke kandidaten liggen, werk ik die eerst af. Een screening duurt doorgaans een middag en levert uit een ruwe lijst een werkbare selectie van vijf tot tien kandidaten op.
+Op dit moment kies ik elke maand vier namen uit de undercovered-lijst van Seeking Alpha, aandelen waar op dat platform recent weinig over is geschreven. Dat is een keuze om kosten; waarom, staat in [stap 1, screenen](03-Analyseproces/01-Screenen.md#waarom-deze-lijst-en-waarom-nu). Op de lange termijn screen ik weer met TradingView. Dan is mijn doel eens per kwartaal en mijn minimum eens per jaar. Als er nog voldoende kansrijke kandidaten liggen, werk ik die eerst af. Zo'n screening duurt doorgaans een middag en levert uit een ruwe lijst een werkbare selectie van vijf tot tien kandidaten op.
 
 ### Wat zegt een DCF over de waarde van een aandeel?
 

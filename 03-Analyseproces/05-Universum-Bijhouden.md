@@ -16,7 +16,7 @@ Eén rij per bedrijf, altijd actueel, met de fase, de reden om te volgen, de laa
 
 | Fase | Wat ik ermee bedoel |
 | --- | --- |
-| Kandidaat | Uit een screening; nog een eerste beoordeling nodig |
+| Kandidaat | Uit de Seeking Alpha-lijst of een screening; nog een eerste beoordeling nodig |
 | Snelle analyse | Ik onderzoek of ik hier meer tijd aan wil besteden |
 | Uitgebreide analyse | Ik werk de belangrijkste vragen en de waardering uit |
 | Afgerond, met onderhoud | Er ligt genoeg onderzoek voor mijn huidige afweging; nieuwe informatie kan die veranderen |
@@ -61,4 +61,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 9 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

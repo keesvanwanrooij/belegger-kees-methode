@@ -440,7 +440,7 @@ Het tabblad Ronde van het screeningwerkboek telt de kandidaten per screener, lan
 
 Bij elke kandidaat controleer ik bereikbaarheid, lotgrootte, spread en kosten voor mijn beoogde positie. Voor actuele handelsvoorwaarden raadpleeg ik de broker en de betreffende beurs. Historische voorbeelden zijn geen actuele orderinformatie.
 
-Mijn doel is een bruikbare selectie in een middag, met screening doorgaans per kwartaal en minimaal jaarlijks. Wat ik daarna met de kandidaten doe staat in [de werkwijze voor het screenen](../../03-Analyseproces/01-Screenen.md).
+Mijn doel is een bruikbare selectie in een middag, met screening doorgaans per kwartaal en minimaal jaarlijks. Zolang ik maandelijks uit de undercovered-lijst van Seeking Alpha kies, gebruik ik deze screeners als aanvulling. Wat ik daarna met de kandidaten doe staat in [de werkwijze voor het screenen](../../03-Analyseproces/01-Screenen.md).
 
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
