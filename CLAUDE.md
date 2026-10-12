@@ -4,13 +4,12 @@ Deze pagina bevat de werkafspraken voor AI-agents in de repository van de Belegg
 
 De [README](README.md) is de startpagina voor menselijke lezers. Hier staat hoe we aan die inhoud werken. Er is geen afzonderlijk lokaal instructiebestand naast deze pagina nodig.
 
-## Drie regels die altijd gelden
+## Twee regels die altijd gelden
 
 Deze regels gelden ook in een openbare clone zonder `00-Merkgids`.
 
 1. **Educatie, geen advies.** Nooit een aandeel, fonds of product aanbevelen om te kopen of te verkopen, nooit een koersdoel of een rendement in het vooruitzicht, nooit een reactie op iemands persoonlijke situatie met een handelsadvies, nooit de suggestie dat beleggen zonder risico is. Twee vragen: staat er wat iemand moet doen, en is het gericht op deze ene persoon? Allebei ja is advies en mag niet.
-2. **Geen verboden woorden, ook niet in een ontkennende zin:** ruis, hype, in de wereld van vandaag, transformeren, state-of-the-art, naadloos, innovatief, snel rijk, gegarandeerd rendement, logica boven emotie, emoties uitsluiten.
-3. **Geen lang streepje, en niets verzinnen.** Gebruik een komma, een punt, een dubbele punt of een gewoon streepje. Verzin nooit een cijfer, bron, datum of citaat: kun je het niet controleren, zet er `[te controleren]` bij.
+2. **Geen lang streepje, en niets verzinnen.** Gebruik een komma, een punt, een dubbele punt of een gewoon streepje. Verzin nooit een cijfer, bron, datum of citaat: kun je het niet controleren, zet er `[te controleren]` bij.
 
 ## Het doel begrijpen
 
@@ -26,7 +25,7 @@ Vindbaarheid in zoekmachines en AI-zoekresultaten is een doel, geen beloofde uit
 4. Lees vervolgens de passende hoofdstukken, procedures, bronafspraken en hulpmiddelen.
 5. Meld een inhoudelijk conflict of ontbrekende beslissing voordat je daar zelf een nieuwe visie voor invult.
 
-`00-Merkgids/` bevat alle merkafspraken: merk en stem, schrijfregels en verboden woorden, de juridische grens met de disclaimervormen, huisstijl, vindbaarheid, vertrouwen en de publicatiebesluiten. De README van die map zegt wat je bij welke opdracht leest.
+`00-Merkgids/` bevat alle merkafspraken: merk en stem, schrijfregels, de juridische grens met de disclaimervormen, huisstijl, vindbaarheid, vertrouwen en de publicatiebesluiten. De README van die map zegt wat je bij welke opdracht leest.
 
 In een openbare clone ontbreekt `00-Merkgids` bewust. De publieke [schrijfwijze](01-Docs/02-Schrijfwijze.md), [redactionele werkwijze](01-Docs/01-Redactionele-Werkwijze.md) en het Manifesto geven dan de basis. Een gewone correctie hoeft daarop niet vast te lopen. Vraag Kees om context wanneer een merk- of visiekeuze die ontbrekende informatie werkelijk nodig heeft.
 
