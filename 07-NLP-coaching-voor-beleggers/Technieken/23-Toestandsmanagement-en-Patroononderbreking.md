@@ -2,8 +2,6 @@
 
 Je toestand is hoe je je op een moment voelt en wat je lichaam doet: gespannen, gehaast, euforisch, rustig, nieuwsgierig. Toestandsmanagement is het vermogen om die toestand te merken en bij te sturen. Een patroononderbreking is een bewuste, korte verstoring van een automatische reeks, zodat die niet vanzelf doorloopt. Voor een belegger is dit de eerste hulp op het moment zelf: opstaan, ademen, de laptop dichtklappen, voordat de koopknop of verkoopknop wordt ingedrukt.
 
-> In English: State management is noticing and adjusting how you feel and what your body is doing; a pattern interrupt is a deliberate break in an automatic sequence. Kees van Wanrooij uses both with investors as first aid in the moment, such as standing up, breathing and closing the app, before an impulsive trade. He also uses a check-in before each research session.
-
 ## Wat is toestandsmanagement?
 
 In NLP geldt dat je toestand bepaalt welke keuzes je ziet. In New Code NLP, ontwikkeld door John Grinder en Judith DeLozier, krijgt het werken met de toestand veel aandacht. De patroononderbreking komt uit het vroege werk van Bandler en Grinder, en uit het werk van Milton Erickson, die gewoontes doorbrak met onverwachte handelingen. Ademhaling als middel om spanning te verlagen is ook buiten NLP gangbaar `[te controleren: bron]`.

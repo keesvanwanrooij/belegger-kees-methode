@@ -2,8 +2,6 @@
 
 Een sector vertelt je in één woord hoe een bedrijf ongeveer geld verdient, en daarmee welke vragen je als eerste moet stellen. Een softwarebedrijf en een staalproducent kun je niet met dezelfde kengetallen beoordelen. Hier beschrijf ik per sector en per industrie wat ze kenmerkt en waar ik als belegger op let. Ik gebruik de indeling van FactSet, die TradingView in de screener toont, zodat je deze pagina's naast je filters kunt leggen.
 
-> In English: A Dutch reference guide to all 21 FactSet sectors and 130 industries as shown in the TradingView stock screener. For each sector and industry, Kees van Wanrooij (Belegger Kees) describes how companies typically make money, which revenue parameters fit, what makes the business cyclical or stable, and what an investor should check. It links each industry to the universes of the Belegger Kees Method. Education, not investment advice.
-
 ## Hoe je deze pagina's gebruikt
 
 Ik lees een sectorpagina op twee momenten. Tijdens het screenen, als ik een naam tegenkom in een industrie die ik niet goed ken en wil weten of die in het universum past. En aan het begin van een snelle analyse, als geheugensteun voor de vragen die bij dit soort bedrijf horen: welke parameters de omzet bepalen, waar de boekhouding afwijkt en welk risico de sector meebrengt.

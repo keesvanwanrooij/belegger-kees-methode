@@ -2,8 +2,6 @@
 
 Process Industries zijn bedrijven die grondstoffen in grote installaties omzetten in chemicaliën, verpakkingen, papier, textiel en verwerkte landbouwproducten. Hier helpt mijn achtergrond in chemische technologie. De vaste kosten zijn hoog, energie en grondstoffen zijn grote kostenposten, en de bezettingsgraad van de installaties bepaalt de winst. Het belangrijkste onderscheid is dat tussen specialiteiten, waar het bedrijf een prijs kan zetten, en bulkproducten, waar de prijs van de grondstof de winst bepaalt. Waar ik op let: het verschil tussen de prijs van de grondstof en de prijs van het eindproduct, energieprijzen, zeker in Europa, nieuwe capaciteit in de markt, milieuaansprakelijkheden en geplande onderhoudsstops.
 
-> In English: Process Industries covers chemicals, industrial materials, packaging, pulp and paper, textiles and agricultural commodity processing. Fixed costs are high, energy and feedstock are major costs and plant utilisation drives profit. The key split is between specialty products with pricing power and bulk products that follow commodity spreads. Key checks are spreads, energy prices, new capacity, environmental liabilities and maintenance shutdowns.
-
 ## Hoe deze sector in mijn universums valt
 
 Chemicals: Specialty, Industrial Specialties en Containers/Packaging horen bij de groeisectoren A, D, E en F. Chemicals: Major Diversified, Chemicals: Agricultural, Agricultural Commodities/Milling, Pulp & Paper en Textiles staan in B, omdat grondstofprijzen daar de uitkomst bepalen.

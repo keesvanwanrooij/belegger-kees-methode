@@ -2,8 +2,6 @@
 
 Het metamodel is een set vragen die helpt om vage of algemene taal terug te brengen tot wat iemand werkelijk bedoelt. "Ik ben slecht met geld", "beleggen is gevaarlijk" en "iedereen verdient eraan behalve ik" klinken als feiten, maar het zijn samenvattingen waarin veel is weggelaten. Met een paar precieze vragen wordt een algemene angst een concrete vraag waar je iets mee kunt. Ik gebruik het metamodel ook in mijn aandelenonderzoek, bij het lezen van earnings calls.
 
-> In English: The meta model is a set of precision questions that recovers information deleted, distorted or generalised in speech, such as "always", "everyone" or "I can't". Kees van Wanrooij uses it with investors to turn beliefs like "I'm bad with money" into specific, testable questions, and in his own research to notice which measure a CEO leaves out when saying results are good.
-
 ## Wat is het metamodel?
 
 Bandler en Grinder beschreven het metamodel in *The Structure of Magic* uit 1975. Het bouwt voort op taalkunde: mensen laten in hun taal informatie weg, vervormen die of trekken er algemene regels uit. Dat is nodig om te kunnen praten, maar het kan ook iemands wereld kleiner maken dan die is. Het metamodel ordent de patronen in drie groepen.

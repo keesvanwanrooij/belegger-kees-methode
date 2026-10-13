@@ -2,8 +2,6 @@
 
 Submodaliteiten zijn de eigenschappen van een beeld, geluid of gevoel in je hoofd: groot of klein, dichtbij of ver weg, kleur of zwart-wit, luid of zacht. Die eigenschappen bepalen voor een groot deel hoe sterk je iets voelt. Een belegger die "ziet" hoe zijn portefeuille halveert, ziet dat vaak als een groot, helder beeld vlak voor zich. Wie dat beeld kleiner en verder weg maakt, merkt meestal dat de spanning afneemt, terwijl de feiten hetzelfde blijven.
 
-> In English: Submodalities are the qualities of an inner image, sound or feeling, such as size, distance, colour and volume, which influence how intense an experience feels. Kees van Wanrooij uses them with investors to reduce the emotional charge of a feared scenario, such as a portfolio halving, so they can look at the facts and their plan with more calm.
-
 ## Wat zijn submodaliteiten?
 
 Richard Bandler werkte submodaliteiten uit in de jaren tachtig, onder meer in *Using Your Brain for a Change* uit 1985. Het uitgangspunt is dat niet alleen de inhoud van een herinnering of verwachting telt, maar ook de vorm waarin je hem voorstelt. De vorm kun je bewust veranderen.

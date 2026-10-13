@@ -2,8 +2,6 @@
 
 Bij ankers samenvoegen, in het Engels collapsing anchors, roep je tegelijk een ongewenste toestand en een sterke hulpbron op. De twee toestanden mengen, en de oude reactie verliest vaak een deel van haar kracht. Voor beleggers is dit bruikbaar bij een reactie die telkens terugkomt op een vaste prikkel. Denk aan de steek in je maag als je een aandeel onder je aankoopprijs ziet staan, of de verlamming bij het idee een verlies te nemen.
 
-> In English: Collapsing anchors means firing an unwanted state and a stronger resource state at the same time, so the old reaction loses intensity. Kees van Wanrooij uses it with investors for recurring reactions to a fixed trigger, such as the tension of seeing a stock below its purchase price, so they can judge the position on its merits.
-
 ## Wat is ankers samenvoegen?
 
 De techniek bouwt voort op [ankeren](07-Ankeren.md) en werd in de vroege NLP-trainingen van Bandler en Grinder beschreven. Het idee is dat het zenuwstelsel twee sterke, tegengestelde toestanden niet los van elkaar kan vasthouden als ze gelijktijdig worden opgeroepen. De hulpbron moet daarvoor sterker zijn dan de ongewenste toestand. Zoals bij ankeren is het effect vooral praktijkervaring en weinig onderzocht.

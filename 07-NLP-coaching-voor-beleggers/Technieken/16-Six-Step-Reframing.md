@@ -2,8 +2,6 @@
 
 Six-step reframing is een techniek in zes stappen om een gedrag te veranderen dat je niet wilt, zonder de goede bedoeling erachter weg te gooien. Neem eindeloos blijven lezen zonder te beslissen. Het deel dat dat doet, wil je waarschijnlijk beschermen tegen een fout. Six-step reframing zoekt nieuwe manieren om die bescherming te geven die minder kosten, zoals een vaste checklist met drie criteria.
 
-> In English: Six-step reframing changes an unwanted behaviour while preserving its positive intention. The part responsible for the behaviour is asked what it wants to achieve, and a creative part generates alternatives that meet the same intention. Kees van Wanrooij uses it with investors for analysis paralysis, procrastination and compulsive checking.
-
 ## Wat is six-step reframing?
 
 Bandler en Grinder beschreven six-step reframing in *Frogs into Princes* uit 1979 en werkten het verder uit in *Reframing* uit 1982. Het is een vorm van herkaderen die niet de betekenis van een gebeurtenis verandert, maar de manier waarop een deel van je een doel probeert te bereiken. Het werkt met een "creatief deel" dat alternatieven bedenkt, en met een ecologiecheck aan het einde.

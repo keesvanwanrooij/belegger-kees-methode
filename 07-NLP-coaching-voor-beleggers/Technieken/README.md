@@ -2,8 +2,6 @@
 
 Hier staan de NLP-technieken die ik gebruik als ik met een belegger werk aan gedrag rond geld en beleggen. NLP staat voor Neuro Linguïstisch Programmeren. Elke pagina heeft dezelfde opbouw: wat de techniek is, bij welke hulpvragen ik haar inzet, hoe ik haar toepas, voorbeeldvragen, wat een belegger merkt, wanneer ik haar niet gebruik, en hoe je haar oefent met een proefklant.
 
-> In English: This folder describes 25 NLP techniques applied to investor behaviour, from rapport, outcomes and the meta model to anchoring, reframing, the swish pattern, timeline work, parts integration and logical levels. Each page covers the theory, when and how Kees van Wanrooij uses it with investors, example questions, what the client notices, limits, and a practice exercise. NLP coaching is not therapy and not financial advice.
-
 ## De technieken
 
 De volgorde loopt van de basis van elk gesprek naar technieken die meer ervaring vragen. De laatste kolom zegt op welk niveau een techniek bij veel NLP-opleidingen wordt behandeld. Opleidingen verschillen daarin, dus zie het als indicatie `[te controleren per opleiding]`. Ik ben NLP Practitioner. Technieken op Master-niveau beschrijf ik zoals ik ze bestudeer en oefen.

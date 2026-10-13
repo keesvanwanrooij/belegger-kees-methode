@@ -2,8 +2,6 @@
 
 Modelleren is de kern van NLP: onderzoeken hoe iemand iets goed doet, en dat zo beschrijven dat een ander het kan leren. Het gaat niet alleen om wat iemand doet, maar ook om wat hij gelooft, waar hij op let en welke stappen hij in zijn hoofd zet. De hele Belegger Kees Methode is een vorm van modelleren: ik schrijf op hoe ik zelf onderzoek en beslis, zodat ik het beter begrijp en een ander ermee kan oefenen.
 
-> In English: Modelling is the core of NLP: studying how someone performs a skill well, including beliefs, attention and internal steps, and describing it so others can learn it. The Belegger Kees Method is itself a model of Kees van Wanrooij's own research and decision process. In coaching he helps investors model a moment when they did act well, or a role model such as Peter Lynch through his writing.
-
 ## Wat is modelleren?
 
 Bandler, Grinder en Pucelik begonnen NLP in de jaren zeventig door therapeuten als Fritz Perls, Virginia Satir en Milton Erickson te modelleren. Dilts, Grinder, Bandler en DeLozier beschreven de aanpak in *Neuro-Linguistic Programming: Volume I* uit 1980. Wat NLP-technieken zijn, zoals ankeren of het metamodel, zijn eigenlijk de resultaten van eerder modelleerwerk. Hoe ik mijzelf modelleer, staat in [NLP-geschiedenis en stromingen](../../05-Resources/Begrippen/NLP-Geschiedenis-en-Stromingen.md) en in de [beleggingsfilosofie](../../02-Manifesto/01-Beleggingsfilosofie.md#11-nlp-beleggen-en-mezelf-modelleren).

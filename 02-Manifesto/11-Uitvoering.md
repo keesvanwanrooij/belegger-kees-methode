@@ -76,9 +76,6 @@ Je kunt beginnen bij [de beleggingsfilosofie](01-Beleggingsfilosofie.md), daarna
 
 [Alle hoofdstukken](README.md) · [De Belegger Kees Methode](../README.md) · [Bronnen en redactionele werkwijze](../01-Docs/README.md)
 
-
-> In English: A practical starting point for applying and refining the Belegger Kees Method.
-
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
 ---

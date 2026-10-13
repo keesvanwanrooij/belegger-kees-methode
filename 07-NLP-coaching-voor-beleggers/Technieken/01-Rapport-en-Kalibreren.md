@@ -2,8 +2,6 @@
 
 Rapport is de afstemming tussen twee mensen waardoor een gesprek open en veilig voelt. Kalibreren is precies waarnemen hoe iemand reageert: ademhaling, houding, stem, gezichtsuitdrukking. Samen vormen ze de basis van elke andere NLP-techniek. Zonder rapport vertelt een belegger je wat hij denkt dat hij hoort te zeggen, en zonder kalibreren mis je het moment waarop een onderwerp spanning geeft.
 
-> In English: Rapport is the mutual trust that makes a coaching conversation open; calibration is observing a client's breathing, posture, voice and expression to notice change. In investor coaching, Kees van Wanrooij uses both to hear the real story behind money behaviour and to spot the moment a topic such as losses or a partner's opinion creates tension.
-
 ## Wat is rapport en kalibreren?
 
 Bandler en Grinder beschreven in de jaren zeventig hoe goede therapeuten hun houding, tempo en taal afstemden op hun cliënt. Dat afstemmen heet in NLP pacing: je sluit aan bij de ander. Leading is de stap daarna: vanuit die afstemming iemand meenemen naar een andere toestand of vraag. Kalibreren is het vermogen om kleine veranderingen bij iemand te zien en te horen, en die te koppelen aan wat er in het gesprek gebeurt.

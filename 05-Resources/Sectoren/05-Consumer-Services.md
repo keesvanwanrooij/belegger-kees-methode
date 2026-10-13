@@ -2,8 +2,6 @@
 
 Consumer Services zijn bedrijven die diensten leveren aan consumenten: restaurants, hotels en cruises, entertainment, media, fitness, onderwijs en kansspelen. Ze hangen sterk af van het besteedbaar inkomen en het vertrouwen van consumenten. Veel kosten liggen vast, zoals personeel en huur, en daardoor werkt de operationele hefboom twee kanten op: in goede jaren stijgt de winst hard, in slechte jaren daalt ze hard. Door de vele huurcontracten zijn de leaseverplichtingen onder IFRS 16 groot. Waar ik op let: de omzetgroei van bestaande vestigingen apart van de groei door nieuwe vestigingen, de huurverplichtingen, personeelskosten en merkkracht. Basic-Fit, het bedrijf waaraan ik mijn methode doorloop, valt in deze sector.
 
-> In English: Consumer Services covers restaurants, hotels and cruises, entertainment, publishing, broadcasting, cable, fitness, education and gaming. Demand follows disposable income, fixed costs create strong operating leverage both ways, and leases are often large. Key checks are like-for-like growth versus new openings, lease liabilities, labour costs and brand strength.
-
 ## Hoe deze sector in mijn universums valt
 
 Negen industrieën horen bij de groeisectoren A, D, E en F. Casinos/Gaming staat in C2, omdat vergunningen en kansspelbelasting de winstgevendheid bepalen.

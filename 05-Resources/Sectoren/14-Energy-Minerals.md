@@ -2,8 +2,6 @@
 
 Energy Minerals zijn de producenten van olie, gas en kolen: bedrijven die winnen, geïntegreerde maatschappijen en raffinaderijen. De omzet volgt een grondstofprijs waar het bedrijf zelf geen invloed op heeft. De sector is kapitaalintensief, en de productie uit bestaande velden daalt vanzelf, dus er moet voortdurend worden geïnvesteerd om die te vervangen. Lynch noemt dit klassiek cyclisch, met een lage koers-winstverhouding aan de top van de cyclus als valkuil; daarom staat de hele sector in B. Waar ik op let: de olie- of gasprijs waarbij het bedrijf quitte speelt, de reserves en hoeveel jaar productie ze dekken, schuld, discipline bij investeringen, en beleid voor de energietransitie en extra belastingen op winsten in goede jaren.
 
-> In English: Energy Minerals covers oil and gas producers, integrated oil companies, refiners and coal miners. Revenue follows commodity prices the company cannot control, capital needs are high and production declines must be replaced. Key checks are break-even prices, reserve life, debt, capital discipline, transition policy and windfall taxes.
-
 ## Hoe deze sector in mijn universums valt
 
 Alle vier de industrieën staan in B, cyclische bedrijven.

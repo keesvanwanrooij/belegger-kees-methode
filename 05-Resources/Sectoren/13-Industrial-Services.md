@@ -2,8 +2,6 @@
 
 Industrial Services zijn bedrijven die diensten leveren voor industrie en infrastructuur: bouw en engineering, boren en diensten op olie- en gasvelden, transport via pijpleidingen, en afvalverwerking. Het zijn drie heel verschillende verdienmodellen in één sector, en daarom verdeel ik de industrieën over drie universums. Waar ik bij alle drie op let: het soort contract, met een vaste prijs of met doorberekening van kosten, het orderboek, hoeveel kapitaal het bedrijf nodig heeft, en hoe afhankelijk het is van de olieprijs of van de overheid.
 
-> In English: Industrial Services combines three different business models: engineering and construction, oil and gas drilling and field services, and regulated-like pipelines and environmental services. Key checks are contract type, order backlog, capital intensity and dependence on oil prices or government.
-
 ## Hoe deze sector in mijn universums valt
 
 Engineering & Construction hoort bij de groeisectoren A, D, E en F. Contract Drilling en Oilfield Services/Equipment staan in B, omdat ze de investeringen in olie en gas volgen. Oil & Gas Pipelines en Environmental Services staan in C1, omdat tarieven, contracten en vergunningen hun winst bepalen.

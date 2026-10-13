@@ -2,8 +2,6 @@
 
 Tijdlijnwerk gaat ervan uit dat mensen tijd in hun hoofd ordenen als een lijn: het verleden ergens achter of links, de toekomst voor of rechts. Door bewust langs die lijn te bewegen, kun je een oude ervaring bekijken met de kennis van nu, en een toekomst verkennen die je nog niet voor je zag. Bij beleggers helpt het vooral bij twee dingen. Een oude les over geld die nog steeds stuurt, en het gevoel dat je te laat bent.
 
-> In English: Timeline work builds on how people spatially organise past, present and future. Kees van Wanrooij uses a coaching form of it with investors to revisit an old money lesson with present knowledge, to reduce the grip of a past loss, and to explore a long-term future when someone feels they started too late. It is not therapy and not a treatment for trauma.
-
 ## Wat is tijdlijnwerk?
 
 In de NLP-traditie werd het idee van een innerlijke tijdlijn in de jaren tachtig uitgewerkt. Tad James en Wyatt Woodsmall beschreven een eigen werkwijze in *Time Line Therapy and the Basis of Personality* uit 1988; Time Line Therapy is een geregistreerde naam van die ontwikkellijn. Ik gebruik de algemene coachingsvorm, die ik tijdlijnwerk noem, en geen therapeutisch protocol. De achtergrond van de verschillende stromingen staat in [NLP-geschiedenis en stromingen](../../05-Resources/Begrippen/NLP-Geschiedenis-en-Stromingen.md).

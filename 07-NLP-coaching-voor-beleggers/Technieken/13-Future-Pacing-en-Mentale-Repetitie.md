@@ -2,8 +2,6 @@
 
 Future pacing betekent dat je een nieuwe reactie in gedachten uitprobeert in een toekomstige situatie, voordat die situatie zich voordoet. Mentale repetitie is het herhaald oefenen van die voorstelling. Voor een belegger is dit een van de meest praktische technieken. Een daling van dertig procent is geen verrassing meer als je al drie keer hebt geoefend wat je dan doet: welke pagina je opent, welke vraag je stelt, en wat je niet doet.
 
-> In English: Future pacing means rehearsing a new response in a vivid imagined future situation before it happens; mental rehearsal is repeating that practice. Kees van Wanrooij uses it with investors to pre-live a market drop, a strong rally or an earnings surprise, and to test whether their written plan still holds when they imagine the feeling.
-
 ## Wat is future pacing?
 
 In NLP is future pacing de afsluitende stap van bijna elke techniek. Nadat een verandering is gemaakt, laat de coach de klant de toekomstige situatie voorstellen om te toetsen of de verandering standhoudt. Het idee van mentale repetitie is ook buiten NLP bekend, onder meer uit de sportpsychologie, waar het voorstellen van een beweging wordt gebruikt als aanvulling op fysieke training `[te controleren: bron voor de sportpsychologie]`.

@@ -330,8 +330,6 @@ Elke post komt één keer voor. Een leaseverplichting die al in de kasstroom is 
 
 [Alle hoofdstukken](README.md) · [De Belegger Kees Methode](../README.md) · [Bronnen en redactionele werkwijze](../01-Docs/README.md) · [Template uitgebreide analyse](../05-Resources/Templates/README.md)
 
-> In English: Kees values a company with an equity cash-flow model built from a small set of parameters: revenue from business drivers, net margin, cash conversion (free cash flow divided by net income), share count change, an exit P/E on year-11 earnings and a discount rate of 8 to 12 percent. The chapter explains which lines he takes from IFRS and US GAAP statements, how leases under IFRS 16 and ASC 842 change the numbers, and why Gordon Growth serves only as a floor check.
-
 Correctie van 12 september 2026: dit hoofdstuk beschrijft het model nu als winstmodel met kasstroomconversie in plaats van een opbouw van de vrije kasstroom regel voor regel. De secties over de jaarrekening onder IFRS en US GAAP en over leases zijn nieuw. De rekenvoorbeelden zijn ongewijzigd.
 
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.

@@ -2,8 +2,6 @@
 
 Parts integration is een techniek voor het gevoel dat een deel van je iets wil en een ander deel iets anders. Bij beleggen hoor je dat voortdurend: "Een deel van mij wil de winst vastzetten, een ander deel weet dat ik het bedrijf lang wil houden." Of: "Ik wil beleggen, maar iets in mij houdt me tegen." De techniek laat beide delen aan het woord, zoekt hun goede bedoeling en helpt ze een gezamenlijke aanpak te vinden.
 
-> In English: Parts integration works with inner conflict, when part of you wants one thing and another part something else, such as locking in profit versus holding a long-term position. Kees van Wanrooij helps investors give each part a voice, find the positive intention behind both, and turn that into a concrete plan such as a selling rule both parts can accept.
-
 ## Wat is parts integration?
 
 Het werken met delen is in NLP beïnvloed door Virginia Satir, die in gezinstherapie werkte met de verschillende kanten van een persoon. In de NLP-praktijk is de bekendste vorm de visual squash, waarbij iemand elk deel in een hand voorstelt en de handen samenbrengt. De techniek gaat uit van de [presuppositie](../../02-Manifesto/02-NLP-Presupposities.md#24-achter-gedrag-kan-een-positieve-bedoeling-zitten) dat achter gedrag een positieve bedoeling kan zitten. De delen zijn een manier van spreken, geen afzonderlijke persoonlijkheden.

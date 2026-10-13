@@ -2,8 +2,6 @@
 
 Transportation zijn de bedrijven die mensen en goederen vervoeren: spoorwegen, luchtvaartmaatschappijen, rederijen, pakketdiensten, wegvervoerders, en de beheerders van luchthavens, havens en tolwegen. Het zijn netwerkbedrijven met hoge vaste kosten, waardoor de bezettingsgraad de winst bepaalt. Brandstof is voor bijna iedereen in deze sector een grote kostenpost, en het volume beweegt mee met de economie en de wereldhandel. Het verschil tussen de industrieën is groot: een spoorweg heeft een netwerk dat niemand kan kopiëren, terwijl een rederij of vrachtwagenbedrijf concurreert in een markt waar nieuwe capaciteit snel bijkomt. Waar ik op let: de bezetting, de doorberekening van brandstofkosten, de leeftijd van vloot of materieel, leaseverplichtingen, vakbonden en loonkosten, en de concessies of rechten waarop het bedrijf rust.
 
-> In English: Transportation covers railroads, airlines, marine shipping, air freight and couriers, trucking, and operators of airports, ports and toll roads. These are network businesses with high fixed costs, fuel exposure and volumes that follow the economy. Key checks are utilisation, fuel pass-through, fleet age, leases, labour relations and the concessions or rights the business depends on.
-
 ## Hoe deze sector in mijn universums valt
 
 Railroads, Airlines en Other Transportation staan in C1, omdat concessies, landingsrechten en overheidsbeleid hun uitkomst bepalen. Marine Shipping staat in B, omdat vrachttarieven met de wereldhandel en de beschikbare scheepscapaciteit schommelen. Air Freight/Couriers en Trucking horen bij de groeisectoren A, D, E en F.

@@ -2,8 +2,6 @@
 
 Het Milton-model beschrijft taal die bewust ruim en vaag is, zodat de luisteraar zelf de betekenis invult. Het is de spiegel van het [metamodel](03-Metamodel.md): waar het metamodel vage taal precies maakt, gebruikt het Milton-model vage taal om iemand mee te nemen. Voor beleggers is het vooral nuttig om te herkennen. Een verkoper, een finfluencer of een bestuurder die zegt "je voelt waarschijnlijk al dat dit het moment is", gebruikt precies deze patronen.
 
-> In English: The Milton model describes deliberately vague, permissive language modelled on hypnotherapist Milton Erickson, which invites listeners to fill in meaning themselves. For investors, Kees van Wanrooij mainly uses it to recognise persuasive language in sales pitches, social media and management commentary, and in coaching only with permissive, respectful phrasing.
-
 ## Wat is het Milton-model?
 
 Bandler en Grinder modelleerden in de jaren zeventig het taalgebruik van de psychiater en hypnotherapeut Milton Erickson. Ze beschreven het in *Patterns of the Hypnotic Techniques of Milton H. Erickson* uit 1975. Erickson gebruikte ruime formuleringen die weinig weerstand opriepen, omdat de cliënt er zijn eigen ervaring in kon leggen.

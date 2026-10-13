@@ -2,8 +2,6 @@
 
 Een screener brengt duizenden beursbedrijven terug tot een lijst die ik in een middag kan doorlopen. Ik gebruik daarvoor de aandelenscreener van TradingView, met per universum een opgeslagen instelling. Hieronder staat per universum welke filters ik in de kop zet, welke kolommen ik op het scherm zet om een bedrijf te begrijpen, en welke sectoren en industrieën aan of uit staan.
 
-> In English: The Belegger Kees screening set in TradingView has eight universes. A (fast growers) is the main route; D (revenue growth without profit), E (US small caps) and F (mid caps) use the same industries as A with different profitability, country or size filters. B (cyclicals), C (regulated companies), G (life sciences) and H (financials and real estate) catch the industries A leaves out, so every industry belongs to exactly one of A, B, C, G or H. Only E covers the United States. Three country lists (Netherlands, Hong Kong, United States) sit outside the main route. Filters are working hypotheses, not optimised settings.
-
 De instellingen zijn werkhypothesen, geen gemeten optimale filters. Ik pas ze aan als de situatie of de onderzoeksvraag verandert en schrijf op waarom. De filters mogen niet achteraf zo worden gekozen dat één vroegere winnaar er precies doorheen komt. Een ronde zonder geschikte kandidaten is een geldige uitkomst.
 
 ## Hoe ik de screener gebruik

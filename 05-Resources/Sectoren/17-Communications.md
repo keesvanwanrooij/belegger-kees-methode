@@ -2,8 +2,6 @@
 
 Communications zijn de telecombedrijven: vaste en mobiele netwerken en gespecialiseerde communicatiediensten zoals satellietverbindingen. Ze hebben vergunningen voor frequenties nodig, het netwerk vraagt voortdurend grote investeringen, en de schuld is meestal hoog. De omzet is stabiel en de groei laag, en veel van deze bedrijven keren dividend uit. Waar ik op let: de opbrengst per abonnee en het klantverloop, de investeringen in nieuwe netwerken zoals 5G en glasvezel, de kosten van frequentieveilingen, schuld, en regelgeving die de concurrentie in de markt bepaalt.
 
-> In English: Communications covers fixed-line, wireless and specialty telecommunications. Spectrum licences, heavy network investment and high debt define the sector, with stable but slow-growing revenue. Key checks are revenue per user, churn, capex, spectrum costs, debt and competition policy.
-
 ## Hoe deze sector in mijn universums valt
 
 Alle drie de industrieën staan in C1, gereguleerde infrastructuur.

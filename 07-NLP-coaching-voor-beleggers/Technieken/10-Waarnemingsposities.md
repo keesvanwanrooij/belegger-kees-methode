@@ -2,8 +2,6 @@
 
 Waarnemingsposities zijn de verschillende plekken van waaruit je een situatie kunt bekijken. De eerste positie is je eigen ervaring. De tweede is de positie van de ander. De derde is die van een neutrale buitenstaander die beide ziet. Een belegger die vastzit in spijt of in een ruzie met zijn partner over geld, kijkt meestal alleen vanuit de eerste positie. Stap voor stap wisselen van positie geeft vaak een inzicht dat je vanuit jezelf niet kon zien.
 
-> In English: Perceptual positions are the viewpoints from which you experience a situation: yourself, the other person, and a neutral observer. Kees van Wanrooij uses them with investors to work through regret, hindsight bias, disagreements with a partner about risk and difficult conversations such as salary negotiations.
-
 ## Wat zijn waarnemingsposities?
 
 Judith DeLozier en John Grinder werkten de waarnemingsposities uit in de jaren tachtig, in de ontwikkeling die New Code NLP heet. Later voegden anderen een vierde positie toe: die van het systeem als geheel, zoals het gezin of het team.

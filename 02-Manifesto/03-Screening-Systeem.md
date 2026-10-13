@@ -127,9 +127,6 @@ Na een screening bewaar ik de instellingen en de lijst lokaal. Als ik er later e
 
 [Alle hoofdstukken](README.md) · [De Belegger Kees Methode](../README.md) · [Bronnen en redactionele werkwijze](../01-Docs/README.md)
 
-
-> In English: The Belegger Kees screening process produces a working list of five to ten candidates. Kees aims to review the opportunity set quarterly, with at least an annual refresh. Seven research universes (fast growers, cyclicals, regulated companies, revenue growth without profit, US small caps, mid caps and life sciences) and three country lists support flexible selection.
-
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
 ---

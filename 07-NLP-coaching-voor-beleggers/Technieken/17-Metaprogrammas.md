@@ -2,8 +2,6 @@
 
 Metaprogramma's zijn patronen in waar mensen hun aandacht op richten als ze beslissen. De een wil vooral ergens naartoe, zoals vrijheid of groei. De ander wil vooral ergens van weg, zoals verlies of zorgen. De een vertrouwt op zijn eigen oordeel, de ander op dat van anderen. Die patronen zijn niet goed of fout, maar ze verklaren veel beleggingsgedrag. Ze helpen ook om een plan zo te formuleren dat het bij iemand past.
 
-> In English: Metaprograms are attention patterns in decision-making, such as moving toward goals versus away from problems, internal versus external reference and options versus procedures. Kees van Wanrooij uses them with investors to understand behaviour such as needing constant confirmation or selling too early, and to phrase plans in a way that fits each person, without labelling anyone as a fixed type.
-
 ## Wat zijn metaprogramma's?
 
 Leslie Cameron-Bandler werkte metaprogramma's uit in de vroege jaren van NLP. Rodger Bailey maakte er het Language and Behavior Profile van, dat Shelle Rose Charvet verder uitwerkte in *Words That Change Minds* uit 1995. Metaprogramma's zijn contextafhankelijk: iemand kan op het werk vooral naartoe gericht zijn en bij geld vooral weg van.

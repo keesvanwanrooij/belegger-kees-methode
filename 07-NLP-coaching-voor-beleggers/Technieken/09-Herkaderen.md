@@ -2,8 +2,6 @@
 
 Herkaderen, in het Engels reframing, betekent dat je een gebeurtenis in een ander kader plaatst, zodat ze een andere betekenis krijgt. De feiten veranderen niet. Een koersdaling van twintig procent blijft een daling. Wat wel verandert, is wat je ervan maakt: bewijs dat je faalt, of een moment om je oorspronkelijke reden opnieuw te toetsen. Een goed kader is niet positiever, maar kloppender en bruikbaarder.
 
-> In English: Reframing places the same event in a different frame so its meaning changes while the facts stay the same. Kees van Wanrooij uses content and context reframes with investors to separate fact, interpretation, prediction and self-judgement after a loss, without explaining away real warning signs.
-
 ## Wat is herkaderen?
 
 Herkaderen was al gebruikelijk in de gezins- en systeemtherapie waar NLP uit putte, en Bandler en Grinder beschreven het in *Reframing* uit 1982. NLP onderscheidt twee vormen.

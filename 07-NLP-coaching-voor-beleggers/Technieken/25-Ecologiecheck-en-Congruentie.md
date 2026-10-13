@@ -2,8 +2,6 @@
 
 Een ecologiecheck is de vraag of een verandering goed is voor het geheel: je relatie, je gezondheid, je werk, je waarden. Congruentie betekent dat je woorden, gevoel en gedrag met elkaar kloppen. Een belegger die zegt "ja, ik ga elke maand inleggen" terwijl zijn schouders omhoog gaan en zijn stem zachter wordt, is niet congruent. Dat verschil zien voorkomt plannen die na drie weken stranden omdat een deel van iemand er nooit mee instemde.
 
-> In English: An ecology check asks whether a change fits the whole system of a person's life, such as relationships, health, work and values. Congruence means that words, feelings and behaviour line up. Kees van Wanrooij closes almost every coaching exercise with an ecology check, and uses congruence to judge whether an investor's decision is a considered choice or mainly a reaction.
-
 ## Wat is een ecologiecheck?
 
 In NLP komt de ecologiecheck terug aan het einde van bijna elke techniek, onder meer in de [well-formed outcome](02-Doelen-Well-Formed-Outcome.md) en [six-step reframing](16-Six-Step-Reframing.md). Het begrip ecologie komt uit het systeemdenken van Gregory Bateson: een verandering op één plek werkt door op andere plekken. Congruentie is een begrip dat NLP overnam uit het werk van Virginia Satir.

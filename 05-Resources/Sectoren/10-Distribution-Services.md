@@ -2,8 +2,6 @@
 
 Distribution Services zijn de bedrijven tussen fabrikant en klant: groothandels in industriële producten, voedseldistributeurs, distributeurs van elektronica en van geneesmiddelen. De omzet is groot en de marge dun, en schaal en logistiek bepalen wie winst maakt. Werkkapitaal is hier het hart van het bedrijf: voorraad, debiteuren en crediteuren bepalen hoeveel van de winst werkelijk als kasstroom binnenkomt. Waar ik op let: de omloopsnelheid van de voorraad, de marge per productgroep, klantconcentratie, en de vraag of de groei organisch is of uit overnames komt.
 
-> In English: Distribution Services covers wholesale, food, electronics and medical distributors. Revenue is large, margins are thin and working capital drives cash flow. Key checks are inventory turnover, margin by product group, customer concentration and organic versus acquired growth.
-
 ## Hoe deze sector in mijn universums valt
 
 Alle vier de industrieën horen bij de groeisectoren A, D, E en F.
