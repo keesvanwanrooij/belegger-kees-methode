@@ -2,8 +2,6 @@
 
 Sleight of Mouth is een verzameling taalpatronen om een overtuiging vanuit verschillende kanten te bekijken. Neem de zin "beleggen is gokken". Je kunt vragen wat gokken precies is. Je kunt vragen of het voor elke vorm van beleggen geldt, of wat je familie ervan zou vinden als je het anders deed. Of je past de overtuiging op zichzelf toe: "Is niet beleggen dan geen gok met inflatie?" Elk patroon opent een andere deur.
 
-> In English: Sleight of Mouth is a set of language patterns, systematised by Robert Dilts, for exploring a belief from many angles, such as redefining terms, changing the frame size, looking at consequences or applying the belief to itself. Kees van Wanrooij uses it with investors to loosen rigid beliefs like "investing is gambling", and to recognise the same patterns in persuasive arguments from others.
-
 ## Wat is Sleight of Mouth?
 
 Robert Dilts bracht de patronen samen in *Sleight of Mouth: The Magic of Conversational Belief Change* uit 1999, op basis van het taalgebruik van onder meer Richard Bandler. Hij onderscheidt veertien patronen. Het is bij veel opleidingen Master-stof `[te controleren per opleiding]`. Hieronder de patronen die ik het meest gebruik, toegepast op "beleggen is gokken".

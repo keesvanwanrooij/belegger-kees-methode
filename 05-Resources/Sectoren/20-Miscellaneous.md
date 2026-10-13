@@ -2,8 +2,6 @@
 
 Miscellaneous is geen sector met een gezamenlijk verdienmodel, maar een verzamelplaats. Het grootste deel bestaat uit beleggingsfondsen, trackers en andere beleggingsvehikels die op de beurs genoteerd zijn; daarnaast staat er een kleine groep bedrijven die FactSet nergens anders kon indelen. Een fonds is geen bedrijf met klanten, marges en groei, maar een verpakking van andere beleggingen, en daarom passen mijn filters en mijn analyse er niet op. Waar ik op let, als ik hier toch iets tegenkom: wat het fonds werkelijk bezit, de kosten, de afwijking tussen koers en onderliggende waarde, en of het bedrijf in de restcategorie eigenlijk in een andere sector thuishoort.
 
-> In English: Miscellaneous is not a real sector but a catch-all dominated by exchange-listed funds and investment vehicles, plus a small group of unclassified companies. Kees puts it in universe H3 and leaves it out of the country lists. When something from this category does come up, check the holdings, costs, discount or premium to net asset value, and whether the company belongs elsewhere.
-
 ## Hoe deze sector in mijn universums valt
 
 Miscellaneous staat in H3, samen met de financiële dienstverleners, zodat elke industrie in een universum terugkomt. De groei- en margefilters van H3 houden de meeste fondsen buiten de lijst; wil ik een beleggingsmaatschappij bekijken, dan zet ik die filters bewust uit. In de drie landenlijsten staat Miscellaneous uit, omdat fondsen daar anders de lijst overspoelen. Mijn methode gaat over het analyseren van individuele bedrijven, en een fonds is daar het omgekeerde van.

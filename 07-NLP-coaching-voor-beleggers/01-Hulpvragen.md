@@ -2,8 +2,6 @@
 
 Dit is de lijst met vragen waar beleggers in Nederland tegenaan lopen, met bij elke vraag een kort antwoord. Ik heb de lijst bewust breed gemaakt. Een deel gaat over geld en kennis: je buffer, je inkomen, belasting, spreiding, kosten. Een ander deel gaat over wat er in je hoofd gebeurt: uitstellen, paniek, vergelijken, spijt. In de praktijk lopen die twee door elkaar. Wie geen geld overhoudt, belegt niet, en wie bang is voor de top, begint ook niet. Daarom staan ze hier samen.
 
-> In English: This page lists 165 questions Dutch investors ask, from budgeting, income and tax to fear of buying at the top, panic selling, loss aversion and comparison with others. Each question has a short educational answer and a code, such as 8.1, that links it to NLP techniques in the technique overview. It is education, not personal financial advice or therapy.
-
 ## Hoe je deze lijst gebruikt
 
 Elke vraag heeft een code, zoals 8.1. Met die code vind je in het [overzicht van NLP-technieken](02-NLP-Technieken.md) welke technieken bij de vraag passen. Niet elke vraag is een NLP-vraag. Bij een kennisvraag helpt uitleg meer dan een techniek, en bij een persoonlijke financiële keuze hoort een erkend financieel adviseur. Ik geef dat bij de antwoorden aan.

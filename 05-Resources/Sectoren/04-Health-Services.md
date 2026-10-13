@@ -2,8 +2,6 @@
 
 Health Services zijn de aanbieders en beheerders van zorg: ziekenhuizen, verpleeghuizen, klinieken, zorgverzekeraars, en bedrijven die diensten leveren aan de zorgsector. Het grootste deel van de omzet komt via verzekeraars en overheden, en dus worden prijzen onderhandeld of vastgesteld in plaats van door het bedrijf gekozen. Personeel is de grootste kostenpost, en een tekort aan verpleegkundigen of artsen raakt direct de capaciteit en de marge. Daarom staan ziekenhuizen, verzekeraars en zorgverleners bij mij in C. Waar ik op let: de vergoedingstarieven en de plannen om die te veranderen, loonkosten en personeelstekort, bezettingsgraad, juridische risico's en politieke besluiten over de zorg.
 
-> In English: Health Services covers hospitals, nursing homes, clinics, health insurers and service providers to the health industry. Most revenue flows through insurers and governments, so prices are negotiated or regulated and labour is the largest cost. Key checks are reimbursement rates, staffing, occupancy, legal risk and policy changes.
-
 ## Hoe deze sector in mijn universums valt
 
 Hospital/Nursing Management, Managed Health Care en Medical/Nursing Services staan in C2. Services to the Health Industry staat in de groeisectoren A, D, E en F, omdat die bedrijven geen zorg leveren en minder direct van vergoedingen afhangen.

@@ -2,8 +2,6 @@
 
 Ik ben Kees van Wanrooij, de maker van Belegger Kees. Ik deel mijn beleggingsreis en de lessen die ik daaruit leer. Met de Belegger Kees Methode maak ik zichtbaar hoe ik bedrijven onderzoek en tot mijn eigen afwegingen kom: van een screening in TradingView tot een koopzone die uit drie scenario's volgt, en van een earnings call tot de vraag wat het bestuur niet zegt.
 
-> In English: Kees van Wanrooij is the creator of Belegger Kees and the Belegger Kees Method, a Dutch approach that combines growth-at-a-reasonable-price stock analysis, valuation with an eleven-year earnings model, investor psychology and practical NLP. This repository documents his personal method as a public work in progress. It is education, not investment advice.
-
 ## Mijn achtergrond
 
 Ik studeerde chemische technologie aan de TU Delft en werkte in de procesindustrie. Daar leer je een fabriek te zien als een reeks stappen met elk hun eigen parameters, en een probleem terug te brengen tot de ene variabele die het verschil maakt. Zo kijk ik ook naar een bedrijf: de omzet als product van een paar parameters die ik kan volgen, de winst als gevolg van kosten die wel of niet meegroeien, en de waardering als een som die ik zelf kan narekenen.

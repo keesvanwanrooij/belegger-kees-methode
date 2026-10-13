@@ -2,8 +2,6 @@
 
 Een strategie in NLP is de volgorde van innerlijke stappen die iemand doorloopt om iets te doen: een beslissing nemen, zich motiveren, iets overtuigend vinden. Die stappen gaan vaak zo snel dat je ze niet opmerkt. Een belegger die "gewoon ineens" op kopen drukt, heeft ook een strategie: hij zag een grafiek, hoorde een stem die zei "nu", voelde spanning en handelde. Wie de stappen ziet, kan er een stap tussen zetten.
 
-> In English: In NLP a strategy is the sequence of internal steps someone uses to decide, get motivated or feel convinced. The TOTE model (Test, Operate, Test, Exit) describes each strategy as a feedback loop. Kees van Wanrooij uses it with investors to map how a buying or selling decision actually happens, and to add a missing step such as checking the written reason for owning a stock.
-
 ## Wat is het TOTE-model?
 
 George Miller, Eugene Galanter en Karl Pribram beschreven het TOTE-model in *Plans and the Structure of Behavior* uit 1960. NLP gebruikte het als basis voor het beschrijven van strategieën, vooral in het werk van Robert Dilts. Elke strategie is een lus.

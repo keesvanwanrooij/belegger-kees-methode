@@ -2,8 +2,6 @@
 
 Ankeren is het koppelen van een gewenste innerlijke toestand, zoals rust of helderheid, aan een bewuste prikkel: een gebaar, een woord of een aanraking. Na oefening kan die prikkel de toestand makkelijker oproepen. Voor een belegger is dat nuttig op het moment dat de beurs hard daalt of een aandeel hard stijgt. Het doel is niet dat je niets meer voelt. Het doel is een korte pauze tussen het gevoel en de handeling, waarin je je plan kunt openen.
 
-> In English: Anchoring links a desired inner state, such as calm focus, to a deliberate cue like a gesture or word, so the state becomes easier to access later. Kees van Wanrooij uses resource anchors with investors to create a pause between emotion and action during sharp market moves. It supports a written plan; it does not replace risk management.
-
 ## Wat is ankeren?
 
 Mensen koppelen voortdurend prikkels aan toestanden: een liedje roept een herinnering op, een geur een gevoel. Bandler en Grinder beschreven in de jaren zeventig hoe je die koppeling bewust kunt maken, en noemden dat een anker. Het idee sluit aan bij wat in de psychologie bekend is over associatief leren. Hoe sterk en blijvend een NLP-anker werkt, is wetenschappelijk niet goed onderzocht; ik behandel het als een oefening, niet als een knop.

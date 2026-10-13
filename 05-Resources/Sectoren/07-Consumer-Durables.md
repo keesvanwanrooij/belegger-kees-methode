@@ -2,8 +2,6 @@
 
 Consumer Durables zijn producten die consumenten jaren gebruiken: auto's, woningen, meubels, huishoudelijke apparaten, gereedschap en vrijetijdsproducten. Een consument kan zo'n aankoop uitstellen, en daardoor is de vraag gevoelig voor rente, vertrouwen en inkomen. Veel industrieën zijn cyclisch; de twee meest cyclische, auto's en woningbouw, staan daarom in B. Bij de rest kies ik in de snelle analyse de Lynch-categorie zorgvuldig: een lage koers-winstverhouding aan de top van de cyclus is geen koopje. Waar ik op let: orderboeken, voorraden bij dealers en winkels, financieringsdochters die de balans vertroebelen, en marges die op de top van de cyclus als normaal worden gezien.
 
-> In English: Consumer Durables covers vehicles, homebuilders, furniture, appliances, tools and recreational products. Purchases can be postponed, so demand is sensitive to interest rates, confidence and income, and many industries are cyclical. Key checks are order books, dealer inventories, captive finance arms and peak-cycle margins.
-
 ## Hoe deze sector in mijn universums valt
 
 Automotive Aftermarket, Home Furnishings, Electronics/Appliances, Tools & Hardware, Recreational Products en Other Consumer Specialties horen bij de groeisectoren A, D, E en F. Motor Vehicles en Homebuilding staan in B, omdat hun omzet en winst vooral de rente en de economische cyclus volgen.

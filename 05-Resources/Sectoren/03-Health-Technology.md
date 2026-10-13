@@ -2,8 +2,6 @@
 
 Health Technology zijn de bedrijven die geneesmiddelen, biotechnologische behandelingen en medische hulpmiddelen ontwikkelen en maken. Ontwikkeltrajecten duren jaren, een toezichthouder moet een product goedkeuren, en patenten beschermen de omzet een tijd en lopen dan af. De koers kan op één studie-uitkomst of één besluit omslaan, en daarom heb ik voor deze sector een eigen universum met een kansberekening in plaats van mijn gewone winstmodel. Waar ik op let: de pijplijn per ontwikkelfase, de datum waarop belangrijke patenten aflopen, de kaspositie tegenover het kasverbruik, de vergoeding door verzekeraars en overheden, en de boekhouding van ontwikkelkosten. Onder IFRS kunnen ontwikkelkosten vanaf een bepaald punt worden geactiveerd; onder US GAAP gaan ze meestal direct ten laste van de winst, zodat twee vergelijkbare bedrijven een heel andere winst kunnen tonen.
 
-> In English: Health Technology covers pharmaceuticals, biotechnology and medical technology. Long development timelines, regulatory approval and patent expiry drive value, and single trial results can move the share price sharply. That is why Kees uses a separate universe with probability-based valuation. Key checks are the pipeline by phase, patent expiry, cash runway, reimbursement and the accounting treatment of R&D under IFRS versus US GAAP.
-
 ## Hoe deze sector in mijn universums valt
 
 Alle vijf de industrieën staan in G, Life Sciences. G1 is voor bedrijven met productomzet, G2 voor bedrijven die nog in ontwikkeling zijn.

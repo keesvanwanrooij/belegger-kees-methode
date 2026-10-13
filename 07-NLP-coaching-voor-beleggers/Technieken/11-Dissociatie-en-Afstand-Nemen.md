@@ -2,8 +2,6 @@
 
 Geassocieerd zijn betekent dat je een ervaring beleeft alsof je er middenin zit: je ziet door je eigen ogen en voelt wat je toen voelde. Gedissocieerd zijn betekent dat je jezelf van een afstand in die situatie ziet, zoals in een film. Afstand nemen maakt een beladen herinnering of verwachting minder heftig, zodat je erover kunt nadenken. Voor een belegger is dat nuttig bij de herinnering aan een crash of bij de acute drang om te verkopen.
 
-> In English: Association means reliving an experience from inside it; dissociation means seeing yourself in it from a distance, like watching a film. Kees van Wanrooij uses simple dissociation with investors to take the edge off memories of a past crash or the urge to panic-sell, so they can think clearly. Traumatic memories belong with a qualified therapist, not with NLP coaching.
-
 ## Wat is dissociatie in NLP?
 
 Het onderscheid tussen associatie en dissociatie is een van de basisbegrippen uit de vroege NLP. Bandler beschreef er een uitgebreide oefening mee, de visueel-kinesthetische dissociatie, bekend als de fobietechniek. Die bekijkt een herinnering in stappen van steeds grotere afstand, bijvoorbeeld als film die je vanuit een projectiecabine ziet. Die uitgebreide vorm gebruik ik niet bij beleggers; ik gebruik de eenvoudige vorm van afstand nemen, en verwijs bij zware herinneringen door.

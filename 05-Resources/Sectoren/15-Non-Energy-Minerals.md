@@ -2,8 +2,6 @@
 
 Non-Energy Minerals zijn de producenten van staal, aluminium, edelmetalen, andere metalen, bouwmaterialen en hout. De grondstofprijs bepaalt de winst, en in een dal overleven de bedrijven met de laagste kosten. Mijnbouw is kapitaalintensief, en een nieuwe mijn duurt jaren van ontdekking tot productie. Waar ik op let: waar het bedrijf staat op de kostencurve van de industrie, hoeveel jaar de reserves meegaan, schuld, het land waar de mijnen liggen, en de verplichtingen om mijnen en groeves na sluiting te herstellen.
 
-> In English: Non-Energy Minerals covers steel, aluminium, precious metals, other metals and minerals, forest products and construction materials. Commodity prices drive profit and low-cost producers survive downturns. Key checks are cost-curve position, reserve life, debt, jurisdiction risk and closure liabilities.
-
 ## Hoe deze sector in mijn universums valt
 
 Alle zes de industrieën staan in B, cyclische bedrijven.

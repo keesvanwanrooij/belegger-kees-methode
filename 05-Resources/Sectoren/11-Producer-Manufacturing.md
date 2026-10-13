@@ -2,8 +2,6 @@
 
 Producer Manufacturing zijn de makers van machines, elektrische producten, bouwproducten, auto-onderdelen en de grote industriële conglomeraten. De omzet volgt de investeringen van bedrijven en overheden, en daarom is de sector cyclisch. Een orderboek geeft zicht op de omzet van de komende kwartalen, en onderhoud en onderdelen na verkoop maken de winst stabieler. Waar ik op let: de verhouding tussen nieuwe orders en omzet, marges aan de top van de cyclus, pensioenverplichtingen bij oudere industriële bedrijven en de doorberekening van staal- en koperprijzen. Let ook op de indeling: op 13 september 2026 stonden in TradingView twee grote Amerikaanse makers van machines voor chipfabricage, Lam Research en Applied Materials, onder deze sector.
 
-> In English: Producer Manufacturing covers industrial machinery, electrical products, building products, auto parts, conglomerates and heavy equipment. Revenue follows business and government investment, so the sector is cyclical, with order books and aftermarket service providing visibility. Key checks are book-to-bill, peak-cycle margins, pension liabilities and raw material pass-through.
-
 ## Hoe deze sector in mijn universums valt
 
 Industrial Machinery, Building Products, Electrical Products, Office Equipment/Supplies, Miscellaneous Manufacturing en Industrial Conglomerates horen bij de groeisectoren A, D, E en F. Bij Industrial Machinery en Building Products kies ik de Lynch-categorie met extra zorg, omdat investeringen en bouw met de economie meebewegen. Toch houd ik ze in A: veel bedrijven hebben een sterke niche en verdienen aan onderhoud, onderdelen of renovatie, en dat maakt ze minder afhankelijk van de cyclus.

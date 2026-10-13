@@ -227,9 +227,6 @@ Ik kijk naar het type bedrijf, het aantal analisten, hun sectorspecialisatie en 
 
 [Alle hoofdstukken](README.md) · [De Belegger Kees Methode](../README.md) · [NLP-presupposities](02-NLP-Presupposities.md) · [Bronnen en redactionele werkwijze](../01-Docs/README.md)
 
-
-> In English: This chapter explains how Kees van Wanrooij combines GARP, practical NLP techniques, analyst research and self-management in his personal stock-analysis method.
-
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
 ---

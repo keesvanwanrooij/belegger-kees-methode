@@ -2,8 +2,6 @@
 
 Ik wil mensen inspireren door beleggen toegankelijk te maken. Dat begint bij begrijpelijke uitleg, en het gaat verder zodra je met anderen praat over hoe een afweging ontstaat. Deze methode kun je alleen lezen en gebruiken. De Community is de plek waar je haar samen met anderen toepast, met dezelfde stappen, dezelfde templates en dezelfde checks.
 
-> In English: The Belegger Kees Community is a Dutch-language learning environment where members apply the Belegger Kees Method together: sharing research questions, reading each other's analyses critically and practising the routines of the method. It offers education and feedback, not investment advice or stock tips.
-
 ## Waarom samen leren werkt
 
 Een analyse maak je alleen, en dat is ook de zwakte ervan. Na twintig uur in één bedrijf zie ik mijn eigen aannames niet meer als aannames. Iemand die het dossier fris leest, ziet binnen tien minuten welke zin het hele verhaal draagt en vraagt of ik daar bewijs voor heb. Dat is precies de vraag die ik mijzelf niet meer stelde.

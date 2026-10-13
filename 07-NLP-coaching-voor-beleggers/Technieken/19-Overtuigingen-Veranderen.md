@@ -2,8 +2,6 @@
 
 Een overtuiging is iets wat je voor waar houdt, vaak zonder dat je het nog onderzoekt. "Beleggen is voor rijke mensen", "geld maakt mensen hebberig" en "ik ben niet goed met cijfers" zijn overtuigingen die jarenlang gedrag sturen. In coaching behandel ik een overtuiging als een hypothese: waar komt ze vandaan, wat levert ze op, wat kost ze, en welke overtuiging zou beter passen bij wat iemand nu wil?
 
-> In English: Beliefs are ideas held as true, often without re-examination, such as "investing is for rich people". Kees van Wanrooij treats limiting money beliefs as hypotheses: where did the belief come from, what does it protect, what does it cost, and which more useful belief could be tested in practice. The approach draws on Robert Dilts's belief change work.
-
 ## Wat is overtuigingen veranderen in NLP?
 
 Robert Dilts werkte het werken met overtuigingen uit in *Changing Belief Systems with NLP* uit 1990 en *Beliefs: Pathways to Health and Well-Being* uit 1990, met Tim Hallbom en Suzi Smith. Een bekende vorm is de belief change cycle: een oude overtuiging gaat van "dit is waar" via "hier twijfel ik aan" naar "dit geloofde ik vroeger", en een nieuwe overtuiging gaat van "dit wil ik geloven" via "hier sta ik voor open" naar "dit geloof ik". Bij veel opleidingen hoort dit bij het Master-niveau `[te controleren per opleiding]`.

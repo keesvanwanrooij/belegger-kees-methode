@@ -2,8 +2,6 @@
 
 Mensen beschrijven hun ervaring in taal die bij de zintuigen hoort. De een zegt "ik zie het niet zitten", de ander "het klinkt als een slecht plan", en een derde "het voelt niet goed". In NLP heten die zintuiglijke kanalen representatiesystemen, vaak afgekort als VAK: visueel, auditief en kinesthetisch. Ik gebruik het als luisterinstrument. Het helpt mij te horen hoe een belegger zijn angst of verlangen van binnen ervaart, zodat ik mijn vragen daarop kan afstemmen.
 
-> In English: Representational systems describe how people code experience through sight, sound and feeling, often shortened to VAK. Kees van Wanrooij uses sensory language as a listening tool with investors, to notice whether a fear appears as an image, an inner voice or a bodily feeling, and to match his questions to it. He does not treat it as a fixed personality type or learning style.
-
 ## Wat zijn representatiesystemen?
 
 Bandler en Grinder beschreven in de jaren zeventig dat mensen hun ervaring in zintuiglijke kanalen coderen en dat hun woordkeus daar iets over verraadt. Later ontstond het idee van een vast voorkeurssysteem per persoon. Dat idee is in onderzoek niet bevestigd `[te controleren: bron, bijvoorbeeld de review van Sharpley uit 1987]`. Ik gebruik het daarom niet om iemand in een hokje te zetten, maar om te horen hoe een specifieke ervaring nu is opgebouwd.

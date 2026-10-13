@@ -2,8 +2,6 @@
 
 Technology Services zijn bedrijven die geld verdienen met software, internetdiensten, IT-dienstverlening en het verwerken van gegevens. Ze hebben weinig fabrieken; de kosten zitten in mensen, rekencentra, verkoop en ontwikkeling. Staat een product eenmaal, dan kost een extra klant vaak weinig extra, en daardoor kan de marge hard meestijgen met de omzet. Veel omzet komt uit abonnementen en contracten die jaarlijks terugkomen. Waar ik op let: aandelenbeloning die de winst mooier maakt dan de kasstroom voor de aandeelhouder, klantverloop, geactiveerde ontwikkelkosten en aangepaste winstmaatstaven die het bedrijf zelf definieert.
 
-> In English: Technology Services covers software, internet platforms, IT services and data processing. These companies need little physical capital and can scale margins quickly once a product works. Key checks are stock-based compensation, customer churn, capitalised development costs and company-defined adjusted earnings.
-
 ## Hoe deze sector in mijn universums valt
 
 Alle vier de industrieën horen bij de groeisectoren: A, D, E en F. Een softwarebedrijf dat nog verlies maakt, vind ik in D.

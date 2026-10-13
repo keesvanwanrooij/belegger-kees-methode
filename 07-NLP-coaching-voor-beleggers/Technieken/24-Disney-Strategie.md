@@ -2,8 +2,6 @@
 
 De Disney-strategie is een manier om een plan of keuze te onderzoeken door drie rollen na elkaar in te nemen: de dromer, die zich voorstelt wat er mogelijk is; de realist, die uitzoekt hoe het zou werken; en de criticus, die zoekt wat er mis kan gaan. Het helpt bij grote keuzes zoals minder gaan werken, een eigen bedrijf beginnen of een pensioenplan maken. Het voorkomt dat de criticus een idee afschiet voordat het een kans kreeg, of dat de dromer iets begint zonder plan.
 
-> In English: The Disney strategy, modelled by Robert Dilts from Walt Disney's creative process, separates three roles: the dreamer who imagines possibilities, the realist who works out how, and the critic who looks for weaknesses. Kees van Wanrooij uses it with investors for big choices such as working less, starting a business or a long-term wealth plan, so that no role dominates too early.
-
 ## Wat is de Disney-strategie?
 
 Robert Dilts beschreef de strategie in *Strategies of Genius, Volume One* uit 1994. Hij baseerde zich op beschrijvingen van hoe Walt Disney en zijn team werkten. Het is een voorbeeld van [modelleren](22-Modelleren.md): een werkwijze van iemand anders beschreven zodat een ander haar kan gebruiken. Het lijkt op de pre-mortem die ik in mijn analyseproces gebruik, waar de criticus een eigen, vast moment krijgt.

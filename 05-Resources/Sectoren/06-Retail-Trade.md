@@ -2,8 +2,6 @@
 
 Retail Trade is de verkoop aan consumenten, in winkels en online. De marges zijn laag, dus een kleine verandering in inkoopprijzen, kortingen of loonkosten heeft een grote invloed op de winst. Voorraadbeheer bepaalt hoeveel kapitaal er vastzit, en de snelheid waarmee voorraad wordt verkocht is een goede maat voor de kwaliteit van het bedrijf. Winkels worden meestal gehuurd, dus de leaseverplichtingen onder IFRS 16 zijn groot. Waar ik op let: de omzetgroei van bestaande winkels, omzet per vierkante meter, voorraad in dagen, de ontwikkeling van de brutomarge, het online aandeel, en de vraag of nieuwe winkels omzet wegnemen bij bestaande winkels.
 
-> In English: Retail Trade covers store-based and online retailers. Margins are thin, inventory ties up capital, and store leases are large under IFRS 16. Key checks are like-for-like sales, sales per square metre, inventory days, gross margin, online share and cannibalisation by new stores.
-
 ## Hoe deze sector in mijn universums valt
 
 Alle tien de industrieën horen bij de groeisectoren A, D, E en F.

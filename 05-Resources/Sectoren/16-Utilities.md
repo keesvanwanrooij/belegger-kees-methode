@@ -2,8 +2,6 @@
 
 Utilities zijn de nutsbedrijven voor elektriciteit, gas en water, en de producenten van duurzame stroom. De tarieven worden vaak door een toezichthouder vastgesteld of liggen vast in langlopende contracten, en daarom is de omzet stabiel. De bedrijven zijn kapitaalintensief, dragen veel schuld en keren meestal dividend uit. Bij een gereguleerd nutsbedrijf hangt de waarde af van de activa waarop de toezichthouder een rendement toestaat, maal dat toegestane rendement. De sector is gevoelig voor de rente. Waar ik op let: de periode waarvoor de tarieven vastliggen en wanneer ze worden herzien, het investeringsprogramma, schuld en kredietbeoordeling, politieke risico's zoals prijsplafonds, en aansprakelijkheid voor schade door bijvoorbeeld bosbranden.
 
-> In English: Utilities covers electricity, gas and water utilities and renewable power producers. Tariffs are often regulated or contracted, cash flows are stable, capital needs and debt are high, and valuations are rate-sensitive. Key checks are the regulatory period, the investment programme, debt and ratings, political risk and liability exposure.
-
 ## Hoe deze sector in mijn universums valt
 
 Alle vier de industrieën staan in C1, gereguleerde infrastructuur.

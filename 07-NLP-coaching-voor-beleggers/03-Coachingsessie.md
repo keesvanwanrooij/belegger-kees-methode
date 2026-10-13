@@ -2,8 +2,6 @@
 
 Een NLP-coachingssessie met een belegger volgt bij mij een vaste opbouw: eerst begrijpen wat de vraag is, dan het patroon in kaart brengen, dan pas een techniek, en tot slot toetsen of de verandering past en standhoudt. Deze pagina beschrijft die opbouw, de grenzen van coaching, en hoe ik uit de [hulpvragen](01-Hulpvragen.md) een vraag kies om een techniek te oefenen met een proefklant. Ik schrijf haar voor mezelf als naslag, en voor iedereen die wil weten wat er in een sessie gebeurt.
 
-> In English: This page describes how Kees van Wanrooij runs an NLP coaching session with an investor: intake, deciding whether a question is about knowledge, a financial decision or behaviour, mapping the pattern, choosing a technique, testing and follow-up. It also covers the limits of coaching, referral, privacy, and a step-by-step way to pick a question and practise a technique with a volunteer client, including a practice log.
-
 ## Wat coaching is, en wat niet
 
 Coaching helpt je begrijpen hoe jij beslist over geld en waarom je een plan wel of niet uitvoert. Het richt zich op gedrag, taal, toestand en overtuigingen. Het is geen beleggingsadvies: ik zeg niet wat je moet kopen of verkopen, en ik beoordeel je portefeuille niet op wat erin moet. Het is ook geen therapie en geen behandeling van psychische klachten.

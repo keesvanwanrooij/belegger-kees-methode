@@ -2,8 +2,6 @@
 
 Deze pagina koppelt de [hulpvragen](01-Hulpvragen.md) aan de [NLP-technieken](Technieken/README.md). Per hulpvraag zie je met welke techniek ik meestal begin, welke technieken aanvullend passen, en of de vraag geschikt is om een techniek te oefenen met een proefklant. Een koppeling is een startpunt, geen voorschrift. Twee beleggers met dezelfde vraag kunnen een heel ander patroon hebben.
 
-> In English: This page maps investor questions to NLP techniques: for each question a first technique, supporting techniques and whether it is suitable for practising with a volunteer client. It also explains how to decide whether a problem is about knowledge, a financial decision or behaviour, and where in the chain from event to action the difficulty sits.
-
 ## Eerst de vraag: kennis, advies of gedrag?
 
 Niet elke hulpvraag is een NLP-vraag. Voordat ik een techniek kies, bepaal ik wat voor soort vraag het is.

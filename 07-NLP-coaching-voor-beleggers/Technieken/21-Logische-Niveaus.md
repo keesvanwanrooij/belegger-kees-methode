@@ -2,8 +2,6 @@
 
 Logische niveaus zijn een model om te zien op welk niveau een probleem of verandering speelt: omgeving, gedrag, vaardigheden, overtuigingen en waarden, identiteit, en zingeving. "Ik heb geen tijd om te beleggen" is een ander niveau dan "ik ben geen belegger". Wie een identiteitsvraag probeert op te lossen met een gedragstip, komt niet verder. Het model helpt mij kiezen waar een gesprek over moet gaan.
 
-> In English: Robert Dilts's logical levels distinguish environment, behaviour, capabilities, beliefs and values, identity and purpose. Kees van Wanrooij uses the model with investors to see whether a money problem is about a missing skill, a belief, or who they think they are, so that the intervention matches the level. Kees himself uses it to connect his investing method with his broader purpose.
-
 ## Wat zijn logische niveaus?
 
 Robert Dilts ontwikkelde de logische niveaus in de jaren tachtig, geïnspireerd op het werk van Gregory Bateson over leren en communicatie. Het model is praktisch bruikbaar, maar de theoretische onderbouwing en de naam "logisch" zijn binnen en buiten NLP bekritiseerd `[te controleren: bron van de kritiek]`. Ik gebruik het als ordening, niet als wetmatigheid.

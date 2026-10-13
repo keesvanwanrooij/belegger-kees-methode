@@ -2,8 +2,6 @@
 
 Consumer Non-Durables zijn producten die snel worden verbruikt: voeding, drank, verzorgingsproducten, kleding en tabak. De vraag is relatief stabiel, en daarom geldt de sector als defensief; in de indeling van Lynch zijn het vaak stalwarts of langzame groeiers. Merkkracht en schaal in distributie bepalen hoeveel prijsverhoging een bedrijf kan doorvoeren zonder klanten te verliezen. Waar ik op let: het verschil tussen volumegroei en prijsgroei, want groei die alleen uit prijsverhogingen komt raakt een keer op; grondstofkosten; eigen merken van supermarkten; en valuta bij bedrijven die veel buiten hun thuisland verkopen.
 
-> In English: Consumer Non-Durables covers food, beverages, household and personal care, apparel brands and tobacco. Demand is relatively stable and many companies are stalwarts or slow growers. Key checks are volume versus price growth, input costs, private-label competition and currency effects.
-
 ## Hoe deze sector in mijn universums valt
 
 Acht industrieën horen bij de groeisectoren A, D, E en F. Tobacco staat in C2, omdat accijnzen en regelgeving de winst bepalen.

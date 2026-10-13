@@ -2,8 +2,6 @@
 
 Het swish-patroon is een oefening om een automatische reactie op een vaste prikkel om te buigen naar een reactie die je wel wilt. De prikkel is bijvoorbeeld een groene grafiek die hard stijgt, of een melding op je telefoon. De automatische reactie is de app openen en kopen, of steeds je portefeuille checken. Met het swish-patroon koppel je aan die prikkel een aantrekkelijk beeld van jezelf die rustig anders reageert, en je herhaalt die koppeling snel en vaak.
 
-> In English: The swish pattern redirects an automatic reaction to a fixed trigger, such as a surging chart or a phone notification, toward a desired self-image, by rapidly swapping two mental images several times. Kees van Wanrooij uses it with investors for compulsive portfolio checking, impulse buying after a rally and overtrading, alongside practical changes such as turning off notifications.
-
 ## Wat is het swish-patroon?
 
 Richard Bandler beschreef het swish-patroon in *Using Your Brain for a Change* uit 1985. Het combineert [submodaliteiten](06-Submodaliteiten.md) met herhaling. Belangrijk is dat het nieuwe beeld geen handeling toont, maar de persoon die je wilt zijn: iemand die rustig zijn eigen afweging maakt. Dat maakt het beeld aantrekkelijker dan een regel als "niet kopen".

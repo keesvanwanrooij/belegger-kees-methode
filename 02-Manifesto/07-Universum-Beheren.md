@@ -70,9 +70,6 @@ Een periodieke controle houdt het overzicht bruikbaar: weet ik nog waarom ik ied
 
 [Alle hoofdstukken](README.md) · [De Belegger Kees Methode](../README.md) · [Bronnen en redactionele werkwijze](../01-Docs/README.md)
 
-
-> In English: How I organise research candidates, a watchlist and portfolio reviews.
-
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
 ---

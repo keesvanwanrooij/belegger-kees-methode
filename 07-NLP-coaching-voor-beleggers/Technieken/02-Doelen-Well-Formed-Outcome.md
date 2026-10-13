@@ -2,8 +2,6 @@
 
 Een well-formed outcome is een doel dat zo is geformuleerd dat je het zelf kunt bereiken en kunt merken dat je er bent. "Ik wil beter met geld omgaan" is een voornemen. "Vanaf de eerste van de maand zet ik automatisch een vast bedrag opzij, en over een jaar heb ik een buffer van drie maanden vaste lasten" is een doel. In coaching is het vaak de eerste stap, want veel beleggers weten wat ze niet willen, maar nog niet wat ze wel willen.
 
-> In English: A well-formed outcome is a goal stated in positive terms, within your own control, with sensory evidence of success, a clear context and a check on side effects. Kees van Wanrooij uses it with investors to turn vague wishes like "handling money better" into goals they can act on, and to surface what they really want from wealth.
-
 ## Wat is een well-formed outcome?
 
 De well-formed outcome is een van de oudste modellen uit NLP en komt uit het werk van Bandler en Grinder. Het model toetst een doel aan een reeks voorwaarden. De versies verschillen per opleiding, maar de kern is steeds dezelfde:

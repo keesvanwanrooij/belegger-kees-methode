@@ -2,8 +2,6 @@
 
 Electronic Technology zijn de makers van chips, elektronische onderdelen, meet- en productieapparatuur, computers en netwerkapparatuur, en ook van vliegtuigen en defensiesystemen. Deze bedrijven zijn kapitaalintensiever dan software: productcycli zijn kort en ontwikkeling en fabrieken kosten veel geld vooraf. Veel industrieën bewegen mee met voorraadcycli. Klanten bouwen voorraden op en weer af, waardoor de omzet harder schommelt dan de vraag van de eindgebruiker. Waar ik op let: waar in de cyclus de industrie zit, de voorraden bij klanten en distributeurs, klantconcentratie, exportbeperkingen en geopolitiek, en technologische verschuivingen die een product snel kunnen inhalen.
 
-> In English: Electronic Technology covers semiconductors, electronic components, instruments, computers, networking hardware, and aerospace and defence. Capital intensity is high and inventory cycles make revenue swing harder than end demand. Key checks are the cycle position, customer inventories, customer concentration, export controls and technology shifts.
-
 ## Hoe deze sector in mijn universums valt
 
 Acht industrieën horen bij de groeisectoren A, D, E en F. Aerospace & Defense staat in C2, omdat defensie afhangt van overheidsbegrotingen.

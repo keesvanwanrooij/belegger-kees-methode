@@ -234,7 +234,6 @@ def render_md(page):
     out = md.convert(page["body"])
     out = re.sub(r'href="([^"]+)"', lambda m: 'href="' + esc(html.unescape(resolve_link(page["path"], html.unescape(m.group(1))))) + '"', out)
     out = out.replace("<table>", '<div class="table-wrap"><table>').replace("</table>", "</table></div>")
-    out = re.sub(r"<blockquote>\s*<p>In English:", '<blockquote class="in-english" lang="en"><p><span class="lbl">In English:</span>', out)
     out = re.sub(r"<p>(Bijgewerkt: [^<]*)</p>", r'<p class="updated">\1</p>', out)
     out = re.sub(r"<p>(De content op Belegger Kees is uitsluitend[^<]*)</p>", r'<aside class="disclaimer"><p>\1</p></aside>', out)
     out = re.sub(r"<p><strong>(<a href=\"[^\"]+\">[^<]+</a>)</strong></p>",
