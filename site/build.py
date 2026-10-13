@@ -54,7 +54,7 @@ ECO = [
     ("Onderzoek en tools", [
         ("insider-scanner", HUB + "/insider-scanner/", "Insider Scanner"),
         ("stock-screener", HUB + "/stock-screener/", "Stock Screener"),
-        ("seeking-alpha", SEEKING_ALPHA, "Investor Kees op Seeking Alpha"),
+        ("seeking-alpha", SEEKING_ALPHA, "Seeking Alpha"),
     ]),
     ("Kees van Wanrooij", [
         ("over-mij", HUB + "/over-mij/", "Over mij"),
@@ -406,7 +406,7 @@ def head(title, desc, canonical, kind, ld=None, noindex=False, modified=None):
 def header_html():
     return f'''<header class="topbar">
 <div class="wrap topbar-in">
-<a class="brand" href="{href("/")}" aria-label="Belegger Kees, startpagina">Belegger Kees<span class="dot">.</span></a>
+<a class="brand" href="{HUB}/" aria-label="Naar keesvanwanrooij.nl">Belegger Kees<span class="dot">.</span></a>
 <nav class="topnav" aria-label="Hoofdmenu">
 <a href="{href("/manifesto/")}">Methode</a>
 <a href="{href("/analyseproces/")}">Analyseproces</a>
