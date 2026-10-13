@@ -35,8 +35,9 @@ SECTION_LABELS = {"docs": "Docs", "manifesto": "Manifesto", "analyseproces": "An
 
 
 # Ecosysteemblok in de voet: identiek in de hub (www.keesvanwanrooij.nl) en deze methode-site.
-# De cursussites hebben hiervan een eigen variant.
+# De cursussen staan op eigen subdomeinen en horen niet in dit blok.
 HUB = "https://www.keesvanwanrooij.nl"
+SEEKING_ALPHA = "https://seekingalpha.com/author/investor-kees"
 ECO = [
     ("Beleggen", [
         ("belegger-kees", "https://beleggerkees.nl", "Belegger Kees"),
@@ -49,6 +50,11 @@ ECO = [
         ("mindset", "https://beleggerkees.nl/mindset-en-beleggen", "Mindset en beleggen"),
         ("ai", "https://beleggerkees.nl/beleggen-met-ai", "Beleggen met AI"),
         ("faq", HUB + "/veelgestelde-vragen/", "Veelgestelde vragen"),
+    ]),
+    ("Onderzoek en tools", [
+        ("insider-scanner", HUB + "/insider-scanner/", "Insider Scanner"),
+        ("stock-screener", HUB + "/stock-screener/", "Stock Screener"),
+        ("seeking-alpha", SEEKING_ALPHA, "Investor Kees op Seeking Alpha"),
     ]),
     ("Kees van Wanrooij", [
         ("over-mij", HUB + "/over-mij/", "Over mij"),
@@ -325,7 +331,8 @@ def json_ld(page, kind):
         {"@type": "WebSite", "@id": WEB_ID, "url": SITE_URL + "/", "name": CFG["site_title"], "inLanguage": "nl-NL",
          "publisher": {"@id": ORG_ID}},
         {"@type": "Person", "@id": PERSON_ID, "name": "Kees van Wanrooij", "url": AUTHOR_URL,
-         "jobTitle": "Oprichter van Belegger Kees", "worksFor": {"@id": ORG_ID}, "sameAs": SAMEAS,
+         "jobTitle": "Oprichter van Belegger Kees", "worksFor": {"@id": ORG_ID}, "sameAs": SAMEAS + [SEEKING_ALPHA],
+         "alternateName": ["Belegger Kees", "Investor Kees"],
          "knowsAbout": ["Fundamentele aandelenanalyse", "Waardering met een DCF-model", "Beleggingspsychologie",
                         "Neuro Linguïstisch Programmeren"]},
     ]
