@@ -302,11 +302,11 @@ def breadcrumbs(page):
 
 
 # ---------------------------------------------------------------- structured data
-# Dezelfde @id's als op beleggerkees.nl (organisatie) en www.keesvanwanrooij.nl (persoon), zodat
-# Google op alle drie de sites dezelfde twee entiteiten ziet in plaats van drie losse varianten.
+# Dezelfde @id's als op beleggerkees.nl en www.keesvanwanrooij.nl, zodat Google op alle drie de sites
+# dezelfde twee entiteiten ziet. Beide horen bij beleggerkees.nl: het merk is het einddoel.
 ORG_ID, WEB_ID = CFG["brand_url"] + "#organization", SITE_URL + "/#website"
 AUTHOR_URL = SITE_URL + URL_OF["08-Over-Belegger-Kees/README.md"]
-PERSON_ID = HUB + "/#kees"
+PERSON_ID = "https://beleggerkees.nl/auteur/kees-van-wanrooij#person"
 PERSON_SAMEAS = [CFG["brand_url"], "https://beleggerkees.nl/auteur/kees-van-wanrooij", CFG["linkedin"],
                  CFG["instagram"], "https://github.com/keesvanwanrooij", SEEKING_ALPHA]
 ORG_SAMEAS = [CFG["instagram"], CFG["repo_url"]]
