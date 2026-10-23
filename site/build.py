@@ -302,10 +302,14 @@ def breadcrumbs(page):
 
 
 # ---------------------------------------------------------------- structured data
-ORG_ID, WEB_ID = CFG["brand_url"] + "/#organization", SITE_URL + "/#website"
+# Dezelfde @id's als op beleggerkees.nl (organisatie) en www.keesvanwanrooij.nl (persoon), zodat
+# Google op alle drie de sites dezelfde twee entiteiten ziet in plaats van drie losse varianten.
+ORG_ID, WEB_ID = CFG["brand_url"] + "#organization", SITE_URL + "/#website"
 AUTHOR_URL = SITE_URL + URL_OF["08-Over-Belegger-Kees/README.md"]
-PERSON_ID = AUTHOR_URL + "#kees-van-wanrooij"
-SAMEAS = [CFG["brand_url"], CFG["instagram"], CFG["linkedin"]]
+PERSON_ID = HUB + "/#kees"
+PERSON_SAMEAS = [CFG["brand_url"], "https://beleggerkees.nl/auteur/kees-van-wanrooij", CFG["linkedin"],
+                 CFG["instagram"], "https://github.com/keesvanwanrooij", SEEKING_ALPHA]
+ORG_SAMEAS = [CFG["instagram"], CFG["repo_url"]]
 
 
 def faq_items(body):
@@ -325,12 +329,12 @@ def json_ld(page, kind):
     canonical = SITE_URL + page["url"]
     graph = [
         {"@type": "Organization", "@id": ORG_ID, "name": CFG["site_name"], "url": CFG["brand_url"],
-         "logo": SITE_URL + "/assets/icon-512.png", "sameAs": SAMEAS[1:],
+         "logo": SITE_URL + "/assets/icon-512.png", "sameAs": ORG_SAMEAS,
          "contactPoint": {"@type": "ContactPoint", "email": CFG["contact_email"], "contactType": "customer service"}},
         {"@type": "WebSite", "@id": WEB_ID, "url": SITE_URL + "/", "name": CFG["site_title"], "inLanguage": "nl-NL",
          "publisher": {"@id": ORG_ID}},
-        {"@type": "Person", "@id": PERSON_ID, "name": "Kees van Wanrooij", "url": AUTHOR_URL,
-         "jobTitle": "Oprichter van Belegger Kees", "worksFor": {"@id": ORG_ID}, "sameAs": SAMEAS + [SEEKING_ALPHA],
+        {"@type": "Person", "@id": PERSON_ID, "name": "Kees van Wanrooij", "url": HUB + "/",
+         "jobTitle": "Oprichter van Belegger Kees", "worksFor": {"@id": ORG_ID}, "sameAs": PERSON_SAMEAS,
          "alternateName": ["Belegger Kees", "Investor Kees"],
          "knowsAbout": ["Fundamentele aandelenanalyse", "Waardering met een DCF-model", "Beleggingspsychologie",
                         "Neuro Linguïstisch Programmeren"]},
