@@ -1,8 +1,8 @@
 # Stap 7. Rapporteren en publiceren
 
-Een analyse is pas af als ik haar kan uitleggen aan iemand die mijn onderzoek niet heeft gedaan. Ik schrijf twee vormen: een korte aandelenanalyse als blogpost, en een uitgebreid onderzoeksrapport. Beide beginnen als werkversie in mijn werkmap en komen pas in de openbare map als ze de publicatiecontrole doorstaan. Een automatisch opgeslagen werkbestand is nog geen publicatie.
+Mijn onderzoek dient de vraag of ik een aandeel koop. Een publicatie is daarvan een bijproduct, en een goede test: een analyse is pas af als ik haar kan uitleggen aan iemand die mijn onderzoek niet heeft gedaan. Ik schrijf twee vormen: een korte aandelenanalyse als blogpost, en een uitgebreid onderzoeksrapport. Beide beginnen als werkversie in mijn werkmap en komen pas in de openbare map als ze de publicatiecontrole doorstaan. Een automatisch opgeslagen werkbestand is nog geen publicatie.
 
-In een maandelijkse batch wordt de afgeronde analyse van elke naam die de snelle analyse overleeft bovendien een artikel op Seeking Alpha. Daarvoor gelden dezelfde regels als voor mijn andere publicaties: de zeven punten van de publicatiecontrole, mijn positie en belangen op de publicatiedatum, geen koersdoel en geen koopadvies. Het platform heeft eigen auteursregels en die gaan voor; ik lees de actuele versie voordat ik aan een artikel begin. Een artikel voor een extern platform schrijf ik zelf. AI helpt mij daarbij met onderzoek, rekenwerk en controle, niet met de tekst.
+Mijn Engelstalige artikelen op Seeking Alpha maak ik met een aparte werkwijze; daar gelden de regels van dat platform.
 
 ## Doel
 
@@ -20,18 +20,19 @@ Het afgeronde dossier uit [stap 3](03-Uitgebreid-Analyseren.md) en [stap 4](04-W
 
 ## Hoe ik het doe
 
-1. **De outline.** Ik maak eerst een hoofdstukindeling met per hoofdstuk de onderwerpen en de bronnen die erbij horen. Zo zie ik welke delen van het dossier het rapport dragen en welke ik weglaat. Dat is ook het moment waarop ik bepaal welke delen van een werkdossier geschikt zijn voor publicatie.
+1. **De outline.** Ik maak eerst een hoofdstukindeling met per alinea de vragen die ik beantwoord, met het cijfer en de bron eronder. Een outline van vragen schrijft veel makkelijker dan een outline van trefwoorden. Zo zie ik ook welke delen van het dossier het rapport dragen en welke ik weglaat. Dat is het moment waarop ik bepaal welke delen van een werkdossier geschikt zijn voor publicatie. Bovenaan zet ik de constanten die elk hoofdstuk gebruikt: koers en datum, aantal aandelen, definities en boekjaren.
 2. **De eerste versie.** Ik schrijf in de ik-vorm als het over mijn ervaring of oordeel gaat, en spreek de lezer met je aan als ik iets uitleg. Cijfers, verwachtingen en interpretaties houd ik uit elkaar: een historische omzet is iets anders dan mijn omzetverwachting, en een uitspraak van het bestuur is iets anders dan een bewezen ontwikkeling.
 3. **De bronnen.** Bij elke belangrijke claim een controleerbare bron en een datum of verslagperiode. Ik zeg of een cijfer gerapporteerd, aangepast of zelf berekend is. Bij een berekening staan invoer en formule erbij.
 4. **De risico's.** Ze krijgen genoeg ruimte om te begrijpen. De pre-mortem uit stap 2 en de rode vlaggen uit stap 3 zijn het materiaal; ik kies de risico's die ertoe doen en som niet alles op.
-5. **De publicatiecontrole.** Ik loop de zeven punten uit de [publicatiecontrole](../01-Docs/07-Publicatiecontrole.md) na: bedrijf en verslagperiode, gecontroleerde cijfers, onzekerheden en tegenargumenten, positie en belangen op de publicatiedatum, waar ik AI voor heb gebruikt, geen privégegevens of materiaal zonder rechten, en status, auteur, datum en links.
-6. **Zelf teruglezen.** Ik publiceer alleen een tekst die ik zelf heb nagelezen. Een concept van een taalmodel is nog niet goedgekeurd omdat het mijn stem nabootst.
-7. **Publiceren.** De gecontroleerde versie gaat naar [Onderzoek/Analyses](../04-Onderzoek/Analyses/README.md) met een eigen README: bedrijf en notering, onderzoeksvraag, conclusie, verslagperiode, status, bronnen, onzekerheden en positieverklaring. De blogpost gaat naar beleggerkees.nl. Het artikel voor Seeking Alpha plaats ik op dat platform, pas na dezelfde controle. De werkversie blijft in de werkmap.
-8. **Corrigeren.** Een tikfout herstel ik direct. Bij een inhoudelijke fout komt er een zichtbare correctienotitie met datum, oude strekking, juiste uitleg en bron. Een historisch besluit verander ik niet achteraf.
+5. **Eerst de cijfers.** Ik vergelijk elk cijfer in de tekst met mijn werkboek en de bron, voordat ik aan taal en stijl begin. De meeste fouten die ik vind zijn cijfers die tussen twee hoofdstukken verschillen, een verkeerde periode, of een ondernemingswaarde en aandelenwaarde die door elkaar lopen.
+6. **De publicatiecontrole.** Ik loop de zeven punten uit de [publicatiecontrole](../01-Docs/07-Publicatiecontrole.md) na: bedrijf en verslagperiode, gecontroleerde cijfers, onzekerheden en tegenargumenten, positie en belangen op de publicatiedatum, waar ik AI voor heb gebruikt, geen privégegevens of materiaal zonder rechten, en status, auteur, datum en links.
+7. **Zelf teruglezen.** Ik publiceer alleen een tekst die ik zelf heb nagelezen. Een concept van een taalmodel is nog niet goedgekeurd omdat het mijn stem nabootst.
+8. **Publiceren.** De gecontroleerde versie gaat naar [Onderzoek/Analyses](../04-Onderzoek/Analyses/README.md) met een eigen README: bedrijf en notering, onderzoeksvraag, conclusie, verslagperiode, status, bronnen, onzekerheden en positieverklaring. De blogpost gaat naar beleggerkees.nl. De werkversie blijft in de werkmap.
+9. **Corrigeren.** Een tikfout herstel ik direct. Bij een inhoudelijke fout komt er een zichtbare correctienotitie met datum, oude strekking, juiste uitleg en bron. Een historisch besluit verander ik niet achteraf.
 
 ## Prompts
 
-[Prompt 12, onderzoeksrapport voorbereiden](../05-Resources/AI-Prompts/prompts-library.md), voor de outline met hoofdstukken en onderwerpen op basis van mijn dossier. Voor de tekst zelf gebruik ik AI voor structuur en een eerste concept; de zinnen waar mijn oordeel in zit schrijf ik zelf. Hoe ik dat verantwoord staat in de [redactionele werkwijze](../01-Docs/01-Redactionele-Werkwijze.md).
+[Prompt 7.1, rapport voorbereiden](../05-Resources/AI-Prompts/prompts-library.md#71-rapport-voorbereiden), voor de outline van vragen op basis van mijn dossier. [Prompt 7.2, tweede lezer](../05-Resources/AI-Prompts/prompts-library.md#72-tweede-lezer), voor de cijfercontrole en een kritische lezing. Voor de tekst zelf gebruik ik AI voor structuur en een eerste concept; de zinnen waar mijn oordeel in zit schrijf ik zelf. Hoe ik dat verantwoord staat in de [redactionele werkwijze](../01-Docs/01-Redactionele-Werkwijze.md).
 
 ## Checks
 
@@ -57,4 +58,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 9 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

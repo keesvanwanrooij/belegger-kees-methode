@@ -1,6 +1,6 @@
 # Snelle aandelenanalyse: kiezen waar ik tijd aan besteed
 
-De snelle analyse helpt mij kiezen welk aandeel mijn volgende onderzoeksuren waard is. Ik kijk naar de risico's en wat fout kan gaan voordat ik enthousiast word over wat goed kan gaan. Daarna vergelijk ik de kansen. Wil ik ongeveer twintig uur verder onderzoek aan dit bedrijf besteden, of staat er een betere kandidaat op mijn lijst?
+De snelle analyse is er om zo snel mogelijk te ontdekken of ik moet stoppen. Zo helpt ze mij kiezen welk aandeel mijn volgende onderzoeksuren waard is. Ik kijk naar de risico's en wat fout kan gaan voordat ik enthousiast word over wat goed kan gaan. Daarna vergelijk ik de kansen. Wil ik ongeveer twintig uur verder onderzoek aan dit bedrijf besteden, of staat er een betere kandidaat op mijn lijst?
 
 De uitkomst is een volgorde van voorkeuren. Sommige bedrijven vallen af, andere blijven interessant voor later en één of enkele kandidaten krijgen meer aandacht. Je kunt deze analyse ook gebruiken om jouw eigen aandacht bewuster te verdelen.
 
@@ -55,11 +55,11 @@ Een marktschatting van het bedrijf zelf kan nuttig zijn. Ik wil wel weten hoe de
 
 ### Fase 3: waardering
 
-Ik onderzoek welke verwachtingen bij de huidige prijs kunnen passen. Een verkorte omgekeerde DCF helpt daarbij: ik houd een aantal aannames vast en reken terug welke groei of marge nodig is.
+Ik onderzoek welke verwachtingen bij de huidige prijs kunnen passen. Eerst kijk ik of de koers-winstverhouding iets zegt: rente-inkomsten op een grote kaspositie of een eenmalige belastingpost kunnen een aandeel goedkoop laten lijken terwijl het dat zonder die posten niet is. Daarna gebruik ik een verkorte omgekeerde DCF op de aangepaste vrije kasstroom: welke groei over tien jaar verklaart de ondernemingswaarde van vandaag?
 
 Er is niet één unieke verwachting uit een beurskoers af te lezen. Verschillende combinaties van groei, risico en eindwaarde kunnen dezelfde prijs geven. Ik gebruik deze berekening om mijn vragen scherper te maken.
 
-Daarna zet ik een eerste eigen verwachting ernaast. Het [waarderingshoofdstuk](06-DCF-Model.md) legt uit hoe ik meestal met een discount rate van ongeveer 8 tot 12 procent werk en hoe ik een exit multiple en intern rendement gebruik.
+Daarna zet ik een eerste eigen verwachting ernaast, en een slecht scenario: het slechtste jaar uit de geschiedenis van het bedrijf op de huidige kostenbasis. Het [waarderingshoofdstuk](06-DCF-Model.md#69-de-korte-route-omgekeerde-dcf-op-de-aangepaste-vrije-kasstroom) legt uit hoe ik dat reken, en waarom de uitgebreide analyse een ander model gebruikt.
 
 ### Fase 4: prijs-kwaliteitmatrix
 
@@ -121,4 +121,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

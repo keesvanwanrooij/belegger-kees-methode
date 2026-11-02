@@ -4,13 +4,13 @@ Ik wil vooraf kunnen beschrijven wat een bruikbare uitkomst is. Dat voorkomt dat
 
 ## Screening
 
-Ik heb per batch vier kandidaten voor de snelle analyse, met ticker, DeGiro-code, land, de herkomst van de naam, sector, industrie, het businessmodel in een paar woorden, de reden om verder te kijken, wat er mis kan gaan en het omzetmodel. De lijst waaruit ik kies, de undercovered-lijst van Seeking Alpha, mag veel langer zijn. Het tabblad Ronde van het screeningwerkboek toont geen kandidaten zonder reden, risico, omzetmodel of DeGiro-code. Gebruik ik de TradingView-route, dan staan de filters in de opgeslagen screeners; wijk ik ervan af, dan pas ik de screenerpagina aan met de reden.
+Ik heb een top 50 op volgorde van belofte, met ticker, DeGiro-code, land, de herkomst van de naam, sector, industrie, het businessmodel in een paar woorden, de reden om verder te kijken, wat er mis kan gaan en het omzetmodel. De lijsten waaruit ik kies, de undercovered-lijst van Seeking Alpha en de TradingView-universums, mogen veel langer zijn. Het tabblad Ronde van het screeningwerkboek toont geen kandidaten zonder reden, risico, omzetmodel of DeGiro-code. De filters staan in de opgeslagen screeners; wijk ik ervan af, dan pas ik de screenerpagina aan met de reden.
 
-Een batch met minder dan vier overtuigende namen kan ook een goede uitkomst zijn. Ik vul de batch niet aan met namen waar ik geen reden voor heb en pas filters niet alleen aan om de lijst alsnog te vullen. Mijn doelritme is een batch per maand, met ruimte om bestaande kansen eerst af te werken. Mijn doel is minstens vier artikelen per batch; valt een naam snel af en is er ruimte, dan krijgt de volgende naam van de lijst een snelle analyse.
+Minder dan vijftig overtuigende namen kan ook een goede uitkomst zijn. Ik vul de lijst alleen aan met namen waar ik een reden voor heb en pas filters alleen aan met een inhoudelijke reden. Mijn doelritme is een ronde per kwartaal en mijn minimum een ronde per jaar, met ruimte om bestaande kansen eerst af te werken.
 
 ## Snelle analyse
 
-Ik begrijp de eerste kans en de belangrijkste belemmeringen voldoende om te kiezen of ik hier mijn volgende ongeveer twintig onderzoeksuren aan wil besteden. Ik vergelijk de kandidaat met de andere mogelijkheden.
+Ik weet of ik moet stoppen. Blijft de kandidaat overeind, dan begrijp ik de eerste kans en de belangrijkste belemmeringen voldoende om te kiezen of ik hier mijn volgende ongeveer twintig onderzoeksuren aan wil besteden. Ik vergelijk de kandidaat met de andere mogelijkheden.
 
 De zes gebruikelijke onderdelen zijn gegevensoverzicht, bedrijfsmodel, markt en groeiruimte, eerste waardering, prijs-kwaliteitafweging en bestuur. Een belangrijke vroege bevinding kan verdere uitwerking overbodig maken.
 
@@ -54,4 +54,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 9 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

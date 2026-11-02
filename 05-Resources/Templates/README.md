@@ -10,7 +10,7 @@ Ik kopieer een template naar mijn privé werkmap, geef de kopie de naam van het 
 | --- | --- | --- | --- |
 | [01-Universum.xlsx](01-Universum.xlsx) | [Stap 5](../../03-Analyseproces/05-Universum-Bijhouden.md) | Eén rij per bedrijf met onderzoeksfase, reden om te volgen, gekoppelde koersdata, een mini-waardering en de koopzone bij mijn rendementseis; een overzicht met tellingen en signalen; een onderhoudslijst | Werkversie, formules gecontroleerd |
 | [02-Screening.xlsx](02-Screening.xlsx) | [Stap 1](../../03-Analyseproces/01-Screenen.md) | Kandidaten met ticker, DeGiro-code, land, screener, sector, industrie, businessmodel, reden, risico en omzetmodel, met marktgegevens via het gegevenstype Aandelen; wisselkoersen op Fiat; een automatisch overzicht op Ronde; de acht universums en drie landenlijsten uit de [screeners](../Screeners/screeners.md) | Werkversie, in gebruik bij de ronde van september 2026 |
-| [03-Snelle-Analyse.xlsx](03-Snelle-Analyse.xlsx) | [Stap 2](../../03-Analyseproces/02-Snel-Analyseren.md) | De zes fasen van de snelle analyse, de zestien checks, de verkorte omgekeerde DCF en de pre-mortem | Werkversie, formules gecontroleerd |
+| [03-Snelle-Analyse.xlsx](03-Snelle-Analyse.xlsx) | [Stap 2](../../03-Analyseproces/02-Snel-Analyseren.md) | De zes fasen van de snelle analyse, de zestien checks, de verkorte omgekeerde DCF op de aangepaste vrije kasstroom en de pre-mortem | Werkversie, formules gecontroleerd |
 | [04-Uitgebreide-Analyse.xlsx](04-Uitgebreide-Analyse.xlsx) | [Stap 3](../../03-Analyseproces/03-Uitgebreid-Analyseren.md) en [4](../../03-Analyseproces/04-Waarderen.md) | Historie, ondernemingswaarde, drie scenario's, het model uit hoofdstuk 6.7, gevoeligheid, rode vlaggen, analisten, technisch en instap, controles | Werkversie, formules gecontroleerd |
 | [05-Portefeuille.xlsx](05-Portefeuille.xlsx) | [Stap 6](../../03-Analyseproces/06-Kopen-Aanhouden-Verkopen.md) | Posities met these, verkoopregel en signalen; transacties; cash en inleg | Werkversie, formules gecontroleerd |
 | [Blogpost.docx](Blogpost.docx) | [Stap 7](../../03-Analyseproces/07-Rapporteren-Publiceren.md) | De korte aandelenanalyse: aanleiding, verdienmodel, cijfers, parametermodel, zorgen, open vraag, vraag aan de lezer, positie | Werkversie |
@@ -52,4 +52,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

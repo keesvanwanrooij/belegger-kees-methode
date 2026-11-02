@@ -10,6 +10,8 @@ Ik kies een hulpmiddel op basis van wat ik wil doen. Voor actuele informatie heb
 
 Er is geen vaste verdeling waarbij één aanbieder altijd het beste zou zijn voor een bepaald soort werk. Mogelijkheden veranderen. Ik controleer wat het gebruikte hulpmiddel in de betreffende sessie werkelijk kan.
 
+Ik gebruik één model per taak en controleer daarna zelf. Toen ik dezelfde analyse door drie modellen liet doen, kreeg ik vooral meer tekst om te lezen en meer fouten om te corrigeren, en weinig extra inzicht.
+
 ## 10.2 Informatie beoordelen
 
 Elk cijfer is informatie, ongeacht waar het vandaan komt. Het is aan mij om te beoordelen of en hoe ik het gebruik. Een getal zonder duidelijke herkomst kan een aanleiding zijn om verder te zoeken. Ik behandel het niet alsof het al is bevestigd.
@@ -63,6 +65,8 @@ Een tweede controle door AI kan fouten vinden. Dat vervangt geen controle van de
 
 Ik bewaar herbruikbare prompts op één openbare plek. Per prompt kan ik vastleggen waarvoor hij bedoeld is, welke input nodig is en wat ik aan de uitkomst moet controleren.
 
+Twee dingen maken voor mij het meeste verschil. Korter is beter, zolang er geen informatie verloren gaat: AI maakt graag lange prompts die alles vastleggen, maar dat werkt slechter. En ik zeg wat er wel moet gebeuren, want een verbod werkt slecht: iets niet doen is geen handeling. In plaats van "verzin geen cijfers" schrijf ik "schrijf Niet gevonden met de beste vindplaats erbij".
+
 Als een prompt weinig bruikbaars oplevert, noteer ik wat er misging en verbeter ik hem. Ik noem een prompt niet bewezen omdat hij één of twee keer een overtuigend antwoord gaf. De huidige bibliotheek bestaat uit werkversies; gebruikservaring moet nog zichtbaar worden opgebouwd.
 
 Privégegevens en ongepubliceerde dossiers voer ik niet zonder afweging in een externe dienst in. Ik controleer eerst wat ik deel en of dat past bij de toegang en privacy van die omgeving.
@@ -83,4 +87,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

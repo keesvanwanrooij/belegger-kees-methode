@@ -26,7 +26,7 @@ Het afgeronde dossier met koopzone en verwacht rendement per scenario. De weekgr
 
 ## Prompts
 
-Geen voor de beslissing zelf. Bij een signaal dat afgaat: prompt 1 voor de nieuwe cijfers en prompt 7, de pre-mortem, opnieuw met de nieuwe informatie.
+Geen voor de beslissing zelf. Bij een signaal dat afgaat: [prompt 2.0](../05-Resources/AI-Prompts/prompts-library.md#20-datasnapshot-check-1) voor de nieuwe cijfers en [prompt 2.6, de pre-mortem](../05-Resources/AI-Prompts/prompts-library.md#26-pre-mortem), opnieuw met de nieuwe informatie.
 
 ## Checks
 
@@ -52,4 +52,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

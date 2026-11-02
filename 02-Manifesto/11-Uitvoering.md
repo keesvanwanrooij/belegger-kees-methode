@@ -14,9 +14,9 @@ Ze staan bij [Templates](../05-Resources/Templates/README.md) als werkversie. De
 
 ## 11.2 Een ritme dat bij mijn werk past
 
-Op dit moment werk ik in een maandelijkse batch: vier namen uit de undercovered-lijst van Seeking Alpha, met als doel minstens vier artikelen, zie [stap 1](../03-Analyseproces/01-Screenen.md). Screen ik op de lange termijn weer met TradingView, dan geldt dit ritme. Eén screening per kwartaal is mijn doel. Als er nog voldoende kansrijke kandidaten liggen, werk ik die eerst af. Minimaal één keer per jaar kijk ik opnieuw naar het aanbod. Is de eerdere selectie ongeveer twaalf maanden oud of zijn prijzen aanzienlijk gestegen, dan beoordeel ik eerder of opnieuw screenen nodig is.
+Eén screening per kwartaal is mijn doel, zie [stap 1](../03-Analyseproces/01-Screenen.md). Als er nog voldoende kansrijke kandidaten liggen, werk ik die eerst af. Minimaal één keer per jaar kijk ik opnieuw naar het aanbod. Is de eerdere selectie ongeveer twaalf maanden oud of zijn prijzen aanzienlijk gestegen, dan beoordeel ik eerder of opnieuw screenen nodig is.
 
-Een screening moet doorgaans in een middag kunnen. De ruwe lijst kan ongeveer honderd namen bevatten; mijn werkbare selectie voor snelle analyse bevat vijf tot tien kandidaten.
+Een screening moet doorgaans in een middag kunnen. Ze levert een top 50 op, en daaruit pak ik steeds de bovenste naam voor een snelle analyse.
 
 Voor bestaande posities en afgeronde dossiers sluit ik aan bij kwartaal- of halfjaarcijfers en belangrijke gebeurtenissen. Een vaste weekplanning kan helpen, maar is niet nodig om de methode te gebruiken.
 
@@ -80,4 +80,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

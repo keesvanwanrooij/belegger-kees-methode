@@ -63,11 +63,11 @@ In mijn methode gaat NLP over waarnemen, taal en mijn eigen afwegingen. Ik onder
 
 ### Hoe vaak screen ik aandelen?
 
-Op dit moment kies ik elke maand vier namen uit de undercovered-lijst van Seeking Alpha, aandelen waar op dat platform recent weinig over is geschreven. Dat is een keuze om kosten; waarom, staat in [stap 1, screenen](03-Analyseproces/01-Screenen.md#waarom-deze-lijst-en-waarom-nu). Op de lange termijn screen ik weer met TradingView. Dan is mijn doel eens per kwartaal en mijn minimum eens per jaar. Als er nog voldoende kansrijke kandidaten liggen, werk ik die eerst af. Zo'n screening duurt doorgaans een middag en levert uit een ruwe lijst een werkbare selectie van vijf tot tien kandidaten op.
+Mijn doel is een ronde per kwartaal en mijn minimum een ronde per jaar. Als er nog voldoende kansrijke kandidaten liggen, werk ik die eerst af. Twee bronnen voeden de lijst: de undercovered-lijst van Seeking Alpha, aandelen waar op dat platform recent weinig over is geschreven, en mijn screeners in TradingView. Waarom, staat in [stap 1, screenen](03-Analyseproces/01-Screenen.md#twee-bronnen-en-waarom). Zo'n ronde duurt doorgaans een middag en levert een top 50 op van de kansen die het meest beloven. Daaruit pak ik steeds de bovenste naam voor een snelle analyse.
 
 ### Wat zegt een DCF over de waarde van een aandeel?
 
-Een DCF maakt zichtbaar wat mijn verwachte toekomstige kasstromen onder gekozen aannames vandaag waard zijn. Ik modelleer gewoonlijk jaren 1 tot en met 11, met een eindwaarde op basis van een aannemelijke multiple. Gordon Growth gebruik ik als aanvullende controle. De uitkomst hangt sterk af van aannames en is geen objectief koersdoel.
+Een DCF maakt zichtbaar wat mijn verwachte toekomstige kasstromen onder gekozen aannames vandaag waard zijn. In de uitgebreide analyse modelleer ik gewoonlijk jaren 1 tot en met 11, met een eindwaarde op basis van een aannemelijke multiple en Gordon Growth als aanvullende controle. In de snelle analyse reken ik korter terug: welke groei van de vrije kasstroom vraagt de koers? De uitkomst hangt sterk af van aannames en is geen objectief koersdoel.
 
 ### Kan AI helpen bij dit onderzoek?
 

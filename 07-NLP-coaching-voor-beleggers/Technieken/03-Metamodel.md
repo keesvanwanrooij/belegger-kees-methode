@@ -44,7 +44,7 @@ Een grote, vage angst wordt kleiner en concreter. "Beleggen is gevaarlijk" wordt
 
 ## Mijn eigen gebruik in aandelenonderzoek
 
-Als een bestuurder zegt dat een bedrijf "sterk presteert", stel ik in mijn dossier de metamodelvraag: welke maatstaf, over welke periode, vergeleken met welke verwachting? Ontbreekt die informatie, dan wordt het een onderzoeksvraag. Een taalpatroon bewijst geen misleiding; het zegt waar ik in de cijfers moet zoeken. Zie de [NLP-presupposities](../../02-Manifesto/02-NLP-Presupposities.md) en de [promptbibliotheek](../../05-Resources/AI-Prompts/prompts-library.md#10-analisten-nlp-analyse-van-één-analist).
+Als een bestuurder zegt dat een bedrijf "sterk presteert", stel ik in mijn dossier de metamodelvraag: welke maatstaf, over welke periode, vergeleken met welke verwachting? Ontbreekt die informatie, dan wordt het een onderzoeksvraag. Een taalpatroon bewijst geen misleiding; het zegt waar ik in de cijfers moet zoeken. Zie de [NLP-presupposities](../../02-Manifesto/02-NLP-Presupposities.md) en de [promptbibliotheek](../../05-Resources/AI-Prompts/prompts-library.md#36-analisten-nlp-analyse-van-één-analist).
 
 ## Wanneer ik het niet gebruik
 

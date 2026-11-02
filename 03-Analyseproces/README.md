@@ -1,23 +1,23 @@
 # Analyseproces: mijn werkwijze stap voor stap
 
-Het [Manifesto](../02-Manifesto/README.md) legt uit waarom ik zo beleg. Deze map legt uit wat ik doe. Acht stappen, van voorbereiden tot publiceren, elk op één pagina met dezelfde indeling: het doel, wat ik klaarzet, welk template en welk tabblad ik gebruik, welke prompts en checks erbij horen, wat ik vastleg, en wanneer de stap af is. Zo kan ik een stap uitvoeren zonder eerst het hele manifesto terug te lezen, en kan ik hem aanscherpen zonder de rest te raken.
+Het [Manifesto](../02-Manifesto/README.md) legt uit waarom ik zo beleg. Deze map legt uit wat ik doe om één vraag te beantwoorden: koop ik dit aandeel of niet, en tegen welke prijs? Acht stappen, van voorbereiden tot publiceren, elk op één pagina met dezelfde indeling: het doel, wat ik klaarzet, welk template en welk tabblad ik gebruik, welke prompts en checks erbij horen, wat ik vastleg, en wanneer de stap af is. Zo kan ik een stap uitvoeren zonder eerst het hele manifesto terug te lezen, en kan ik hem aanscherpen zonder de rest te raken.
 
 De stappen volgen de trechter van de methode. Niet elke stap hoort bij elk bedrijf: een naam die bij het screenen afvalt, komt nooit bij stap 3. En een positie die ik al heb, kan opnieuw bij stap 3 beginnen als er iets verandert.
 
 | Stap | Pagina | Wat eruit komt |
 | --- | --- | --- |
 | 0 | [Voorbereiden](00-Voorbereiden.md) | Een ingevulde incheck, een werkmap en de bronnen bij de hand |
-| 1 | [Screenen](01-Screenen.md) | Vier kandidaten uit de Seeking Alpha-lijst voor de snelle analyse, elk met een reden om verder te kijken |
-| 2 | [Snel analyseren](02-Snel-Analyseren.md) | Per kandidaat: verder onderzoeken, later terugkomen of stoppen, en een voorkeursvolgorde |
-| 3 | [Uitgebreid analyseren](03-Uitgebreid-Analyseren.md) | Een dossier waarin ik het bedrijf, de risico's en het bestuur kan uitleggen |
+| 1 | [Screenen](01-Screenen.md) | De top 50 kansen die het meest beloven, op volgorde, elk met een reden om verder te kijken |
+| 2 | [Snel analyseren](02-Snel-Analyseren.md) | Zo snel mogelijk per kandidaat: stoppen, later terugkomen of verder onderzoeken, en een voorkeursvolgorde |
+| 3 | [Uitgebreid analyseren](03-Uitgebreid-Analyseren.md) | Een dossier met alles wat ik over het bedrijf, de risico's en het bestuur wil weten |
 | 4 | [Waarderen](04-Waarderen.md) | Drie scenario's, een verwacht rendement en een koopzone |
 | 5 | [Universum bijhouden](05-Universum-Bijhouden.md) | Een lijst waarvan ik elke naam kan uitleggen, met een volgende actie |
 | 6 | [Kopen, aanhouden en verkopen](06-Kopen-Aanhouden-Verkopen.md) | Een vastgelegde reden bij elke beslissing en de signalen die ik volg |
-| 7 | [Rapporteren en publiceren](07-Rapporteren-Publiceren.md) | Een blogpost, onderzoeksrapport of artikel op Seeking Alpha dat de publicatiecontrole doorstaat |
+| 7 | [Rapporteren en publiceren](07-Rapporteren-Publiceren.md) | Een blogpost of onderzoeksrapport dat de publicatiecontrole doorstaat |
 
-## Hoe de stappen in een maandelijkse batch lopen
+## Hoe de stappen op elkaar aansluiten
 
-Ik werk in maandelijkse batches. Een batch begint bij de lijst met undercovered aandelen van Seeking Alpha, aandelen waar recent weinig over is geschreven (stap 1). De vier meest kansrijke namen krijgen de snelle analyse (stap 2). Valt een naam snel af en is er nog ruimte in de batch, dan krijgt de volgende naam van de lijst dezelfde analyse. Wat de snelle analyse overleeft, krijgt de uitgebreide analyse en de waardering (stap 3 en 4) en wordt een artikel op Seeking Alpha (stap 7). Mijn doel is minstens vier artikelen per batch; dat is een richtlijn en geen dwang. Het bijhouden van het universum en het kopen, aanhouden en verkopen (stap 5 en 6) volgen hun eigen ritme.
+Screenen vindt de top 50 kansen die het meest beloven, met een ronde per kwartaal als doel en per jaar als minimum (stap 1). Daaruit pak ik de bovenste naam. De snelle analyse ontdekt zo snel mogelijk of ik moet stoppen (stap 2). Valt de naam af, dan pak ik de volgende. Wat overblijft, krijgt de uitgebreide analyse, waarin ik alles te weten wil komen, en de waardering (stap 3 en 4). Daarna besluit ik of ik koop. Het bijhouden van het universum en het kopen, aanhouden en verkopen (stap 5 en 6) volgen hun eigen ritme. Een blogpost of onderzoeksrapport is een bijproduct van dit werk (stap 7).
 
 ## De bijlagen
 
@@ -32,7 +32,7 @@ De checks zijn richtlijnen. Een belangrijke belemmering kan genoeg reden zijn om
 
 ## Waar het werk staat
 
-Alles wat ik tijdens deze stappen invul staat in mijn privé werkmap, die buiten deze repository blijft. De lege templates staan in [Templates](../05-Resources/Templates/README.md), de prompts in [de promptbibliotheek](../05-Resources/AI-Prompts/prompts-library.md) en de screenerinstellingen voor de TradingView-route in [Screeners](../05-Resources/Screeners/screeners.md). Alleen bewust gedeelde analyses komen in [Onderzoek](../04-Onderzoek/README.md).
+Alles wat ik tijdens deze stappen invul staat in mijn privé werkmap, die buiten deze repository blijft. De lege templates staan in [Templates](../05-Resources/Templates/README.md), de prompts in [de promptbibliotheek](../05-Resources/AI-Prompts/prompts-library.md) en de screenerinstellingen voor TradingView in [Screeners](../05-Resources/Screeners/screeners.md). Alleen bewust gedeelde analyses komen in [Onderzoek](../04-Onderzoek/README.md).
 
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
@@ -42,4 +42,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 9 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
