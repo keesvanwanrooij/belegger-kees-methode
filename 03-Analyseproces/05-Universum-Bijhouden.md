@@ -16,7 +16,7 @@ Eén rij per bedrijf, altijd actueel, met de fase, de reden om te volgen, de laa
 
 | Fase | Wat ik ermee bedoel |
 | --- | --- |
-| Kandidaat | Uit de Seeking Alpha-lijst of een screening; nog een eerste beoordeling nodig |
+| Kandidaat | Uit de top 50 van een screening; nog een eerste beoordeling nodig |
 | Snelle analyse | Ik onderzoek of ik hier meer tijd aan wil besteden |
 | Uitgebreide analyse | Ik werk de belangrijkste vragen en de waardering uit |
 | Afgerond, met onderhoud | Er ligt genoeg onderzoek voor mijn huidige afweging; nieuwe informatie kan die veranderen |
@@ -29,13 +29,13 @@ De reden om te volgen staat in een aparte kolom: een open onderzoeksvraag, watch
 1. **Na elke stap.** Bij stap 1 komt een kandidaat erbij. Bij stap 2 verandert de fase en komen de these en de open vraag erbij. Bij stap 4 komen koopzone, verwacht rendement en het kerncijfer erbij. Bij stap 6 verandert de reden om te volgen.
 2. **Bij nieuwe cijfers.** Bij een kwartaal- of halfjaarbericht vergelijk ik het kerncijfer met mijn verwachting, werk ik de parameters bij als het beeld verandert, en zet ik de datum van de update. Tien tot vijftien minuten per naam. Bij een overname, een financieringsprobleem of een onverwachte ontwikkeling wordt het meer, en dan is dat een bewuste keuze.
 3. **Bij een prijsalert.** Een alert is een herinnering om opnieuw te kijken, geen koopopdracht. Ik controleer of de analyse nog actueel is en waarom de koers is veranderd, en ga dan naar [stap 6](06-Kopen-Aanhouden-Verkopen.md).
-4. **Wekelijks nieuws.** Eén keer per week laat ik [prompt 11](../05-Resources/AI-Prompts/prompts-library.md) het nieuws samenvatten voor de sectoren, industrieën en bedrijven op mijn lijst. Belangrijke gebeurtenissen verdienen eerder aandacht; een samenvatting pikt niet alles op.
+4. **Wekelijks nieuws.** Eén keer per week laat ik [prompt 5.1](../05-Resources/AI-Prompts/prompts-library.md#51-nieuws) het nieuws samenvatten voor de sectoren, industrieën en bedrijven op mijn lijst. Belangrijke gebeurtenissen verdienen eerder aandacht; een samenvatting pikt niet alles op.
 5. **Per kwartaal.** Ik loop de hele lijst langs met drie vragen: weet ik nog waarom deze naam erop staat, is het onderzoek actueel genoeg, en staat er een zinvolle volgende stap? Een naam die ik niet meer kan uitleggen gaat naar Gestopt, met de reden.
 6. **Het volgende uur kiezen.** Ik kies op basis van de verwachte waarde van het onderzoek: hoe interessant lijkt de kans, hoeveel weet ik al, welke vraag kan ik nu beantwoorden, en wat laat ik liggen als ik dit bedrijf kies. De mini-waardering helpt daarbij, want ze laat zien welke naam bij de huidige koers het meest belooft. Ze beslist niet; de waardering in [stap 4](04-Waarderen.md) doet dat.
 
 ## Prompts
 
-Prompt 11 voor het wekelijkse nieuws. Bij een kwartaalbericht dat het beeld verandert: prompt 1, business snapshot, voor de nieuwe cijfers met bron en datum.
+Prompt 5.1 voor het wekelijkse nieuws. Bij een kwartaalbericht dat het beeld verandert: prompt 2.0, datasnapshot, voor de nieuwe cijfers met bron en datum.
 
 ## Checks
 
@@ -61,4 +61,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 9 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

@@ -34,7 +34,7 @@ Een gelijkblijvende marge betekent niet dat groei niets oplevert. Meer omzet kan
 
 ### 5. Wat zegt een eerste waarderingsvergelijking?
 
-Bij winstgevende bedrijven kan ik de koers-winstverhouding en verwachte winstgroei naast elkaar leggen. PEG is de koers-winstverhouding gedeeld door de verwachte winstgroei als getal, dus 15 bij 15 procent groei. Het groeipercentage, de gekozen periode en de kwaliteit van de winst zijn daarbij bepalend.
+Bij winstgevende bedrijven kan ik de koers-winstverhouding en verwachte winstgroei naast elkaar leggen. PEG is de koers-winstverhouding gedeeld door de verwachte winstgroei als getal, dus 15 bij 15 procent groei. Het groeipercentage, de gekozen periode en de kwaliteit van de winst zijn daarbij bepalend. Rente-inkomsten op een grote kaspositie of een eenmalige belastingpost kunnen een aandeel goedkoop laten lijken, dus ik reken de koers-winstverhouding ook zonder die posten en vergelijk op dezelfde basis met sectorgenoten.
 
 Waarden rond 1 tot 1,5 kunnen mij aanleiding geven om verder te kijken; een hogere waarde vraagt meer uitleg. Er is geen automatische afwijzing boven 2; de grens van 1,5 uit mijn [GARP-regels](../../02-Manifesto/01-Beleggingsfilosofie.md) is een richtlijn waarvan ik gemotiveerd kan afwijken. Bij negatieve, zeer lage of sterk cyclische winst kan PEG weinig bruikbaar zijn.
 
@@ -64,9 +64,9 @@ Ik hoef niet ieder tegenargument te weerleggen. Soms ligt het verschil in prijs,
 
 ### 10. Welke aannames vraagt de prijs?
 
-Een verkorte reverse DCF helpt mij onderzoeken welke groei of marge nodig is om de koers binnen mijn model te verklaren. Ik houd andere aannames zichtbaar constant. De koers onthult niet één unieke set marktverwachtingen.
+Een [verkorte omgekeerde DCF](../../02-Manifesto/06-DCF-Model.md#69-de-korte-route-omgekeerde-dcf-op-de-aangepaste-vrije-kasstroom) op de aangepaste vrije kasstroom helpt mij onderzoeken welke groei nodig is om de koers te verklaren. Ik houd andere aannames zichtbaar constant. De koers onthult niet één unieke set marktverwachtingen.
 
-Ik vergelijk het verwachte interne rendement met risico en alternatieven. Een vaste veiligheidsmarge of technische toets bepaalt niet automatisch of ik door moet. Voor een volledige waardering gebruik ik het [DCF-hoofdstuk](../../02-Manifesto/06-DCF-Model.md).
+Ik zet de ingeprijsde groei naast wat het bedrijf heeft laten zien, en mijn eigen verwachting en een slecht scenario naast risico en alternatieven. Een vaste veiligheidsmarge of technische toets bepaalt niet automatisch of ik door moet. Voor een volledige waardering gebruik ik het winstmodel uit het [DCF-hoofdstuk](../../02-Manifesto/06-DCF-Model.md).
 
 ## Zes aanvullende onderzoeksvragen
 
@@ -112,4 +112,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

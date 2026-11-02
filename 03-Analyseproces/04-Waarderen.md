@@ -8,7 +8,7 @@ Per scenario een verwacht intern rendement, een gekozen exit multiple en discoun
 
 ## Wat ik klaarzet
 
-Het ingevulde tabblad Historie en het tabblad Parameters met de historische waarden uit [stap 3](03-Uitgebreid-Analyseren.md). De koersdata gekoppeld op het tabblad Invoer. De historische koers-winstverhouding van het bedrijf over vijf tot tien jaar en de multiples van vergelijkbare bedrijven op dezelfde boekhoudbasis.
+Het ingevulde tabblad Historie en het tabblad Parameters met de historische waarden uit [stap 3](03-Uitgebreid-Analyseren.md). De koersdata gekoppeld op het tabblad Invoer. De historische koers-winstverhouding van het bedrijf over vijf tot tien jaar en de multiples van vergelijkbare bedrijven op dezelfde boekhoudbasis, uit hun eigen verslagen.
 
 ## Template en tabblad
 
@@ -16,19 +16,21 @@ Het ingevulde tabblad Historie en het tabblad Parameters met de historische waar
 
 ## Hoe ik het doe
 
-1. **De parameters per scenario.** Op het tabblad Parameters vul ik per jaar 1 tot en met 11 de omzetgroei of de bedrijfsparameters in, de nettowinstmarge, de kasstroomconversie en de verandering van het aantal aandelen, voor een tegenvallend, een midden- en een gunstig scenario. Elk scenario moet intern kloppen: hoge groei hoort bij hoge investeringen en dus een lagere conversie in de eerste jaren.
-2. **De discount rate.** Ik kies binnen 8 tot 12 procent op basis van het vertrouwen dat ik in de kasstromen heb, en schrijf op welke risico's die keuze dragen. Meer decimalen maken het niet beter.
-3. **De exit P/E.** Ik kijk naar de eigen historische range van het bedrijf, naar sectorgenoten die in jaar 11 op het bedrijf lijken, en naar de groei die ik in jaar 11 nog verwacht. Voor een uitgegroeid bedrijf begin ik bij 12 tot 15, voor een bedrijf dat nog groeit bij 15 tot 20. Daarboven moet ik het kunnen uitleggen.
-4. **De Gordon-controle.** Het tabblad Model toont welke P/E de Gordon-formule bij mijn conversie, groei en discount rate impliceert. Ligt mijn exit P/E daar ver boven, dan schrijf ik op welke groei na jaar 11 het verschil rechtvaardigt. Kan ik dat niet, dan is mijn multiple te hoog.
-5. **De uitkomst lezen.** Per scenario het interne rendement, het aandeel van de eindwaarde in de waardering, de koersruimte en de korting op de berekende waarde. Het tegenvallende scenario zegt mij het meest: levert dat nog een rendement op dat ik acceptabel vind, dan heb ik een sterke zaak.
-6. **De gevoeligheid.** Op het tabblad Gevoeligheid zie ik de waarde per aandeel bij andere multiples, discount rates en groei. Slaat de uitkomst om bij twee punten in de multiple, dan is dat de aanname waar mijn onderzoek naartoe moet.
-7. **Omgekeerd rekenen.** Met Doelzoeken op de omzetgroei reken ik terug welke groei bij de huidige koers past, met de andere aannames vast. Zo zie ik of de markt meer of minder inprijst dan het bedrijf historisch heeft laten zien.
-8. **De koopzone.** Ik zoek de koers waarbij het middenscenario mijn rendementseis haalt en de koers waarbij het tegenvallende scenario dat doet. Daartussen ligt mijn koopzone; de onderkant is de prijs waarbij ik ook bij tegenvallen tevreden ben. Een vaste korting van 30 procent is geen regel; de zone volgt uit de scenario's.
-9. **De controles.** Het tabblad Controles moet overal In orde tonen: eenheid gekozen, aandelen groter dan nul, koers ingevuld, discount rate groter dan de groei, elf perioden, geen lege parameters, nettoschuld niet dubbel afgetrokken.
+1. **Eerst de hefboom.** Voordat ik een gedetailleerd model bouw, reken ik op een eenvoudige DCF door welke aanname de waarde het meest beweegt: omzetgroei, brutomarge, operationele kosten of aandelenbeloning, elk een paar punten omhoog en omlaag. Bij een recente analyse ontdekte ik pas na dertien uur modelleren dat de waarde nauwelijks op omzetgroei reageerde en sterk op de marges. Die hefboom bepaalt nu waar mijn onderzoek naartoe gaat.
+2. **Grenzen vóór parameters.** Ik zet eerst de grenzen op papier: de eigen historie, de richtlijnen van het bestuur en de cijfers van sectorgenoten. Pas daarna kies ik parameters binnen die grenzen. Ik verander een parameter alleen met een reden die daarbinnen past, anders ben ik de uitkomst aan het sturen.
+3. **De parameters per scenario.** Op het tabblad Parameters vul ik per jaar 1 tot en met 11 de omzetgroei of de bedrijfsparameters in, de nettowinstmarge, de kasstroomconversie en de verandering van het aantal aandelen, voor een tegenvallend, een midden- en een gunstig scenario. Elk scenario moet intern kloppen: hoge groei hoort bij hoge investeringen en dus een lagere conversie in de eerste jaren.
+4. **De discount rate.** Ik kies binnen 8 tot 12 procent op basis van het vertrouwen dat ik in de kasstromen heb, en schrijf op welke risico's die keuze dragen. Meer decimalen maken het niet beter.
+5. **De exit P/E.** Ik kijk naar de eigen historische range van het bedrijf, naar sectorgenoten die in jaar 11 op het bedrijf lijken, en naar de groei die ik in jaar 11 nog verwacht. Voor een uitgegroeid bedrijf begin ik bij 12 tot 15, voor een bedrijf dat nog groeit bij 15 tot 20. Daarboven moet ik het kunnen uitleggen.
+6. **De Gordon-controle.** Het tabblad Model toont welke P/E de Gordon-formule bij mijn conversie, groei en discount rate impliceert. Ligt mijn exit P/E daar ver boven, dan schrijf ik op welke groei na jaar 11 het verschil rechtvaardigt. Kan ik dat niet, dan is mijn multiple te hoog.
+7. **De uitkomst lezen.** Per scenario het interne rendement, het aandeel van de eindwaarde in de waardering, de koersruimte en de korting op de berekende waarde. Het tegenvallende scenario zegt mij het meest: levert dat nog een rendement op dat ik acceptabel vind, dan heb ik een sterke zaak.
+8. **De gevoeligheid.** Op het tabblad Gevoeligheid zie ik de waarde per aandeel bij andere multiples, discount rates en groei. Slaat de uitkomst om bij twee punten in de multiple, dan is dat de aanname waar mijn onderzoek naartoe moet.
+9. **Omgekeerd rekenen.** Met Doelzoeken op de omzetgroei reken ik terug welke groei bij de huidige koers past, met de andere aannames vast. Zo zie ik of de markt meer of minder inprijst dan het bedrijf historisch heeft laten zien.
+10. **De koopzone.** Ik zoek de koers waarbij het middenscenario mijn rendementseis haalt en de koers waarbij het tegenvallende scenario dat doet. Daartussen ligt mijn koopzone; de onderkant is de prijs waarbij ik ook bij tegenvallen tevreden ben. Een vaste korting van 30 procent is geen regel; de zone volgt uit de scenario's.
+11. **De controles.** Het tabblad Controles moet overal In orde tonen: eenheid gekozen, aandelen groter dan nul, koers ingevuld, discount rate groter dan de groei, elf perioden, geen lege parameters, nettoschuld niet dubbel afgetrokken.
 
 ## Prompts
 
-[Prompt 4, waardering en omgekeerde DCF](../05-Resources/AI-Prompts/prompts-library.md), voor de historische P/E-range, de multiples van vergelijkbare bedrijven en een tweede blik op de ingeprijsde groei. [Prompt 8, DCF-model controleren](../05-Resources/AI-Prompts/prompts-library.md), met mijn parameters als invoer, voor een factcheck van de aannames en een tweede mening over discount rate en exit multiple. Het model bouw ik zelf; AI controleert.
+[Prompt 4.1, de hefboom vinden](../05-Resources/AI-Prompts/prompts-library.md#41-de-hefboom-vinden), voor de gevoeligheid en de grenzen vooraf. [Prompt 4.2, exit P/E en ingeprijsde groei](../05-Resources/AI-Prompts/prompts-library.md#42-exit-pe-en-ingeprijsde-groei), voor de historische P/E-range, de multiples van vergelijkbare bedrijven en een tweede blik op de ingeprijsde groei. [Prompt 4.3, model controleren](../05-Resources/AI-Prompts/prompts-library.md#43-model-controleren), met mijn parameters als invoer, voor een factcheck van de aannames en een tweede mening over discount rate en exit multiple. Het model bouw ik zelf; AI controleert.
 
 ## Checks
 
@@ -54,4 +56,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

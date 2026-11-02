@@ -1,10 +1,10 @@
 # Stap 3. Uitgebreid analyseren
 
-In de uitgebreide analyse wil ik een bedrijf zo goed begrijpen dat ik mijn verwachtingen kan uitleggen en verdedigen. Ik werk in negen fasen, van documenten verzamelen tot rapportage. De waardering zelf is fase 5; die staat als [stap 4](04-Waarderen.md) apart uitgewerkt, omdat het rekenwerk een eigen werkwijze heeft. Deze pagina gaat over de andere acht fasen.
+In de uitgebreide analyse wil ik alles te weten komen wat ik nodig heb om te besluiten of ik dit aandeel koop. Ik wil het bedrijf zo goed begrijpen dat ik mijn verwachtingen kan uitleggen en verdedigen. Ik werk in negen fasen, van documenten verzamelen tot rapportage. De waardering zelf is fase 5; die staat als [stap 4](04-Waarderen.md) apart uitgewerkt, omdat het rekenwerk een eigen werkwijze heeft. Deze pagina gaat over de andere acht fasen.
 
 ## Doel
 
-Een dossier waarin het parametermodel, de markt, de risico's, de financiering en het bestuur zo beschreven zijn dat ik de kans kan vergelijken met mijn andere kansen en kan uitleggen wat mijn verwachting zou veranderen. Binnen een batch is dit dossier de basis voor een artikel op Seeking Alpha, zie [stap 7](07-Rapporteren-Publiceren.md).
+Een dossier waarin het parametermodel, de markt, de risico's, de financiering en het bestuur zo beschreven zijn dat ik de kans kan vergelijken met mijn andere kansen en kan uitleggen wat mijn verwachting zou veranderen.
 
 ## Wat ik klaarzet
 
@@ -31,7 +31,7 @@ De [voorbereiding](00-Voorbereiden.md) met de volledige bronnenset: jaarverslage
 
 1. **Documenten verzamelen.** Ik maak een bronnenlijst met publicatiedatum, verslagperiode, vindplaats en het onderwerp waarvoor ik de bron gebruik. Een samenvatting behandel ik niet alsof ik het document zelf heb gelezen.
 2. **Het bedrijfsmodel.** Ik werk het parametermodel uit vanuit het bedrijf en zoek per parameter de historie in de jaarverslagen. Ik let op de samenhang: meer klanten kan een lagere gemiddelde opbrengst betekenen, nieuwe vestigingen kunnen bestaande vestigingen raken. Dit vult het tabblad Parameters met de historische waarden en de eerste verwachting.
-3. **Sector, concurrentie en analisten.** Concurrenten, marktaandelen, toetreders, klantgedrag. Daarna de analisten: wie volgt het aandeel, welke achtergrond hebben ze, welke vragen stellen ze in de calls en welke niet. Dit vult het tabblad Analisten.
+3. **Sector, concurrentie en analisten.** Concurrenten, marktaandelen, toetreders, klantgedrag. Daarna de analisten: wie volgt het aandeel, welke achtergrond hebben ze, welke vragen stellen ze in de calls en welke niet. Dit vult het tabblad Analisten. Als hulpmiddel lees ik ook wat er al over het bedrijf is geschreven: wat gelooft de markt, welke aanname toetst niemand, en welke belangrijke vraag beantwoordt niemand? Daaruit maak ik hoogstens drie onderzoeksvragen, zodat mijn uren eerst daarheen gaan.
 4. **Het financiële model.** Ik voer tien jaar cijfers in op het tabblad Historie, vanuit de jaarverslagen en niet vanuit een dataleverancier. Op EV en kapitaalstructuur bepaal ik wat meetelt als cash en schuld, met de leaseverplichtingen apart. Uit de historie lees ik de kasstroomconversie af en zie ik wat die heeft bepaald. [Hoofdstuk 6](../02-Manifesto/06-DCF-Model.md) zegt welke regels ik uit de jaarrekening haal en waar IFRS en US GAAP verschillen.
 5. **Waardering en vergelijking.** Zie [stap 4](04-Waarderen.md).
 6. **Risico en rode vlaggen.** Ik loop de lijst op het tabblad Rode vlaggen af en noteer bij elk punt wat ik vond, ook als het niets is. De bear case uit stap 2 verbind ik hier aan de cijfers, de financiering en de concurrentiepositie. Eén ernstig financieringsprobleem weegt zwaarder dan drie kleine onzekerheden.
@@ -41,7 +41,7 @@ De [voorbereiding](00-Voorbereiden.md) met de volledige bronnenset: jaarverslage
 
 ## Prompts
 
-Uit [de promptbibliotheek](../05-Resources/AI-Prompts/prompts-library.md): 2 businessmodel en parameters bij fase 2, 3 markt en concurrenten bij fase 3, 9 analisten online onderzoek en 10 NLP-analyse van één analist bij fase 3 en 7, 6 management bij fase 7, 8 DCF-model controleren bij fase 5, en 12 onderzoeksrapport voorbereiden bij fase 9. De zes cijfers die mijn waardering dragen controleer ik altijd zelf: omzet, winst, vrije kasstroom, koers, aantal aandelen en nettoschuld.
+Uit [de promptbibliotheek](../05-Resources/AI-Prompts/prompts-library.md): 3.3 businessmodel en parameters bij fase 2, 3.4 markt en concurrenten, 3.5 analisten online onderzoek en 3.6 NLP-analyse van één analist bij fase 3, 3.7 bestuur en kapitaalallocatie bij fase 7, 4.1 tot en met 4.3 bij fase 5, en 7.1 rapport voorbereiden bij fase 9. Als hulpmiddel bij fase 3: 3.1 dekking en analistengat en 3.2 onderzoeksvragen. De zes cijfers die mijn waardering dragen controleer ik altijd zelf: omzet, winst, vrije kasstroom, koers, aantal aandelen en nettoschuld.
 
 ## Checks
 
@@ -67,4 +67,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 9 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

@@ -430,15 +430,15 @@ Een screener geeft mij een lijst, geen vergelijking. Een nettomarge van 8 procen
 
 De vergelijking zelf doe ik in TradingView, op het gesorteerde scherm; ik neem de kengetallen niet over in een werkboek. Van de bedrijven die eruit springen, in positieve of negatieve zin, of die ik niet kan verklaren, bekijk ik er een of meer op Seeking Alpha en op de investor-relationspagina van het bedrijf zelf. Seeking Alpha lees ik als de mening van anderen en de investor-relationspagina als wat het bedrijf over zichzelf zegt. Geen van beide is al een controle van de cijfers.
 
-Wil ik meer weten, dan geef ik een AI-model de jaarverslagen, halfjaarberichten of presentaties van die bedrijven als pdf of link, met [prompt 13](../AI-Prompts/prompts-library.md#13-bedrijven-in-één-industrie-vergelijken). Die prompt geeft per bedrijf een snelle eerste analyse met de bear case eerst, legt de bedrijven naast elkaar en kiest welk bedrijf de beperkte plek op mijn lijst voor de snelle analyse krijgt. De cijfers die die keuze dragen, zoek ik daarna zelf op in het jaarverslag.
+Wil ik meer weten, dan geef ik een AI-model de jaarverslagen, halfjaarberichten of presentaties van die bedrijven als pdf of link, met [prompt 1.2](../AI-Prompts/prompts-library.md#12-bedrijven-in-één-industrie-vergelijken). Die prompt geeft per bedrijf een snelle eerste analyse met de bear case eerst, legt de bedrijven naast elkaar en zet ze op volgorde voor de snelle analyse. De cijfers die die keuze dragen, zoek ik daarna zelf op in het jaarverslag.
 
 ## De ronde afronden
 
-Het tabblad Ronde van het screeningwerkboek telt de kandidaten per screener, land en sector en laat zien welke kernvelden nog ontbreken. Ongeveer honderd ruwe namen zijn doorgaans genoeg om vijf tot tien kandidaten te selecteren. Kom ik ver boven de honderd uit, dan scherp ik één filter aan; kom ik onder de twintig, dan verruim ik er één, en ik schrijf op welke.
+Het tabblad Ronde van het screeningwerkboek telt de kandidaten per screener, land en sector en laat zien welke kernvelden nog ontbreken. Per screener zijn ongeveer honderd ruwe namen doorgaans genoeg om bij te dragen aan de top 50. Kom ik ver boven de honderd uit, dan scherp ik één filter aan; kom ik onder de twintig, dan verruim ik er één, en ik schrijf op welke.
 
 Bij elke kandidaat controleer ik bereikbaarheid, lotgrootte, spread en kosten voor mijn beoogde positie. Voor actuele handelsvoorwaarden raadpleeg ik de broker en de betreffende beurs. Historische voorbeelden zijn geen actuele orderinformatie.
 
-Mijn doel is een bruikbare selectie in een middag, met screening doorgaans per kwartaal en minimaal jaarlijks. Zolang ik maandelijks uit de undercovered-lijst van Seeking Alpha kies, gebruik ik deze screeners als aanvulling. Wat ik daarna met de kandidaten doe staat in [de werkwijze voor het screenen](../../03-Analyseproces/01-Screenen.md).
+Mijn doel is een bruikbare top 50 in een middag, met screening doorgaans per kwartaal en minimaal jaarlijks. Deze screeners voeden die lijst samen met de undercovered-lijst van Seeking Alpha. Wat ik daarna met de kandidaten doe staat in [de werkwijze voor het screenen](../../03-Analyseproces/01-Screenen.md).
 
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
@@ -448,4 +448,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 6 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

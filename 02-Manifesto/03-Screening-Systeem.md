@@ -1,12 +1,12 @@
 # Aandelen screenen: mijn selectie van groeibedrijven
 
-Met een screening zoek ik aandelen die het waard zijn om verder te onderzoeken. Een screener kan ongeveer honderd namen opleveren. Daaruit maak ik een werkbare lijst van vijf tot tien kandidaten. Zo houd ik voldoende keuze en ook genoeg tijd om bedrijven goed te bekijken.
+Met een screening zoek ik aandelen die het waard zijn om verder te onderzoeken. Screeners en lijsten kunnen honderden namen opleveren. Daaruit maak ik een top 50 van de kansen die het meest beloven, op volgorde. Zo houd ik voldoende keuze en begin ik altijd bij de naam die mijn tijd het meest waard lijkt.
 
 Tijd is mijn grootste bezit. Als ik al een aantal overtuigende kandidaten heb, onderzoek ik die liever verder dan dat ik steeds nieuwe namen verzamel. De screening ondersteunt mijn onderzoek en moet in een middag te doen zijn. Je kunt deze opbouw gebruiken om ook jouw eigen lijst kleiner en beter te maken.
 
 ## 3.1 Wanneer ik een nieuwe screening doe
 
-Op dit moment kies ik elke maand uit de undercovered-lijst van Seeking Alpha in plaats van met een eigen screener. Dat is een keuze om kosten, uitgelegd in [stap 1 van het analyseproces](../03-Analyseproces/01-Screenen.md#waarom-deze-lijst-en-waarom-nu). Wat hieronder staat, is hoe ik met TradingView screen, en dat blijft op de lange termijn mijn route.
+Twee bronnen voeden mijn top 50: de undercovered-lijst van Seeking Alpha en mijn eigen screeners in TradingView. De zware rol van die eerste lijst is een keuze om kosten, uitgelegd in [stap 1 van het analyseproces](../03-Analyseproces/01-Screenen.md#twee-bronnen-en-waarom). Wat hieronder staat, is hoe ik met TradingView screen, en dat blijft op de lange termijn mijn hoofdroute.
 
 Eén keer per kwartaal is mijn richtpunt. Dat betekent niet dat ik ieder kwartaal opnieuw moet beginnen. Als de bestaande kandidaten nog interessant zijn en er al werk ligt, pak ik dat eerst op.
 
@@ -95,7 +95,7 @@ Ik begin met het hoofduniversum en leg vast welke filters ik gebruik. De overige
 
 Daarna schrijf ik kort op waarom ik dit aandeel verder zou willen onderzoeken: bijvoorbeeld welke groeimogelijkheid ik zie, wat ik nog niet begrijp en of een eerste prijsvergelijking onderzoek de moeite waard maakt.
 
-De lijst bevat bij voorkeur vijf tot tien namen. Vind ik minder overtuigende kandidaten, dan laat ik het daarbij. Ik hoef de lijst niet aan te vullen om een aantal te halen.
+De lijst bevat hoogstens vijftig namen, op volgorde van belofte. Vind ik minder overtuigende kandidaten, dan laat ik het daarbij. Ik hoef de lijst niet aan te vullen om een aantal te halen.
 
 In het [screeningwerkboek](../05-Resources/Templates/README.md) leg ik per kandidaat vast: ticker, DeGiro-code, land, de screener waar de naam uit komt, sector, industrie, het businessmodel in een paar woorden, de reden om verder te kijken, wat er mis kan gaan en het omzetmodel. Valuta, marktkapitalisatie, de plek van de koers tussen het laagste en hoogste punt van het afgelopen jaar en de P/E komen automatisch mee via het gegevenstype Aandelen van Excel. Meer houd ik tijdens het screenen niet bij.
 
@@ -119,7 +119,7 @@ Ik wil de tool gebruiken als ondersteuning bij de insidercheck en om nieuwe name
 
 ## 3.7 Wat er na de screening gebeurt
 
-De kandidaten gaan naar de [snelle analyse](04-Snelle-Analyse.md). Daar bepaal ik in welke volgorde ik mijn tijd wil besteden. Mijn eerste indruk mag dan veranderen.
+De bovenste naam gaat naar de [snelle analyse](04-Snelle-Analyse.md). Valt die af, dan pak ik de volgende. Mijn eerste indruk mag daarbij veranderen.
 
 Na een screening bewaar ik de instellingen en de lijst lokaal. Als ik er later een openbaar voorbeeld van maak, publiceer ik alleen de selectie en toelichting die ik daarvoor heb beoordeeld. Ruwe notities horen bij mijn werkdossier.
 
@@ -131,4 +131,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 15 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

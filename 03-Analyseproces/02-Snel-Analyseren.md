@@ -1,6 +1,6 @@
 # Stap 2. Snel analyseren
 
-De snelle analyse beantwoordt één vraag: wil ik ongeveer twintig uur verder onderzoek aan dit bedrijf besteden, of staat er een betere kandidaat op mijn lijst? Ik kijk eerst naar wat fout kan gaan en pas daarna naar wat goed kan gaan. De uitkomst is een keuze per kandidaat en een voorkeursvolgorde over alle kandidaten heen. Binnen een maandelijkse batch is dit de poort naar de uitgebreide analyse: de vier namen uit [stap 1](01-Screenen.md) krijgen elk een snelle analyse, wie "verder onderzoeken" krijgt gaat door, en valt een naam snel af terwijl er nog ruimte in de batch is, dan krijgt de volgende naam van de lijst dezelfde analyse.
+De snelle analyse is er om zo snel mogelijk te ontdekken of ik moet stoppen. Ze beantwoordt één vraag: wil ik ongeveer twintig uur verder onderzoek aan dit bedrijf besteden, of staat er een betere kandidaat op mijn lijst? Ik kijk eerst naar wat fout kan gaan en pas daarna naar wat goed kan gaan. De uitkomst is een keuze per kandidaat en een voorkeursvolgorde over de kandidaten die overblijven. Ik pak de bovenste naam van de top 50 uit [stap 1](01-Screenen.md). Valt die af, dan pak ik de volgende.
 
 ## Doel
 
@@ -19,7 +19,7 @@ De [voorbereiding](00-Voorbereiden.md) voor dit bedrijf, met de werkmap, de kopi
 | 0. Datasnapshot | Bedrijfsinfo | Identiteit, boekhoudstandaard, valuta, koersdatum, verslagperiode, handelbaarheid, kerncijfers | 1 |
 | 1. Business snap | Bedrijf | Verdienmodel in gewone taal, balans, winstgevendheid, kwaliteit van de cijfers | 3, 6, 7, 8 |
 | 2. Markt en groeiruimte | Markt | Groeidragers als parameters, omzetplafond, operationele hefboom, concurrentie | 2, 4 |
-| 3. Waardering | Waardering | Koers-winstverhouding en PEG, verkorte omgekeerde DCF, eerste eigen verwachting | 5, 10 |
+| 3. Waardering | Waardering | Koers-winstverhouding zonder eenmalige posten, PEG, verkorte omgekeerde DCF op de aangepaste vrije kasstroom, basisscenario en slecht scenario | 5, 10 |
 | 4. Prijs en kwaliteit | Prijs en kwaliteit | De bear case van de markt, scores voor prijs en kwaliteit, vergelijking met andere kansen | 9, en vragen 11 tot en met 14 |
 | 5. Management | Management | Beloftes tegenover resultaten, kapitaalallocatie, eigen belang, taal in de laatste call | Vragen 15 en 16 |
 
@@ -27,17 +27,17 @@ Op het tabblad Checks staan de tien directe checks en de zes aanvullende vragen 
 
 ## Hoe ik de fasen doe
 
-1. **Fase 0.** Ik vul Bedrijfsinfo in vanuit het jaarverslag en de koersdata. Boekhoudstandaard en verslagperiode staan erbij, want die bepalen hoe ik de rest lees; zie [hoofdstuk 6](../02-Manifesto/06-DCF-Model.md).
+1. **Fase 0.** Ik vul Bedrijfsinfo in vanuit het jaarverslag en de koersdata. Boekhoudstandaard en verslagperiode staan erbij, want die bepalen hoe ik de rest lees; zie [hoofdstuk 6](../02-Manifesto/06-DCF-Model.md). De marktkapitalisatie reken ik met de uitstaande aandelen van de voorpagina van het laatste verslag, de waarde per aandeel met het verwaterde gewogen aantal van het laatste kwartaal. Een grote inkoop of uitgifte daarna noem ik erbij. Een cijfer van een dataleverancier of uit een transcript controleer ik in het verslag of persbericht als het iets draagt.
 2. **Fase 1.** Ik beschrijf in drie tot vijf zinnen wie betaalt, waarvoor en waarom hij terugkomt. Lukt dat niet na een half uur, dan is dat een uitkomst. Daarna de balans: schuld, rente, looptijden, cash, en of het bedrijf twee slechte jaren kan financieren.
 3. **Fase 2.** Ik schrijf de omzet uit in een paar parameters, zoals vestigingen maal klanten per vestiging maal besteding per klant, en zoek per parameter de historie en de grens. Drie tot vijf keer de omzet in tien jaar is de vraag die ik stel.
-4. **Fase 3.** Ik leg P/E en verwachte winstgroei naast elkaar, reken met de verkorte omgekeerde DCF op het tabblad Waardering terug welke groei de koers inprijst, en zet mijn eerste eigen verwachting ernaast.
+4. **Fase 3.** Ik leg P/E en verwachte winstgroei naast elkaar. Rente-inkomsten of een eenmalige belastingpost kunnen een aandeel goedkoop laten lijken, dus ik reken de P/E ook zonder. Op het tabblad Waardering reken ik met de [verkorte omgekeerde DCF](../02-Manifesto/06-DCF-Model.md#69-de-korte-route-omgekeerde-dcf-op-de-aangepaste-vrije-kasstroom) terug welke groei van de aangepaste vrije kasstroom de koers inprijst. Daarnaast zet ik mijn eerste eigen verwachting en een slecht scenario: het slechtste jaar uit de geschiedenis van het bedrijf op de huidige kostenbasis.
 5. **Fase 4.** Ik zoek de bear case die de markt al heeft voordat ik er zelf een bedenk. Dan geef ik een score van 1 tot 10 voor kwaliteit (hoe goed is het bedrijf) en van 1 tot 10 voor prijs (hoe laag is de waardering tegenover de eigen historie en vergelijkbare bedrijven; een hoge score is een lage prijs). Een goed bedrijf kan duur zijn en een slecht bedrijf goedkoop; ik zoek de combinatie van twee hoge scores.
 6. **Fase 5.** Ik vergelijk wat het bestuur drie tot vijf jaar geleden beloofde met wat er kwam, kijk naar inkoop, overnames en beloning, en lees de laatste call op wat er ontbreekt of verschuift.
 7. **Afsluiting.** Ik kies per kandidaat en schrijf de voorkeursvolgorde, de belangrijkste open vraag en de eerstvolgende stap op het tabblad Overzicht. Voor de kandidaat die doorgaat schrijf ik de pre-mortem op het tabblad Pre-mortem: het is drie jaar later, de belegging is tegengevallen, wat is er gebeurd en wat had ik eerder kunnen zien.
 
 ## Prompts
 
-Per fase één prompt uit [de promptbibliotheek](../05-Resources/AI-Prompts/prompts-library.md): 1 business snapshot bij fase 0, 2 businessmodel en parameters bij fase 1 en 2, 3 markt en concurrenten bij fase 2, 4 waardering en omgekeerde DCF bij fase 3, 5 prijs en kwaliteit bij fase 4 als ik meerdere kandidaten vergelijk, 6 management bij fase 5, en 7 pre-mortem bij de afsluiting. Elk cijfer dat mijn keuze draagt controleer ik zelf bij de bron.
+Per fase één prompt uit [de promptbibliotheek](../05-Resources/AI-Prompts/prompts-library.md), op volgorde in één gesprek: 2.0 tot en met 2.5 voor de fasen, 2.6 voor de pre-mortem en 2.7 voor de checks en de keuze. Bij een duidelijke belemmering ga ik meteen naar 2.7. Prompt 2.8 gebruik ik als ik meerdere kandidaten vergelijk. Heeft een bedrijf veel dekking, dan helpt [prompt 3.1, dekking en analistengat](../05-Resources/AI-Prompts/prompts-library.md#31-dekking-en-analistengat), al bij fase 4. Elk cijfer dat mijn keuze draagt controleer ik zelf bij de bron.
 
 ## Checks
 
@@ -53,7 +53,7 @@ De [Definition of Done](Bijlagen/03-Definition-of-Done.md) voor de snelle analys
 
 ## Hoe lang het duurt
 
-Enkele uren per kandidaat. Een naam die snel afvalt kost een uur; daardoor kan ik in een batch meer dan vier namen bekijken. Zit ik na een dag nog in fase 2, dan pak ik het [vastloopprotocol](Bijlagen/04-Vastloop-Protocol.md) erbij: meestal ben ik dan aan het verzamelen in plaats van aan het filteren.
+Enkele uren per kandidaat. Een naam die snel afvalt kost een uur, en dat is de bedoeling. Zit ik na een dag nog in fase 2, dan pak ik het [vastloopprotocol](Bijlagen/04-Vastloop-Protocol.md) erbij: meestal ben ik dan aan het verzamelen in plaats van aan het filteren.
 
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
@@ -63,4 +63,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 9 oktober 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

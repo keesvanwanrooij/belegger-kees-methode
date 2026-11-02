@@ -4,6 +4,8 @@ Waardering is voor mij een manier om mijn verwachtingen zichtbaar te maken. Ik w
 
 Dit is het langste hoofdstuk van het manifesto, en dat is bewust. Hier staat welke cijfers ik uit een jaarverslag haal en waar ze staan, wat het verschil is tussen de kasstroom voor het hele bedrijf en de kasstroom voor de aandeelhouder, waar IFRS en US GAAP mijn getallen anders maken, welke parameters ik schat, hoe ik de eindwaarde kies en hoe het model in Excel staat. De afleidingen achter de formules staan in [de bijlage](#bijlage-de-formules-die-eronder-liggen), zodat je de uitleg kunt volgen zonder ze eerst door te werken.
 
+Ik gebruik twee rekenmethoden, elk voor een eigen vraag. De uitgebreide analyse gebruikt het winstmodel uit 6.1 tot en met 6.8, want daar neem ik mijn besluit. De snelle analyse gebruikt [een korte omgekeerde DCF](#69-de-korte-route-omgekeerde-dcf-op-de-aangepaste-vrije-kasstroom), want daar wil ik snel weten of ik moet stoppen.
+
 ## 6.1 Wat ik uit een waardering wil halen
 
 Mijn model rekent verwachte toekomstige kasstromen terug naar hun waarde van vandaag. Dat is wat DCF betekent: discounted cash flow. Het loopt over jaren 1 tot en met 11, met mijn investering in jaar 0. Aan het einde van jaar 11 schat ik wat het aandeel dan waard is met een exit multiple: een koers-winstverhouding waartegen de markt het bedrijf dan naar mijn verwachting waardeert. Gordon Growth, een formule voor de waarde van kasstromen die daarna blijven groeien, gebruik ik alleen als controle.
@@ -261,6 +263,65 @@ Bij een koers van 100 en een berekende waarde van 130 is de koersruimte 30 proce
 
 Verandert er iets in de cijfers, dan werk ik het model bij en bewaar ik de aannames, bronnen en rekendatum. Het [universumoverzicht](07-Universum-Beheren.md) laat zien wanneer ik een waardering voor het laatst heb bekeken. Instappen, aanhouden en verkopen staan in [hoofdstuk 8](08-Timing.md).
 
+## 6.9 De korte route: omgekeerde DCF op de aangepaste vrije kasstroom
+
+In de snelle analyse wil ik in een half uur weten welke groei de koers vraagt. Daar is een rekensom met één kasstroom en één onbekende genoeg. Deze route waardeert het bedrijf en de kaspositie apart: de kasstromen van het bedrijf verdisconteer ik, en de netto cash tel ik één keer op.
+
+### De aangepaste vrije kasstroom
+
+```text
+Aangepaste FCF = operationele kasstroom
+                 - investeringen, inclusief geactiveerde software
+                 - aandelenbeloning
+                 - rente-inkomsten na belasting
+                 + rente-uitgaven na belasting
+```
+
+Elke correctie heeft een reden.
+
+- **Rente-inkomsten en rente-uitgaven gaan eruit.** Rente hoort bij de kaspositie en de schuld, en die verrekent de stap van ondernemingswaarde naar aandelenwaarde al. Blijft de rente in de kasstroom terwijl ik de cash ook optel, dan tel ik dezelfde bankrekening twee keer.
+- **Aandelenbeloning is een kost.** Personeel betalen in aandelen is hetzelfde als betalen in geld en de aandelen terugkopen. Ik trek de beloning af en houd het aantal aandelen daarna vlak.
+- **Een normale belastingdruk.** Is de betaalde belasting tijdelijk lager dan de belastinglast, bijvoorbeeld door compensabele verliezen, dan reken ik met de belastinglast en noteer ik wanneer het verschil eindigt.
+- **Leases.** Onder US GAAP zit de betaling van een operationele lease al in de operationele kasstroom, dus de leaseverplichting trek ik niet nog eens af. Onder IFRS 16 trek ik de leasebetalingen af van de vrije kasstroom.
+
+### De rekensom
+
+```text
+Ondernemingswaarde vandaag = koers × verwaterde aandelen - netto cash
+
+FCF_t       = aangepaste FCF × (1 + x)^t,  voor t = 1 tot en met 10
+Eindwaarde  = FCF_10 × (1 + g) / (r - g)
+
+Modelwaarde = som van FCF_t / (1 + r)^t  +  eindwaarde / (1 + r)^10
+```
+
+Ik zoek de groei x waarbij de modelwaarde gelijk is aan de ondernemingswaarde van vandaag. Daarbij is r de discount rate, doorgaans 10 procent en tussen 8 en 12 als het risico dat onderbouwt, en g de eeuwige groei van 2 tot 3 procent. Die x zet ik naast de groei die het bedrijf heeft laten zien en naast de consensus.
+
+De eindwaarde bevat een multiple: (1 + g) / (r - g) is de EV/FCF die uit mijn aannames volgt. Die leg ik naast de EV/FCF van sectorgenoten als controle. Bij deze route blijft alles op het niveau van de onderneming: EV/FCF hoort bij de aangepaste FCF, en P/E hoort bij de nettowinst van het winstmodel.
+
+De marktkapitalisatie reken ik met de uitstaande aandelen van de voorpagina van het laatste verslag. Voor de ondernemingswaarde en de waarde per aandeel gebruik ik het verwaterde gewogen aantal van het laatste kwartaal, want dat vindt een lezer terug in de toelichting op de winst per aandeel. Een grote inkoop of uitgifte daarna noem ik erbij.
+
+### Mijn eigen verwachting en een slecht scenario
+
+Daarna reken ik twee waarden per aandeel uit: (modelwaarde + netto cash) / verwaterde aandelen. Het basisscenario gebruikt mijn eigen groei. Het slechte scenario gaat uit van het slechtste jaar uit de geschiedenis van het bedrijf op de huidige kostenbasis. Twee getallen zijn genoeg om te zien of de rest van het onderzoek de moeite waard is. Drie scenario's met kansen komen pas in de uitgebreide analyse.
+
+Een fictief rekenvoorbeeld: een aangepaste FCF van 100, een koers van 40, 40 miljoen verwaterde aandelen en een netto cash van 200, alles in miljoenen behalve de koers. De ondernemingswaarde is 40 × 40 - 200 = 1.400. Bij r van 10 procent en g van 2,5 procent verklaart een groei van ongeveer 2,8 procent per jaar die waarde. De eindwaarde is dan 13,7 keer de kasstroom. Met 8 procent eigen groei is de modelwaarde ongeveer 2.043, en de waarde per aandeel (2.043 + 200) / 40 is ongeveer 56. Een slecht scenario met een FCF van 60 en daarna 3 procent groei geeft een modelwaarde van ongeveer 850 en ongeveer 26 per aandeel. Dit voorbeeld laat alleen zien hoe de rekensom loopt.
+
+### De twee methoden uit elkaar houden
+
+| | Korte route, snelle analyse | Winstmodel, uitgebreide analyse |
+| --- | --- | --- |
+| Vraag | Welke groei vraagt de koers, en moet ik stoppen? | Welk rendement volgt uit mijn scenario's, en bij welke prijs koop ik? |
+| Kasstroom | Aangepaste FCF van het bedrijf, zonder rente | Nettowinst × kasstroomconversie, voor de aandeelhouder |
+| Rente en cash | Rente eruit, netto cash één keer erbij | Rente zit in de winst, cash komt er niet apart bij |
+| Aandelenbeloning | Aftrekken, aantal aandelen vlak | In de nettowinst, verwatering apart in het aantal aandelen |
+| Eindwaarde | Eeuwige groei, EV/FCF als controle | Exit P/E op jaar 11, Gordon als controle |
+| Uitkomst | Ingeprijsde groei, waarde per aandeel in twee scenario's | Intern rendement en koopzone uit drie scenario's |
+
+Elke kolom klopt op zichzelf, en de fouten ontstaan als je ze mengt. Daarom controleer ik elke berekening op drie vragen. Zit de rente in de kasstroom en tel ik de cash ook op? Trek ik aandelenbeloning af en laat ik het aantal aandelen ook groeien of krimpen? Staat er een P/E op een kasstroom van de onderneming, of een EV/FCF op een winst voor de aandeelhouder?
+
+De korte route werkt het best bij een bedrijf met weinig schuld, omdat mijn rendementseis dan dicht bij de gewogen vermogenskosten ligt. Bij een negatieve of heel kleine aangepaste FCF zegt de rekensom weinig, en begin ik bij het pad naar winst uit check 7. Voor life sciences, banken en vastgoed uit [universum G en H](03-Screening-Systeem.md#32-de-acht-universums) gebruik ik de maatstaven die bij die bedrijven horen.
+
 ## Bijlage: de formules die eronder liggen
 
 Dit deel is er om na te rekenen. Je hebt het niet nodig om de methode te begrijpen.
@@ -332,8 +393,10 @@ Elke post komt één keer voor. Een leaseverplichting die al in de kasstroom is 
 
 Correctie van 12 september 2026: dit hoofdstuk beschrijft het model nu als winstmodel met kasstroomconversie in plaats van een opbouw van de vrije kasstroom regel voor regel. De secties over de jaarrekening onder IFRS en US GAAP en over leases zijn nieuw. De rekenvoorbeelden zijn ongewijzigd.
 
+Aanvulling van 2 november 2026: de snelle analyse rekent nu met een korte omgekeerde DCF op de aangepaste vrije kasstroom, zie 6.9. Het winstmodel blijft de methode van de uitgebreide analyse.
+
 De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. Beleggen brengt risico's met zich mee. De waarde van beleggingen kan fluctueren en je kunt je inleg verliezen. Resultaten uit het verleden bieden geen garantie voor de toekomst. Raadpleeg een erkende financieel adviseur voor advies op maat. Belegger Kees is geen geregistreerde beleggingsonderneming bij de AFM.
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
