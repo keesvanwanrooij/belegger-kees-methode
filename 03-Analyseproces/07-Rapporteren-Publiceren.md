@@ -6,7 +6,7 @@ Mijn Engelstalige artikelen op Seeking Alpha maak ik met een aparte werkwijze; d
 
 ## Doel
 
-Een tekst waarin de lezer kan volgen waar mijn conclusie vandaan komt, kan zien waar ik onzeker ben, en begrijpt waarom ik een risico anders beoordeel dan de markt. Zonder koersdoel, zonder koopadvies, met mijn positie en belangen op de publicatiedatum erbij.
+Een tekst waarin de lezer kan volgen waar mijn conclusie vandaan komt, kan zien waar ik onzeker ben, en begrijpt waarom ik een risico anders beoordeel dan de markt. Zonder koopadvies, met mijn positie en belangen op de publicatiedatum erbij, en bij een koersdoel of waardering de methode, de aannames en de rekendatum.
 
 ## Wat ik klaarzet
 
@@ -16,7 +16,7 @@ Het afgeronde dossier uit [stap 3](03-Uitgebreid-Analyseren.md) en [stap 4](04-W
 
 `Onderzoeksrapport.docx` volgt de opbouw uit [hoofdstuk 9](../02-Manifesto/09-Rapportage.md): de onderzoeksvraag, conclusie en belangrijkste onzekerheid; wat het bedrijf doet; waarom ik ernaar kijk en wat de markt mogelijk anders ziet; wat de cijfers, bronnen en calls mij vertellen; mijn verwachtingen, scenario's en waardering; wat fout kan gaan en welke signalen ik volg; mijn afweging, datum en positie; bronnen en links naar de methode.
 
-`Blogpost.docx` is korter: de aanleiding, wat het bedrijf doet in gewone taal, de cijfers die ertoe doen, het parametermodel, wat mij zorgen baart, en een vraag aan de lezer. Geen koersdoel en geen conclusie die als advies gelezen kan worden.
+`Blogpost.docx` is korter: de aanleiding, wat het bedrijf doet in gewone taal, de cijfers die ertoe doen, het parametermodel, wat mij zorgen baart, en een vraag aan de lezer. Geen conclusie die als advies gelezen kan worden, en een koersdoel of waardering alleen met de methode, de aannames en de rekendatum erbij.
 
 ## Hoe ik het doe
 
@@ -58,4 +58,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 9 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

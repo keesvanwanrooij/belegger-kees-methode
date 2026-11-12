@@ -36,7 +36,7 @@ Een gelijkblijvende marge betekent niet dat groei niets oplevert. Meer omzet kan
 
 Bij winstgevende bedrijven kan ik de koers-winstverhouding en verwachte winstgroei naast elkaar leggen. PEG is de koers-winstverhouding gedeeld door de verwachte winstgroei als getal, dus 15 bij 15 procent groei. Het groeipercentage, de gekozen periode en de kwaliteit van de winst zijn daarbij bepalend. Rente-inkomsten op een grote kaspositie of een eenmalige belastingpost kunnen een aandeel goedkoop laten lijken, dus ik reken de koers-winstverhouding ook zonder die posten en vergelijk op dezelfde basis met sectorgenoten.
 
-Waarden rond 1 tot 1,5 kunnen mij aanleiding geven om verder te kijken; een hogere waarde vraagt meer uitleg. Er is geen automatische afwijzing boven 2; de grens van 1,5 uit mijn [GARP-regels](../../02-Manifesto/01-Beleggingsfilosofie.md) is een richtlijn waarvan ik gemotiveerd kan afwijken. Bij negatieve, zeer lage of sterk cyclische winst kan PEG weinig bruikbaar zijn.
+Een PEG onder 1,0 vind ik aantrekkelijk, en tussen 1,0 en 1,5 kan een bedrijf ook interessant zijn. Boven 1,5 kijk ik alleen verder als de [prijs-kwaliteitmatrix](../../02-Manifesto/01-Beleggingsfilosofie.md#de-prijs-kwaliteitmatrix) laat zien dat de kwaliteit die prijs waard is; dat is regel 1 van mijn [GARP-regels](../../02-Manifesto/01-Beleggingsfilosofie.md#17-garp-in-de-praktijk). Bij negatieve, zeer lage of sterk cyclische winst kan PEG weinig bruikbaar zijn.
 
 ### 6. Kan het bedrijf een tegenvaller financieren?
 
@@ -112,4 +112,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 12 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

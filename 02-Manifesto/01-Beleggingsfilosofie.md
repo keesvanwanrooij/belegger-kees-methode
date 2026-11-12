@@ -139,7 +139,7 @@ GARP staat voor growth at a reasonable price, oftewel groei tegen een redelijke 
 
 Mijn vijf regels:
 
-Regel 1. Ik betaal nooit meer dan anderhalf keer de verwachte groei, dus een PEG-ratio onder 1,5. Onder 1,0 wordt het aantrekkelijk.
+Regel 1. Een PEG-ratio onder 1,0 vind ik aantrekkelijk, maar die grens houd ik niet streng aan: tussen 1,0 en 1,5 kan een bedrijf ook interessant zijn. Boven 1,5 koop ik normaal niet. Alleen als de [prijs-kwaliteitmatrix](#de-prijs-kwaliteitmatrix) laat zien dat de kwaliteit die prijs waard is, kijk ik verder.
 
 Regel 2. De groei moet structureel zijn en niet eenmalig. Een inhaaleffect na corona, een subsidie of een overname is geen groei maar een boekhoudkundig verschijnsel.
 
@@ -231,4 +231,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 13 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 12 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

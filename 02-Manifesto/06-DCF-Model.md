@@ -1,6 +1,6 @@
 # DCF, exit multiple en intern rendement: hoe ik een bedrijf waardeer
 
-Waardering is voor mij een manier om mijn verwachtingen zichtbaar te maken. Ik wil weten welk rendement per jaar uit mijn aannames volgt en hoeveel risico ik daarvoor neem. Die verhouding vergelijk ik met de andere kansen op mijn lijst. Een koersdoel publiceer ik niet, want de uitkomst hangt volledig af van aannames die van mij zijn. Wat ik wel laat zien is hoe ik reken, welke cijfers ik gebruik en waar ik onzeker ben.
+Waardering is voor mij een manier om mijn verwachtingen zichtbaar te maken. Ik wil weten welk rendement per jaar uit mijn aannames volgt en hoeveel risico ik daarvoor neem. Die verhouding vergelijk ik met de andere kansen op mijn lijst. Een koersdoel noem ik alleen met de methode, de aannames, de rekendatum en mijn eigen positie erbij, want de uitkomst hangt volledig af van aannames die van mij zijn. Daarom laat ik zien hoe ik reken, welke cijfers ik gebruik en waar ik onzeker ben.
 
 Dit is het langste hoofdstuk van het manifesto, en dat is bewust. Hier staat welke cijfers ik uit een jaarverslag haal en waar ze staan, wat het verschil is tussen de kasstroom voor het hele bedrijf en de kasstroom voor de aandeelhouder, waar IFRS en US GAAP mijn getallen anders maken, welke parameters ik schat, hoe ik de eindwaarde kies en hoe het model in Excel staat. De afleidingen achter de formules staan in [de bijlage](#bijlage-de-formules-die-eronder-liggen), zodat je de uitleg kunt volgen zonder ze eerst door te werken.
 
@@ -399,4 +399,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 9 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

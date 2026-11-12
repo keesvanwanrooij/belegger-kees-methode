@@ -20,7 +20,7 @@ Er staat op dit moment nog geen volledig uitgewerkt onderzoeksrapport in de anal
 
 ## Wat een openbaar dossier wel en niet is
 
-Een dossier laat zien hoe ik dacht op een bepaald moment, met de bronnen en de rekenstappen erbij, zodat je het kunt narekenen en het oneens met mij kunt zijn. Het bevat geen koersdoel en geen koopadvies. Een modeluitkomst is een verwachting bij mijn aannames, geen voorspelling.
+Een dossier laat zien hoe ik dacht op een bepaald moment, met de bronnen en de rekenstappen erbij, zodat je het kunt narekenen en het oneens met mij kunt zijn. Het bevat geen koopadvies. Staat er een koersdoel of waardering in, dan met de methode, de aannames, de rekendatum en mijn positie erbij. Een modeluitkomst is een verwachting bij mijn aannames, geen voorspelling.
 
 Een fout corrigeer ik zichtbaar in het dossier zelf, met datum, oude strekking, juiste uitleg en bron. Een afweging die ik ooit maakte, herschrijf ik niet achteraf.
 
@@ -32,4 +32,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 21 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 9 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.

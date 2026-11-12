@@ -28,7 +28,7 @@ Mijn ambitie is om met Belegger Kees een herkenbare naam te worden voor NLP voor
 
 Ik screen per kwartaal in acht universums, kies met een snelle analyse waar mijn volgende twintig onderzoeksuren heen gaan, en werk een bedrijf daarna uit tot ik mijn verwachtingen kan uitleggen en verdedigen. Het rekenwerk gebeurt in [mijn eigen werkboeken](../05-Resources/Templates/README.md), het schrijfwerk volgt [hoofdstuk 9](../02-Manifesto/09-Rapportage.md). AI zoekt, ordent, rekent na en denkt tegen; de zes cijfers die een waardering dragen controleer ik zelf bij de bron, en het oordeel is van mij. Hoe ik dat verantwoord staat in [hoofdstuk 10](../02-Manifesto/10-AI-Werkwijze.md).
 
-Wat ik publiceer, publiceer ik als aandelenanalyse of onderzoeksrapport: navolgbaar, met bronnen en datums, met mijn positie en belangen op de publicatiedatum, en zonder koersdoel of koopadvies. Een fout corrigeer ik zichtbaar. Ik ben een particuliere belegger en geen geregistreerde beleggingsonderneming; mijn analyses laten zien hoe ik denk, niet wat jij moet doen.
+Wat ik publiceer, publiceer ik als aandelenanalyse of onderzoeksrapport: navolgbaar, met bronnen en datums, met mijn positie en belangen op de publicatiedatum, zonder koopadvies, en bij een koersdoel of waardering met de methode, de aannames en de rekendatum erbij. Een fout corrigeer ik zichtbaar. Ik ben een particuliere belegger en geen geregistreerde beleggingsonderneming; mijn analyses laten zien hoe ik denk, niet wat jij moet doen.
 
 ## Hoe ik vertrouwen wil opbouwen
 
@@ -52,4 +52,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 14 september 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 9 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
