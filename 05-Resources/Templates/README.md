@@ -20,7 +20,18 @@ Werkversie betekent: de formules zijn in Excel doorgerekend en gecontroleerd met
 
 ## Wat alle werkboeken gemeen hebben
 
-Lichtblauw is een invoercel, geen kleur is een formule en lichtgeel is een controlecel die In orde toont of een melding geeft. Grijs is een kopregel. Alleen de kopregel staat vast; de uitleg staat op Lees mij.
+Ik bouw mijn Excel-modellen met de standaardkleuren van Excel, zodat ik in elk werkboek meteen zie wat een cel doet:
+
+| Opmaak | Betekenis |
+| --- | --- |
+| Blauwe tekst (standaardkleur Blauw) | Ingevuld: een vast gegeven dat ik uit een bron overneem of zelf intyp, zoals een ticker, een jaarcijfer of een sectorindeling |
+| Zwarte tekst | Berekening: een formule |
+| Gele opvulling (standaardkleur Geel) | Invoer: een cel die ik kies of aanpas en waar het model op draait, zoals een aanname of een koppeling aan het gegevenstype Aandelen |
+| Lichtblauwe opvulling (standaardkleur Lichtblauw) | Uitkomst: wat het model oplevert |
+
+De kopregel is vet en staat vast. Lees mij legt deze kleuren in elk werkboek uit.
+
+De vijf templates hieronder hebben deze kleuren nog niet. Daarin is lichtblauw een invoercel, geen kleur een formule, lichtgeel een controlecel die In orde toont of een melding geeft, en grijs een kopregel. Ik zet ze om wanneer ik ze in Excel bijwerk.
 
 Het screeningwerkboek wijkt daarvan af. Dat heb ik zelf ingericht zoals ik een ronde werkelijk doe: geen kleurcodes, geen keuzelijsten en geen velden die mij tijdens het screenen niet helpen kiezen. Ik vul alleen Kandidaten in; Ronde rekent zichzelf uit.
 
@@ -52,4 +63,4 @@ De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en
 
 ---
 
-Bijgewerkt: 2 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
+Bijgewerkt: 13 november 2026. Auteur: Kees van Wanrooij, Belegger Kees. Status: Openbare werkversie; ik verbeter deze methode door haar te gebruiken en helder uit te leggen.
