@@ -129,7 +129,7 @@ Elk aandeel dat ik analyseer, deel ik eerst in bij een categorie. Die keuze bepa
 | Categorie   | Groei                      | Verwachting                                         |
 |-------------|----------------------------|-----------------------------------------------------|
 | Fast grower | Boven 20 procent per jaar  | Mijn hoofdcategorie. Hier zit de kans op 10-baggers |
-| Stalwart    | 10 tot 20 procent per jaar | Solide, 30 tot 50 procent koerswinst realistisch    |
+| Stalwart    | 10 tot 20 procent per jaar | Solide en voorspelbaar. Hier zoek ik geen veelvoud maar een redelijke prijs voor zekere groei |
 | Turnaround  | Van verlies naar winst     | Hoog risico, alleen als de schuld beheersbaar is    |
 | Cyclical    | Wisselend, volgt de cyclus | Timing bepaalt alles. Kopen in het dal              |
 | Slow grower | Onder 10 procent per jaar  | Een dividendspel zonder veelvoud |
