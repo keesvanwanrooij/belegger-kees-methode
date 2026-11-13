@@ -59,7 +59,7 @@ Ik onderzoek welke verwachtingen bij de huidige prijs kunnen passen. Eerst kijk 
 
 Er is niet één unieke verwachting uit een beurskoers af te lezen. Verschillende combinaties van groei, risico en eindwaarde kunnen dezelfde prijs geven. Ik gebruik deze berekening om mijn vragen scherper te maken.
 
-Daarna zet ik een eerste eigen verwachting ernaast, en een slecht scenario: het slechtste jaar uit de geschiedenis van het bedrijf op de huidige kostenbasis. Het [waarderingshoofdstuk](06-DCF-Model.md#69-de-korte-route-omgekeerde-dcf-op-de-aangepaste-vrije-kasstroom) legt uit hoe ik dat reken, en waarom de uitgebreide analyse een ander model gebruikt.
+Daarna reken ik drie scenario's: bear (het slechtste jaar uit de geschiedenis van het bedrijf op de huidige kostenbasis), base (mijn eerste eigen verwachting) en bull (de doelen van het bedrijf worden gehaald), met een gewogen gemiddelde van 25, 50 en 25 procent. Dat is een modelwaarde, geen koersdoel. Het [waarderingshoofdstuk](06-DCF-Model.md#69-de-korte-route-omgekeerde-dcf-op-de-aangepaste-vrije-kasstroom) legt uit hoe ik dat reken, en waarom de uitgebreide analyse een ander model gebruikt.
 
 ### Fase 4: prijs-kwaliteitmatrix
 

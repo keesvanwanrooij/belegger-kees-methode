@@ -20,16 +20,16 @@ Werkversie betekent: de formules zijn in Excel doorgerekend en gecontroleerd met
 
 ## Wat alle werkboeken gemeen hebben
 
-Ik bouw mijn Excel-modellen met de standaardkleuren van Excel, zodat ik in elk werkboek meteen zie wat een cel doet:
+Ik bouw mijn Excel-modellen met de standaardkleuren van Excel, zodat ik bij elk getal meteen zie waar het vandaan komt:
 
 | Opmaak | Betekenis |
 | --- | --- |
-| Blauwe tekst (standaardkleur Blauw) | Ingevuld: een vast gegeven dat ik uit een bron overneem of zelf intyp, zoals een ticker, een jaarcijfer of een sectorindeling |
-| Zwarte tekst | Berekening: een formule |
-| Gele opvulling (standaardkleur Geel) | Invoer: een cel die ik kies of aanpas en waar het model op draait, zoals een aanname of een koppeling aan het gegevenstype Aandelen |
-| Lichtblauwe opvulling (standaardkleur Lichtblauw) | Uitkomst: wat het model oplevert |
+| Blauw getal (standaardkleur Blauw) | Ingevuld: een vast getal dat ik uit een bron overneem of zelf intyp, zoals een jaarcijfer of een slotkoers |
+| Zwart getal | Berekening: een formule |
+| Gele opvulling (standaardkleur Geel) | Invoer: een getal dat ik kies en waar het model op draait, zoals een groeiaanname of de disconteringsvoet |
+| Lichtblauwe opvulling (standaardkleur Lichtblauw) | Uitkomst: het getal dat het model oplevert |
 
-De kopregel is vet en staat vast. Lees mij legt deze kleuren in elk werkboek uit.
+De kleuren gelden alleen voor getallen. Tekst, zoals een ticker, een ISIN of een sectorindeling, blijft zwart en zonder opvulling. De kopregel is vet en staat vast, zonder het venster te splitsen. Lees mij legt deze kleuren in elk werkboek uit.
 
 De vijf templates hieronder hebben deze kleuren nog niet. Daarin is lichtblauw een invoercel, geen kleur een formule, lichtgeel een controlecel die In orde toont of een melding geeft, en grijs een kopregel. Ik zet ze om wanneer ik ze in Excel bijwerk.
 

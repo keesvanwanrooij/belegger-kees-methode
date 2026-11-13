@@ -20,6 +20,8 @@ Ik schrijf de omzet uit in een beperkt aantal parameters, bijvoorbeeld vestiging
 
 Drie tot vijf keer omzet in tien jaar is een bruikbare groeivraag, geen universele ondergrens. Het komt overeen met ongeveer 11,6 tot 17,5 procent samengestelde jaarlijkse groei. Een aandeel kan ook op een andere manier aantrekkelijk zijn; ik moet dan uitleggen waarom dat bij mijn methode past.
 
+Voor deze check telt alleen autonome groei: groei zonder overnames. Ik splits de groei daarom altijd in autonoom en gekocht. Groeit het bedrijf autonoom niet dubbelcijferig, dan stop ik hier, ook als overnames de totale omzet hard laten stijgen (besluit, 13 november 2026).
+
 ### 3. Begrijp ik hoe het bedrijf geld verdient?
 
 Ik probeer het verdienmodel en de belangrijkste verwachting in gewone woorden uit te leggen. Bij onduidelijkheid bepaal ik of gericht onderzoek mij verder kan helpen of dat een andere kandidaat beter past.
@@ -66,7 +68,7 @@ Ik hoef niet ieder tegenargument te weerleggen. Soms ligt het verschil in prijs,
 
 Een [verkorte omgekeerde DCF](../../02-Manifesto/06-DCF-Model.md#69-de-korte-route-omgekeerde-dcf-op-de-aangepaste-vrije-kasstroom) op de aangepaste vrije kasstroom helpt mij onderzoeken welke groei nodig is om de koers te verklaren. Ik houd andere aannames zichtbaar constant. De koers onthult niet één unieke set marktverwachtingen.
 
-Ik zet de ingeprijsde groei naast wat het bedrijf heeft laten zien, en mijn eigen verwachting en een slecht scenario naast risico en alternatieven. Een vaste veiligheidsmarge of technische toets bepaalt niet automatisch of ik door moet. Voor een volledige waardering gebruik ik het winstmodel uit het [DCF-hoofdstuk](../../02-Manifesto/06-DCF-Model.md).
+Ik zet de ingeprijsde groei naast wat het bedrijf heeft laten zien, en mijn bear, base en bull met het gewogen gemiddelde naast risico en alternatieven. Een vaste veiligheidsmarge of technische toets bepaalt niet automatisch of ik door moet. Voor een volledige waardering gebruik ik het winstmodel uit het [DCF-hoofdstuk](../../02-Manifesto/06-DCF-Model.md).
 
 ## Zes aanvullende onderzoeksvragen
 

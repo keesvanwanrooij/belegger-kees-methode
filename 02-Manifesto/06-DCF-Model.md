@@ -301,11 +301,17 @@ De eindwaarde bevat een multiple: (1 + g) / (r - g) is de EV/FCF die uit mijn aa
 
 De marktkapitalisatie reken ik met de uitstaande aandelen van de voorpagina van het laatste verslag. Voor de ondernemingswaarde en de waarde per aandeel gebruik ik het verwaterde gewogen aantal van het laatste kwartaal, want dat vindt een lezer terug in de toelichting op de winst per aandeel. Een grote inkoop of uitgifte daarna noem ik erbij.
 
-### Mijn eigen verwachting en een slecht scenario
+### Bear, base en bull, en een gewogen gemiddelde
 
-Daarna reken ik twee waarden per aandeel uit: (modelwaarde + netto cash) / verwaterde aandelen. Het basisscenario gebruikt mijn eigen groei. Het slechte scenario gaat uit van het slechtste jaar uit de geschiedenis van het bedrijf op de huidige kostenbasis. Twee getallen zijn genoeg om te zien of de rest van het onderzoek de moeite waard is. Drie scenario's met kansen komen pas in de uitgebreide analyse.
+Daarna reken ik drie waarden per aandeel uit, steeds (modelwaarde + netto cash) / verwaterde aandelen, met dezelfde r van 10 procent en g van 2,5 procent:
 
-Een fictief rekenvoorbeeld: een aangepaste FCF van 100, een koers van 40, 40 miljoen verwaterde aandelen en een netto cash van 200, alles in miljoenen behalve de koers. De ondernemingswaarde is 40 × 40 - 200 = 1.400. Bij r van 10 procent en g van 2,5 procent verklaart een groei van ongeveer 2,8 procent per jaar die waarde. De eindwaarde is dan 13,7 keer de kasstroom. Met 8 procent eigen groei is de modelwaarde ongeveer 2.043, en de waarde per aandeel (2.043 + 200) / 40 is ongeveer 56. Een slecht scenario met een FCF van 60 en daarna 3 procent groei geeft een modelwaarde van ongeveer 850 en ongeveer 26 per aandeel. Dit voorbeeld laat alleen zien hoe de rekensom loopt.
+- **Bear**: het slechte scenario. Het slechtste jaar uit de geschiedenis van het bedrijf op de huidige kostenbasis, of een benoemde klap die bij dit bedrijf past, met weinig of geen groei daarna.
+- **Base**: mijn eigen, onderbouwde verwachting voor de groei van de aangepaste FCF.
+- **Bull**: de doelen van het bedrijf worden gehaald, of de groei van nu houdt aan.
+
+Het gewogen gemiddelde telt bear voor 25 procent, base voor 50 procent en bull voor 25 procent (besluit, 13 november 2026). Bij elke groei zet ik de onderbouwing en bij een eigen inschatting `[aanname]`. De uitkomst is een modelwaarde met aannames en een rekendatum, geen koersdoel; hij laat zien of de rest van het onderzoek de moeite waard is. Bij een negatieve of heel kleine aangepaste FCF reken ik geen waarde en leg ik uit waarom. De koopzone en het rendement komen pas uit het winstmodel in de uitgebreide analyse.
+
+Een fictief rekenvoorbeeld: een aangepaste FCF van 100, een koers van 40, 40 miljoen verwaterde aandelen en een netto cash van 200, alles in miljoenen behalve de koers. De ondernemingswaarde is 40 × 40 - 200 = 1.400. Bij r van 10 procent en g van 2,5 procent verklaart een groei van ongeveer 2,8 procent per jaar die waarde. De eindwaarde is dan 13,7 keer de kasstroom. Met 8 procent eigen groei (base) is de modelwaarde ongeveer 2.043, en de waarde per aandeel (2.043 + 200) / 40 is ongeveer 56. Een bear met een FCF van 60 en daarna 3 procent groei geeft een modelwaarde van ongeveer 850 en ongeveer 26 per aandeel. Een bull met 12 procent groei geeft een modelwaarde van ongeveer 2.742 en ongeveer 74 per aandeel. Het gewogen gemiddelde is 0,25 × 26 + 0,5 × 56 + 0,25 × 74 = ongeveer 53. Dit voorbeeld laat alleen zien hoe de rekensom loopt.
 
 ### De twee methoden uit elkaar houden
 
@@ -316,7 +322,7 @@ Een fictief rekenvoorbeeld: een aangepaste FCF van 100, een koers van 40, 40 mil
 | Rente en cash | Rente eruit, netto cash één keer erbij | Rente zit in de winst, cash komt er niet apart bij |
 | Aandelenbeloning | Aftrekken, aantal aandelen vlak | In de nettowinst, verwatering apart in het aantal aandelen |
 | Eindwaarde | Eeuwige groei, EV/FCF als controle | Exit P/E op jaar 11, Gordon als controle |
-| Uitkomst | Ingeprijsde groei, waarde per aandeel in twee scenario's | Intern rendement en koopzone uit drie scenario's |
+| Uitkomst | Ingeprijsde groei, waarde per aandeel in bear, base en bull, gewogen gemiddelde 25/50/25 | Intern rendement en koopzone uit drie scenario's |
 
 Elke kolom klopt op zichzelf, en de fouten ontstaan als je ze mengt. Daarom controleer ik elke berekening op drie vragen. Zit de rente in de kasstroom en tel ik de cash ook op? Trek ik aandelenbeloning af en laat ik het aantal aandelen ook groeien of krimpen? Staat er een P/E op een kasstroom van de onderneming, of een EV/FCF op een winst voor de aandeelhouder?
 
