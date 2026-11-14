@@ -35,7 +35,7 @@ Wil je vooral leren waarderen? Lees de [uitgebreide analyse](02-Manifesto/05-Uit
 
 Elke map begint met een README die je terugbrengt naar deze startpagina en naar relevante vervolgstappen. De openbare methode is zelfstandig leesbaar; interne strategie en persoonlijke werkdossiers maken geen deel uit van de publieke uitleg.
 
-Werk je als AI-agent aan de repository, lees dan [de agentstartpagina](CLAUDE.md) voordat je wijzigingen aanbrengt.
+Werk je als AI-agent aan de repository, lees dan [de afspraken voor agents](AGENTS.md) voordat je wijzigingen aanbrengt.
 
 ## Mijn manier van aandelen analyseren
 

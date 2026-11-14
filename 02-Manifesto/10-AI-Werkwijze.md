@@ -77,7 +77,7 @@ Aan het einde van een sessie wil ik kunnen terugzien wat er is gevonden, wat is 
 
 De uitkomst mag zijn dat ik verder onderzoek doe, op nieuwe informatie wacht of mijn tijd aan een andere kandidaat besteed. De AI-uitvoer is een bijdrage aan dat besluit, niet het besluit zelf.
 
-Werk je als AI-agent aan deze repository, lees dan eerst [de agentstartpagina](../CLAUDE.md).
+Werk je als AI-agent aan deze repository, lees dan eerst [de afspraken voor agents](../AGENTS.md).
 
 ## Verder lezen
 

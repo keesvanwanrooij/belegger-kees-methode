@@ -20,7 +20,7 @@ OUT = os.path.join(ROOT, "_site")
 CFG = json.load(open(os.path.join(SITE_DIR, "config.json"), encoding="utf-8"))
 SITE_URL = os.environ.get("SITE_URL", CFG["site_url"]).rstrip("/")
 BASE = urlparse(SITE_URL).path.rstrip("/")          # "/belegger-kees-methode" of ""
-EXCLUDE_MD = {"CLAUDE.md", "AGENTS.md"}             # blijven alleen op GitHub
+EXCLUDE_MD = {"CLAUDE.md", "AGENTS.md"}             # CLAUDE.md is privé (lokaal), AGENTS.md alleen op GitHub
 TODAY = date.today().isoformat()
 
 DISCLAIMER = ("De content op Belegger Kees is uitsluitend bedoeld voor educatieve doeleinden en vormt geen persoonlijk beleggingsadvies. "
